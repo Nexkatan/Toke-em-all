@@ -116,3 +116,16 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
+
+#-------------------------------
+[YOUNGSTER,Neighbour]
+LoseText = That was so COOOL
+Pokemon = PIKACHU, 5
+	Moves = QUICKATTACK,THUNDERSHOCK,TAILWHIP
+	AbilityIndex = 0
+	Gender = male
+	Item = SITRUSBERRY
+Pokemon = SPEAROW, 3
+	Moves = TACKLE,TAILWHIP, GUST
+   	AbilityIndex = 0
+    	Gender = female

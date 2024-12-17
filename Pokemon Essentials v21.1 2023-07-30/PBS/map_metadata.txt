@@ -396,3 +396,8 @@ Name = Tiall Region
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+#-------------------------------
+[043]   # Church Crookham
+Name = Church Crookham
+Outdoor = true
+Bicycle = true

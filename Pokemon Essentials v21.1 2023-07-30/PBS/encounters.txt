@@ -159,8 +159,10 @@ HeadbuttHigh
 [033] # Tom's Garden
 Land,21
     30,CATERPIE,3,5
-    20,LEDYBA,3,5
-    5,NATU,3,5
+    30,LEDYBA,3,5
+    30,SPINARAK,3,5
+    5,ODDISH,3,5
+    5,SEEDOT,3,5
 #-------------------------------
 [034] # Ice Cave
 Cave,5

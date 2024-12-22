@@ -1,6 +1,6 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[001]   # Intro
+[001]   # Maps
 Name = Intro
 #-------------------------------
 [002]   # Lappet Town
@@ -26,8 +26,8 @@ ShowArea = true
 MapPosition = 0,13,11
 BattleBack = field
 #-------------------------------
-[006]   # Kurt's house
-Name = Route 1
+[006]   # Chris's house
+Name = Chris's House
 MapPosition = 0,13,11
 #-------------------------------
 [007]   # Cedolan City
@@ -152,6 +152,9 @@ MapPosition = 0,14,6
 BattleBack = field
 MapSize = 2,1101
 #-------------------------------
+[033]   # Tom's Garden
+Name = \pn's Garden
+#-------------------------------
 [034]   # Ice Cave
 Name = Route 3
 Bicycle = true
@@ -205,6 +208,14 @@ BicycleAlways = true
 MapPosition = 0,11,7
 MapSize = 1,111
 #-------------------------------
+[042]   # Tom's House
+Name = \pn's House
+#-------------------------------
+[043]   # Church Crookham
+Name = Church Crookham
+Outdoor = true
+Bicycle = true
+#-------------------------------
 [044]   # Route 6
 Name = Route 6
 Outdoor = true
@@ -234,6 +245,9 @@ MapPosition = 0,15,10
 BattleBack = rocky
 MapSize = 2,11
 Environment = Rock
+#-------------------------------
+[048]   # Redfields
+Name = Redfields Garden Centre
 #-------------------------------
 [049]   # Rock Cave 1F
 Name = Route 7
@@ -397,7 +411,24 @@ Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
-[043]   # Church Crookham
-Name = Church Crookham
-Outdoor = true
-Bicycle = true
+[076]   # Brighton
+Name = Brighton
+#-------------------------------
+[077]   # Cedar Studios
+Name = Cedar Studios
+#-------------------------------
+[078]   # Eevee's Lair
+Name = Eevee's Lair
+#-------------------------------
+[079]   # Route 1
+Name = Route 1
+#-------------------------------
+[080]   # Route 4 Cycling Road gate
+Name = Route 4 Cycling Road gate
+#-------------------------------
+[081]   # Fleet Interchange Cycling Road
+Name = Fleet Interchange
+BicycleAlways = true
+#-------------------------------
+[082]   # A281
+BicycleAlways = true

@@ -413,6 +413,8 @@ BattleBack = city
 #-------------------------------
 [076]   # Brighton
 Name = Brighton
+Bicycle = true
+MapPosition = 0,14,10
 #-------------------------------
 [077]   # Cedar Studios
 Name = Cedar Studios
@@ -422,13 +424,45 @@ Name = Eevee's Lair
 #-------------------------------
 [079]   # Route 1
 Name = Route 1
+Bicycle = true
 #-------------------------------
-[080]   # Route 4 Cycling Road gate
+[080]   # Fleet Gate
 Name = Route 4 Cycling Road gate
+Bicycle = true
 #-------------------------------
-[081]   # Fleet Interchange Cycling Road
+[081]   # Fleet Interchange
 Name = Fleet Interchange
-BicycleAlways = true
+Bicycle = true
 #-------------------------------
 [082]   # A281
+Name = A281
+Bicycle = true
 BicycleAlways = true
+#-------------------------------
+[083]   # Brighton Gate
+Name = Brighton Gate
+Bicycle = true
+#-------------------------------
+[084]   # Hove
+Name = Hove
+Bicycle = true
+#-------------------------------
+[085]   # B2066
+Name = B2066
+Bicycle = true
+#-------------------------------
+[086]
+Name = Brighton Interchange
+Bicycle = true
+#-------------------------------
+[087]   # Fleet Interchange Cycling Road
+Name = Fleet Interchange Cycling Road
+BicycleAlways = true
+#-------------------------------
+[088]   # Brighton Interchange
+Name = Brighton Interchange
+Bicycle = true
+#-------------------------------
+[089]   # A23
+Name = A23
+Bicycle = true

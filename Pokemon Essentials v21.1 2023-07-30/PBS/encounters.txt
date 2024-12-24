@@ -319,6 +319,6 @@ Land,21
     10,VULPIX_1,11,14
 #-------------------------------
 [076] # Brighton
-WildSand,100
-    100,SQUIRTLE,5
+Land,50
+    100,MAGNEMITE,5
 

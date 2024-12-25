@@ -116,12 +116,16 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
-
 #-------------------------------
 [YOUNGSTER,Neighbour]
 LoseText = That was so COOOL
-
 Pokemon = SPEAROW, 3
 	Moves = TACKLE,TAILWHIP, GUST
    	AbilityIndex = 0
     	Gender = female
+#-------------------------------
+[RIVAL1,???]
+LoseText = Well I'm keeping your bike
+Pokemon = MAGNEMITE, 13
+	Moves = TACKLE,THUNDERSHOCK,SONICBOOM
+   	AbilityIndex = 0

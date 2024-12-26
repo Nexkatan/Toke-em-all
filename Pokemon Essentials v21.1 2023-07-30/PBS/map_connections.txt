@@ -38,45 +38,29 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Church Crookham (43) - Route 1 (79)
+# Church Crookham (43) - Crondall (79)
 43,South,6,79,North,0
-# Fleet Interchange (81) - Route 1 (79)
+# Fleet Interchange (81) - Crondall (79)
 81,East,0,79,West,0
-# A23 (89) - Route 1 (79)
-89,North,9,79,South,0
-# A281 (82) - Route 1 (79)
-82,North,46,79,South,0
+# Chantrys (90) - Crondall (79)
+90,North,0,79,South,10
 # Fleet Interchange (81) - Church Crookham (43)
 81,North,40,43,South,0
 # Fleet Interchange Cycling Road (87) - Church Crookham (43)
 87,North,40,43,South,0
-# A23 (89) - Fleet Interchange (81)
-89,North,0,81,South,37
-# A281 (82) - Fleet Interchange (81)
+# A3 (82) - Fleet Interchange (81)
 82,North,0,81,South,0
-# A281 (82) - A23 (89)
-82,East,0,89,West,0
-# Fleet Interchange Cycling Road (87) - A23 (89)
-87,South,37,89,North,0
-# Brighton Interchange (88) - A23 (89)
-88,East,0,89,West,33
-# B2066 (85) - A23 (89)
-85,North,110,89,South,0
-# Brighton (76) - A23 (89)
-76,North,60,89,South,0
-# Hove (84) - A23 (89)
-84,North,160,89,South,0
-# Fleet Interchange Cycling Road (87) - A281 (82)
-87,South,0,82,North,0
-# Brighton Interchange (88) - A281 (82)
+# Brighton Interchange (88) - A3 (82)
 88,North,0,82,South,0
-# B2066 (85) - Brighton Interchange (88)
-85,North,73,88,South,0
+# Fleet Interchange Cycling Road (87) - A3 (82)
+87,South,0,82,North,0
 # Brighton (76) - Brighton Interchange (88)
 76,North,23,88,South,0
+# B2066 (85) - Brighton Interchange (88)
+85,North,73,88,South,0
 # Hove (84) - Brighton Interchange (88)
 84,North,123,88,South,0
-# Brighton (76) - B2066 (85)
-76,West,0,85,East,0
+# B2066 (85) - Brighton (76)
+85,East,0,76,West,0
 # Hove (84) - B2066 (85)
 84,East,0,85,West,0

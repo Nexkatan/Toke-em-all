@@ -124,6 +124,15 @@ Pokemon = SPEAROW, 3
    	AbilityIndex = 0
     	Gender = female
 #-------------------------------
+[STONER, Fletch]
+LoseText = Aw man I need a smoke
+Pokemon = GLOOM, 9
+#-------------------------------
+[STONER, Dixon]
+LoseText = Oii Nah
+Pokemon = SLOWPOKE, 6
+Pokemon = KOFFING, 7
+#-------------------------------
 [RIVAL1,???]
 LoseText = Well I'm keeping your bike
 Pokemon = MAGNEMITE, 13

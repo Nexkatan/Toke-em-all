@@ -11,7 +11,7 @@ MapPosition = 0,13,12
 BattleBack = field
 #-------------------------------
 [003]   # Player's house
-Name = \PN's house
+Name = \pn's house
 HealingSpot = 2,8,8
 MapPosition = 0,13,12
 #-------------------------------
@@ -26,7 +26,7 @@ ShowArea = true
 MapPosition = 0,13,11
 BattleBack = field
 #-------------------------------
-[006]   # Chris's house
+[006]   # Cucumber House
 Name = Chris's House
 MapPosition = 0,13,11
 #-------------------------------
@@ -102,6 +102,10 @@ MapPosition = 0,14,8
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
+[022]   # Gostreys
+Outdoor = true
+Bicycle = true
+#-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
 Outdoor = true
@@ -154,6 +158,8 @@ MapSize = 2,1101
 #-------------------------------
 [033]   # Tom's Garden
 Name = \pn's Garden
+Outdoor = true
+Bicycle = true
 #-------------------------------
 [034]   # Ice Cave
 Name = Route 3
@@ -248,6 +254,8 @@ Environment = Rock
 #-------------------------------
 [048]   # Redfields
 Name = Redfields Garden Centre
+Outdoor = true
+Bicycle = true
 #-------------------------------
 [049]   # Rock Cave 1F
 Name = Route 7
@@ -413,6 +421,7 @@ BattleBack = city
 #-------------------------------
 [076]   # Brighton
 Name = Brighton
+Outdoor = true
 Bicycle = true
 MapPosition = 0,14,10
 #-------------------------------
@@ -421,9 +430,11 @@ Name = Cedar Studios
 #-------------------------------
 [078]   # Eevee's Lair
 Name = Eevee's Lair
+Outdoor = true
 #-------------------------------
-[079]   # Route 1
+[079]   # Crondall
 Name = Route 1
+Outdoor = true
 Bicycle = true
 #-------------------------------
 [080]   # Fleet Gate
@@ -432,10 +443,12 @@ Bicycle = true
 #-------------------------------
 [081]   # Fleet Interchange
 Name = Fleet Interchange
+Outdoor = true
 Bicycle = true
 #-------------------------------
-[082]   # A281
+[082]   # A3
 Name = A281
+Outdoor = true
 Bicycle = true
 BicycleAlways = true
 #-------------------------------
@@ -445,24 +458,35 @@ Bicycle = true
 #-------------------------------
 [084]   # Hove
 Name = Hove
+Outdoor = true
 Bicycle = true
 #-------------------------------
 [085]   # B2066
 Name = B2066
+Outdoor = true
 Bicycle = true
 #-------------------------------
-[086]
+[086]   # Brighton Poké Center
 Name = Brighton Interchange
 Bicycle = true
 #-------------------------------
 [087]   # Fleet Interchange Cycling Road
 Name = Fleet Interchange Cycling Road
+Outdoor = true
 BicycleAlways = true
 #-------------------------------
 [088]   # Brighton Interchange
 Name = Brighton Interchange
+Outdoor = true
 Bicycle = true
 #-------------------------------
-[089]   # A23
+[089]   # A283
 Name = A23
+Outdoor = true
 Bicycle = true
+#-------------------------------
+[090]   # Chantrys
+Outdoor = true
+Bicycle = true
+#-------------------------------
+[091]   # No. 17

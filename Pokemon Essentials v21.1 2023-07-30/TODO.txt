@@ -1,0 +1,11 @@
+Fix magnemite text & fletch stairs text
+Second time out
+\pn's house
+
+Water in garden
+garden trainer goes back after leaving and reentering
+Eevee stairs
+get rid of checks on fletch event
+Rival on your bike sprites
+see what happens losing to rival
+add message about seein Eira in hove first?

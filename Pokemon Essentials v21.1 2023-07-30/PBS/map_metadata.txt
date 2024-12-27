@@ -11,7 +11,7 @@ MapPosition = 0,13,12
 BattleBack = field
 #-------------------------------
 [003]   # Player's house
-Name = \pn's house
+Name =  house
 HealingSpot = 2,8,8
 MapPosition = 0,13,12
 #-------------------------------
@@ -157,7 +157,7 @@ BattleBack = field
 MapSize = 2,1101
 #-------------------------------
 [033]   # Tom's Garden
-Name = \pn's Garden
+Name = \PN's Garden
 Outdoor = true
 Bicycle = true
 #-------------------------------
@@ -215,7 +215,7 @@ MapPosition = 0,11,7
 MapSize = 1,111
 #-------------------------------
 [042]   # Tom's House
-Name = \pn's House
+Name = \PN's House
 #-------------------------------
 [043]   # Church Crookham
 Name = Church Crookham

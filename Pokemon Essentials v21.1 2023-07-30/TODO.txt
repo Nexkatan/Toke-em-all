@@ -1,20 +1,19 @@
 Eevee stairs
 
-Joe fletch will battle after buying bag
-
 Neighbour says come back when u got a poke & change battle lose text
-
-Can't access bag from battle menu unless u have 1
 
 map signs
 
+Mum send player to redfields?
+
+Brighton Pier casino priority + new corner tiles
+
+Sort Hove cliffs & upper level
 
 Switches on:
 
 Has Eevee
-Won Magnemite if won
+Won/lost Magnemite
+bush activated if so
 Mum Stationary
-Cedar Phone Number
-
-Temp 01? - should be fixed now
-First Cedar Leave - cause got sent to pokecentre
+Cedar Phone Number if so

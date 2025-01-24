@@ -3235,6 +3235,18 @@ BattleUse = OnPokemon
 Flags = Fling_30
 Description = Milk with a very high nutrition content. It restores the HP of one Pokémon by 100 points.
 #-------------------------------
+[DIETCOKE]
+Name = Diet Coke
+NamePlural = Diet Cokes
+PortionName = DC
+PortionNamePlural = DCs
+Pocket = 2
+Price = 900
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Sweet Nectar. It restores the HP of one Pokémon by 150 points.
+#-------------------------------
 [ENERGYPOWDER]
 Name = Energy Powder
 NamePlural = Energy Powders
@@ -6563,3 +6575,21 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = A faded sea chart that shows the way to a certain island.
+
+#-------------------------------
+[PICKAXE]
+Name = Pickaxe
+NamePlural = Pickaxes
+Pocket = 8
+Price = 0
+Flags = KeyItem
+FieldUse = Direct
+Description = A Pickaxe used for mining.
+#-------------------------------
+[BELLSPROUTS]
+Name = Bell Sprout
+NamePlural = Bell Sprouts
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_POISON_100
+Description = I wish I hadn't bought these...

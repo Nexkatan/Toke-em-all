@@ -118,17 +118,17 @@ Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
 #-------------------------------
 [YOUNGSTER,Neighbour]
-LoseText = That was so COOOL
+LoseText = Cry
 Pokemon = SPEAROW, 3
 	Moves = TACKLE,TAILWHIP, GUST
    	AbilityIndex = 0
     	Gender = female
 #-------------------------------
 [SAILOR, Paddy]
-LoseText = Good Show
+LoseText = Good show old chap
 Pokemon = MACHOP, 4
 Pokemon = TENTACOOL, 5
-Pokemon = SPOINK, 5
+Pokemon = SPOINK, 8
 #-------------------------------
 [SCIENTIST, Ben Balls]
 LoseText = I'm a History teacher but I'd rather forget that!

@@ -6587,8 +6587,10 @@ FieldUse = Direct
 Description = A Pickaxe used for mining.
 #-------------------------------
 [BELLSPROUTS]
-Name = Bell Sprout
-NamePlural = Bell Sprouts
+Name = Bellsprouts
+NamePlural = Bellsprouts
+PortionName = clump of Bellsprouts
+PortionNamePlural = clumps of Bellsprouts
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_POISON_100

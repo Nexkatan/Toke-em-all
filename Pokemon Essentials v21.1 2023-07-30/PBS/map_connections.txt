@@ -38,14 +38,14 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Brighton (76) - B2066 - Brighton to Hove (85)
-76,West,0,85,East,0
+# B2066 - Brighton to Hove (85) - Brighton (76)
+85,East,0,76,West,0
+# Brighton Interchange (88) - Brighton (76)
+88,South,0,76,North,23
 # Brighton Interchange (88) - B2066 - Brighton to Hove (85)
 88,South,0,85,North,69
 # Hove (84) - B2066 - Brighton to Hove (85)
 84,East,0,85,West,0
-# Brighton Interchange (88) - Brighton (76)
-88,South,0,76,North,23
 # A3 (82) - Brighton Interchange (88)
 82,South,0,88,North,0
 # Hove (84) - Brighton Interchange (88)

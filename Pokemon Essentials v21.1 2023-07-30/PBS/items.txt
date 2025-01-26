@@ -5201,6 +5201,16 @@ FieldUse = HM
 Move = DIVE
 Description = Diving on the first turn, the user floats up and attacks on the second. It can be used to dive underwater.
 #-------------------------------
+[CIGGYBERRY]
+Name = Ciggy Berry
+NamePlural = Ciggy Berries
+Pocket = 5
+Price = 250
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Berry,Fling_10,NaturalGift_FIRE_80
+Description = Vape life!
+#-------------------------------
 [CHERIBERRY]
 Name = Cheri Berry
 NamePlural = Cheri Berries

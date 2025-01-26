@@ -214,6 +214,7 @@ Outdoor = true
 ShowArea = true
 BicycleAlways = true
 MapPosition = 0,11,7
+DarkMap = true
 MapSize = 1,111
 #-------------------------------
 [042]   # Tom's House
@@ -427,9 +428,9 @@ BattleBack = city
 [076]   # Brighton
 Name = Brighton
 Outdoor = true
+ShowArea = true
 Bicycle = true
 MapPosition = 0,14,10
-ShowArea = true
 #-------------------------------
 [077]   # Cedar Studios
 Name = Cedar Studios
@@ -448,13 +449,13 @@ Bicycle = true
 #-------------------------------
 [080]   # Fleet Gate
 Name = Fleet Gate
-Bicycle = true
 ShowArea = true
+Bicycle = true
 #-------------------------------
 [081]   # Fleet Interchange
 Name = Fleet Interchange
-ShowArea = true
 Outdoor = true
+ShowArea = true
 Bicycle = true
 #-------------------------------
 [082]   # A3
@@ -466,49 +467,49 @@ BicycleAlways = true
 #-------------------------------
 [083]   # Brighton Gate
 Name = Brighton Gate
-Bicycle = true
 ShowArea = true
+Bicycle = true
 #-------------------------------
 [084]   # Hove
 Name = Hove
 Outdoor = true
-Bicycle = true
 ShowArea = true
+Bicycle = true
 #-------------------------------
 [085]   # B2066 - Brighton to Hove
 Name = B2066
 Outdoor = true
-Bicycle = true
 ShowArea = true
+Bicycle = true
 #-------------------------------
-[086]   # Brighton Poké Centre
+[086]   # Brighton Poké Center
 Name = Brighton Poké Centre
-Bicycle = true
 ShowArea = true
+Bicycle = true
 #-------------------------------
 [087]   # Fleet Interchange Cycling Road
 Name = Fleet Interchange
 Outdoor = true
-BicycleAlways = true
 ShowArea = true
+BicycleAlways = true
 #-------------------------------
 [088]   # Brighton Interchange
 Name = Brighton Interchange
 Outdoor = true
-Bicycle = true
 ShowArea = true
+Bicycle = true
 #-------------------------------
 [089]   # A283 -  Brighton to Farnham
 Name = A23
 Outdoor = true
-Bicycle = true
 ShowArea = true
+Bicycle = true
 #-------------------------------
 [090]   # Chantrys
 Name = Chantrys
 Outdoor = true
-Bicycle = true
 ShowArea = true
+Bicycle = true
 #-------------------------------
 [091]   # No. 17
 Name = No. 17

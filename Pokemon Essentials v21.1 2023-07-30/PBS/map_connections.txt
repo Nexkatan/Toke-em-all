@@ -42,25 +42,27 @@
 85,East,0,76,West,0
 # Brighton Interchange (88) - Brighton (76)
 88,South,0,76,North,23
-# Brighton Interchange (88) - B2066 - Brighton to Hove (85)
-88,South,0,85,North,69
 # Hove (84) - B2066 - Brighton to Hove (85)
 84,East,0,85,West,0
+# Brighton Interchange (88) - B2066 - Brighton to Hove (85)
+88,South,0,85,North,69
+# Brighton Interchange (88) - Hove (84)
+88,South,0,84,North,119
 # A3 (82) - Brighton Interchange (88)
 82,South,0,88,North,0
-# Hove (84) - Brighton Interchange (88)
-84,North,119,88,South,0
 # Fleet Interchange (81) - A3 (82)
 81,South,0,82,North,0
 # Fleet Interchange Cycling Road (87) - A3 (82)
 87,South,0,82,North,0
-# Church Crookham (43) - Fleet Interchange (81)
-43,South,0,81,North,40
 # Crondall (79) - Fleet Interchange (81)
 79,West,0,81,East,0
-# Crondall (79) - Church Crookham (43)
-79,North,0,43,South,6
-# Fleet Interchange Cycling Road (87) - Church Crookham (43)
-87,North,40,43,South,0
+# Redfields Lane (100) - Fleet Interchange (81)
+100,South,0,81,North,63
+# Redfields Lane (100) - Church Crookham (43)
+100,North,4,43,South,0
 # Chantrys (90) - Crondall (79)
 90,North,0,79,South,10
+# Redfields Lane (100) - Crondall (79)
+100,South,0,79,North,17
+# Redfields Lane (100) - Fleet Interchange Cycling Road (87)
+100,South,0,87,North,63

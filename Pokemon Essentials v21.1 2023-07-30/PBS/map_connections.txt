@@ -38,31 +38,79 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
+# Brighton (76) - Brighton Interchange (88)
+76,North,23,88,South,0
 # B2066 - Brighton to Hove (85) - Brighton (76)
 85,East,0,76,West,0
-# Brighton Interchange (88) - Brighton (76)
-88,South,0,76,North,23
-# Hove (84) - B2066 - Brighton to Hove (85)
-84,East,0,85,West,0
-# Brighton Interchange (88) - B2066 - Brighton to Hove (85)
-88,South,0,85,North,69
-# Brighton Interchange (88) - Hove (84)
-88,South,0,84,North,119
-# A3 (82) - Brighton Interchange (88)
-82,South,0,88,North,0
-# Fleet Interchange (81) - A3 (82)
-81,South,0,82,North,0
+# Fleet Interchange (81) - Redfields Lane (100)
+81,North,63,100,South,0
+# A3 (82) - Fleet Interchange (81)
+82,North,0,81,South,0
+# Brighton Interchange (88) - A3 (82)
+88,North,0,82,South,0
 # Fleet Interchange Cycling Road (87) - A3 (82)
 87,South,0,82,North,0
-# Crondall (79) - Fleet Interchange (81)
-79,West,0,81,East,0
-# Redfields Lane (100) - Fleet Interchange (81)
-100,South,0,81,North,63
-# Redfields Lane (100) - Church Crookham (43)
-100,North,4,43,South,0
-# Chantrys (90) - Crondall (79)
-90,North,0,79,South,10
-# Redfields Lane (100) - Crondall (79)
-100,South,0,79,North,17
-# Redfields Lane (100) - Fleet Interchange Cycling Road (87)
-100,South,0,87,North,63
+# Hove (84) - Brighton Interchange (88)
+84,North,119,88,South,0
+# Hove (84) - B2066 - Brighton to Hove (85)
+84,East,0,85,West,0
+# B2066 - Brighton to Hove (85) - Brighton Interchange (88)
+85,North,69,88,South,0
+# Fleet Interchange Cycling Road (87) - Redfields Lane (100)
+87,North,63,100,South,0
+# Crondall Lane (110) - Church Crookham (43)
+110,North,0,43,South,17
+# Redfields Lane (108) - Church Crookham (43)
+108,North,3,43,South,0
+# Crondall (79) - Crondall Lane (110)
+79,North,35,110,South,0
+# Redfields Lane (108) - Crondall Lane (110)
+108,East,0,110,West,0
+# Redfields Lane (108) - Crondall (79)
+108,South,0,79,North,15
+# Crondall Lane (113) - Crondall (79)
+113,North,0,79,South,10
+# Dora's Green (112) - Crondall (79)
+112,North,0,79,South,30
+# Road to the place (111) - Crondall (79)
+111,East,0,79,West,5
+# Gostreys (22) - Redfields Lane (108)
+22,West,0,108,East,134
+# Chantrys (90) - Crondall Lane (113)
+90,North,0,113,South,1
+# Dora's Green (112) - Crondall Lane (113)
+112,West,0,113,East,0
+# Dora's Green (112) - Chantrys (90)
+112,South,0,90,North,19
+# Central Farnham N (121) - Chantrys (90)
+121,North,0,90,South,42
+# West Street (124) - Chantrys (90)
+124,North,8,90,South,0
+# Coxbridge (119) - Chantrys (90)
+119,North,28,90,South,0
+# A31 (115) - Gostreys (22)
+115,North,0,22,South,90
+# Central Farnham S (103) - Gostreys (22)
+103,South,0,22,North,18
+# Hickley's Corner (118) - Gostreys (22)
+118,West,0,22,East,50
+# Guildford (125) - Gostreys (22)
+125,North,0,22,South,140
+# Hickley's Corner (118) - A31 (115)
+118,East,0,115,West,0
+# Phil's House (101) - A31 (115)
+101,North,0,115,South,3
+# Guildford (125) - A31 (115)
+125,West,0,115,East,0
+# Central Farnham N (121) - Central Farnham S (103)
+121,South,0,103,North,0
+# West Street (124) - Central Farnham S (103)
+124,East,24,103,West,0
+# West Street (124) - Central Farnham N (121)
+124,East,0,121,West,0
+# Coxbridge (119) - West Street (124)
+119,East,0,124,West,0
+# Phil's House (101) - Hickley's Corner (118)
+101,North,0,118,South,23
+# Guildford (125) - Phil's House (101)
+125,South,0,101,North,47

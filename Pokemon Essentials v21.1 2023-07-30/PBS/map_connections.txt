@@ -63,21 +63,21 @@
 # Redfields Lane E (128) - A287 (129)
 128,West,0,129,East,10
 # Redfields Lane W (100) - Church Crookham (43)
-100,North,50,43,South,0
+100,North,46,43,South,0
 # Redfields Lane E (128) - Church Crookham (43)
 128,North,0,43,South,0
 # Crondall (79) - Redfields Lane W (100)
 79,North,12,100,South,0
 # Crondall Lane (113) - Crondall (79)
-113,North,0,79,South,25
+113,North,0,79,South,13
 # Chantrys (90) - Crondall Lane (113)
 90,North,0,113,South,4
 # Road to the place (111) - Crondall Lane (113)
 111,East,0,113,West,2
 # West Street (124) - Chantrys (90)
-124,North,7,90,South,0
+124,North,0,90,South,5
 # Coxbridge (119) - Chantrys (90)
-119,North,27,90,South,0
+119,North,15,90,South,0
 # Central Farnham S (103) - West Street (124)
 103,West,0,124,East,16
 # Central Farnham N (121) - West Street (124)

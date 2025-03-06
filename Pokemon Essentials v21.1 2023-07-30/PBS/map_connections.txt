@@ -54,30 +54,32 @@
 84,East,0,85,West,0
 # B2066 - Brighton to Hove (85) - Brighton Interchange (88)
 85,North,69,88,South,0
-# Church Crookham (43) - A287 (129)
-43,West,20,129,East,0
-# Redfields Lane W (100) - A287 (129)
-100,East,0,129,West,10
+# Church Crookham (43) - Redfields Lane W (100)
+43,South,0,100,North,48
+# A287 (129) - Redfields Lane W (100)
+129,West,10,100,East,0
+# Crondall (79) - Redfields Lane W (100)
+79,North,12,100,South,0
+# Road to the place (111) - Redfields Lane W (100)
+111,East,0,100,West,49
+# A287 (129) - Church Crookham (43)
+129,East,0,43,West,20
+# Redfields Lane E (128) - Church Crookham (43)
+128,North,0,43,South,0
 # Crondall (79) - A287 (129)
 79,East,0,129,West,29
 # Redfields Lane E (128) - A287 (129)
 128,West,0,129,East,10
-# Redfields Lane W (100) - Church Crookham (43)
-100,North,46,43,South,0
-# Redfields Lane E (128) - Church Crookham (43)
-128,North,0,43,South,0
-# Crondall (79) - Redfields Lane W (100)
-79,North,12,100,South,0
 # Crondall Lane (113) - Crondall (79)
-113,North,0,79,South,13
+113,North,0,79,South,12
 # Chantrys (90) - Crondall Lane (113)
-90,North,0,113,South,4
+90,North,0,113,South,6
 # Road to the place (111) - Crondall Lane (113)
-111,East,0,113,West,2
+111,East,0,113,West,5
 # West Street (124) - Chantrys (90)
-124,North,0,90,South,5
+124,North,0,90,South,4
 # Coxbridge (119) - Chantrys (90)
-119,North,15,90,South,0
+119,North,16,90,South,0
 # Central Farnham S (103) - West Street (124)
 103,West,0,124,East,16
 # Central Farnham N (121) - West Street (124)
@@ -102,5 +104,5 @@
 125,South,0,101,North,47
 # Guildford (125) - A31 (115)
 125,West,0,115,East,0
-# A287 (129) - Crondall Interchange (110)
-129,90,0,110,0,7
+# Redfields Lane W (100) - Crondall Interchange (110)
+100,118,0,110,0,17

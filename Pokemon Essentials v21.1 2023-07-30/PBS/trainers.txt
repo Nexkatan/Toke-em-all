@@ -126,25 +126,25 @@ Pokemon = SPEAROW, 3
 #-------------------------------
 [SAILOR, Paddy]
 LoseText = Good show old chap
-Pokemon = MACHOP, 4
-Pokemon = TENTACOOL, 5
-Pokemon = SPOINK, 8
+Pokemon = MACHOP, 7
+Pokemon = TENTACOOL, 8
+Pokemon = SPOINK, 9
 #-------------------------------
 [SCIENTIST, Ben Balls]
 LoseText = I'm a History teacher but I'd rather forget that!
-Pokemon = POLIWAG, 5
-Pokemon = SPHEAL, 5
-Pokemon = VOLTORB, 4
+Pokemon = POLIWAG, 6
+Pokemon = SPHEAL, 6
+Pokemon = VOLTORB, 7
 #-------------------------------
 [STONER, Fletch]
 LoseText = Aw man I need a smoke
 Pokemon = WEEDLE, 7
-Pokemon = GLOOM, 9
+Pokemon = GLOOM, 7
 #-------------------------------
 [STONER, Dixon]
 LoseText = Oii Nah
-Pokemon = SLOWPOKE, 6
-Pokemon = KOFFING, 7
+Pokemon = SLOWPOKE, 5
+Pokemon = KOFFING, 6
 #-------------------------------
 [RIVAL1,???]
 LoseText = Well I'm keeping your bike

@@ -52,3 +52,4 @@ Kris:
 Redfield's shop owner to direct you to a pokemon in back of shop (change pokeball to a pokemon)
 Abra teleported you before you got the ciggie berries
 After you get a bike, make you use it to get onto road, make area bikeable
+Grey hair in battles and on trainer card to be changed

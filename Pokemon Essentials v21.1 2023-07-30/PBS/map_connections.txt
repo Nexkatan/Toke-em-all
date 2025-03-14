@@ -106,5 +106,5 @@
 121,West,8,124,East,0
 # Redfields Lane E (128) - A287 (129)
 128,West,0,129,East,10
-# Charleston Gardens (131) - Harpley (127)
-131,North,0,127,South,0
+# Harpley (127) - Carlton Square (131)
+127,South,0,131,North,8

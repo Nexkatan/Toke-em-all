@@ -123,6 +123,10 @@ Pokemon = SPEAROW, 3
 	Moves = TACKLE,TAILWHIP, GUST
    	AbilityIndex = 0
     	Gender = female
+Pokemon = RATTATA, 5
+	Moves = TACKLE,TAILWHIP, GUST
+   	AbilityIndex = 0
+    	Gender = female
 #-------------------------------
 [SAILOR, Paddy]
 LoseText = Good show old chap
@@ -143,8 +147,8 @@ Pokemon = ELECTRODE, 25
 #-------------------------------
 [STONER, Fletch]
 LoseText = Aw man I need a smoke
-Pokemon = WEEDLE, 7
-Pokemon = GLOOM, 7
+Pokemon = WEEDLE, 6
+Pokemon = SHROOMISH, 7
 #-------------------------------
 [STONER, Dixon]
 LoseText = Oii Nah

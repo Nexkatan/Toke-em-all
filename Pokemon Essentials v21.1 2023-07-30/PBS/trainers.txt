@@ -130,11 +130,16 @@ Pokemon = MACHOP, 7
 Pokemon = TENTACOOL, 8
 Pokemon = SPOINK, 9
 #-------------------------------
-[SCIENTIST, Ben Balls]
-LoseText = I'm a History teacher but I'd rather forget that!
+[SCIENTIST, Ben Bowles]
+LoseText = That's just not cricket!
 Pokemon = POLIWAG, 6
-Pokemon = SPHEAL, 6
 Pokemon = VOLTORB, 7
+Pokemon = KRICKETOT, 7
+#-------------------------------
+[CUEBALL, Road Rager]
+LoseText = I'm racing my Pokémon!
+Pokemon = WEAVILE, 25
+Pokemon = ELECTRODE, 25
 #-------------------------------
 [STONER, Fletch]
 LoseText = Aw man I need a smoke

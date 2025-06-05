@@ -11,7 +11,8 @@ MapPosition = 0,13,12
 BattleBack = field
 #-------------------------------
 [003]   # Player's house
-Name = house
+Name = \PN's House
+ShowArea = true
 HealingSpot = 2,8,8
 MapPosition = 0,13,12
 #-------------------------------
@@ -27,7 +28,8 @@ MapPosition = 0,13,11
 BattleBack = field
 #-------------------------------
 [006]   # Cucumber House
-Name = Chris's House
+Name = Cucumber House
+ShowArea = true
 MapPosition = 0,13,11
 #-------------------------------
 [007]   # Cedolan City
@@ -106,6 +108,7 @@ MapSize = 1,11
 Name = Gostreys
 Outdoor = true
 Bicycle = true
+ShowArea = true
 #-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
@@ -417,6 +420,7 @@ Flags = DistortionWorld
 [074]   # Route 6 Cycling Road gate
 Name = Route 6
 Bicycle = true
+ShowArea = true
 MapPosition = 0,12,10
 #-------------------------------
 [075]   # Tiall Region
@@ -504,6 +508,7 @@ Name = A23
 Outdoor = true
 ShowArea = true
 Bicycle = true
+BicycleAlways = true
 #-------------------------------
 [090]   # Chantrys
 Name = Chantrys
@@ -514,3 +519,18 @@ Bicycle = true
 [091]   # No. 17
 Name = No. 17
 ShowArea = true
+#-------------------------------
+[100]   # Redfields Lane W
+Name = Redfields Lane
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[128]   # Redfields Lane E
+Name = Redfields Lane
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[129]   # A287
+Name = A287
+ShowArea = true
+Bicycle = true

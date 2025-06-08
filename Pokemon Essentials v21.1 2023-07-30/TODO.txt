@@ -6,6 +6,8 @@ Change battle intro hair colour
 
 get rid / make use of rattatta in redfields
 
+change battle "Bag" to "No bag"
+
 
 
 Gym 1 Phil?
@@ -24,7 +26,7 @@ Make another dealer who sells brightpowder and 	silverpowder and softsand and me
 
 Sort Hove cliffs & upper level
 
-new item icons -SKATEBOARD? BOAT? Ciggy Berry, Ruin of Alph puzzles
+new item icons -SKATEBOARD? BOAT? Ciggy Berry, Ruin of Alph puzzles, Shrooms
 
 
 ==== Filling out: ====
@@ -43,14 +45,20 @@ bush activated if so
 Mum Stationary
 Cedar Phone Number if so
 
-Kris:
-Grey hair in battles and on trainer card to be changed
 
 
 PLAYTHROUGH
 
-kids nudge each other a bit, maybe not a problem
+kids leaving for prof nudge each other a bit, maybe not a problem
 shop keeper hands over ciggy berries before mart (can't access unless have bag)
-can't get rod before bag?
 abra man sends tommy back to chantrys if he faints (don't let him pass)
-change levels round so it's harder after fletch
+
+mum doesn't ask for ciggyberrys if you forget what ur doing
+Old man Abra tells you to come back and talk to him if you not left village yet
+Following pokes can find items even when u dont have bag
+can also retrieve potion from PC before getting bag
+
+Go to Fletch in chantrys text appears 2x
+Mum tells you about chantrys again even when you have a bag
+shop keeper won't chat to you after you have bag
+M8y on East side will send you back even if you have shrooms (fainted from Fletch)

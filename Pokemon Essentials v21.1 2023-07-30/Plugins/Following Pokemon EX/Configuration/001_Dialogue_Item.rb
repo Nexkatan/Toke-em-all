@@ -2,7 +2,11 @@
 # Special hold item on a map which includes battle in the name
 #-------------------------------------------------------------------------------
 EventHandlers.add(:following_pkmn_item, :battle_map, proc { |_pkmn, _random_val|
-  if $game_map.name.include?(_INTL("Battle"))
+unless $player.has_bag
+  pbMessage(_INTL("{1} is holding something, but you have no bag!", _pkmn.name))
+  next true
+end
+if $game_map.name.include?(_INTL("Battle"))
     # This array can be edited and extended to your hearts content.
     items = [:POKEBALL, :POKEBALL, :POKEBALL, :GREATBALL, :GREATBALL, :ULTRABALL]
     # Choose a random item from the items array, give the player 2 of the item
@@ -14,7 +18,11 @@ EventHandlers.add(:following_pkmn_item, :battle_map, proc { |_pkmn, _random_val|
 # Generic Item Dialogue
 #-------------------------------------------------------------------------------
 EventHandlers.add(:following_pkmn_item, :regular, proc { |_pkmn, _random_val|
-  items = [
+unless $player.has_bag
+  pbMessage(_INTL("{1} is holding something, but you have no bag!", _pkmn.name))
+  next true
+end  
+items = [
     :POTION,        :SUPERPOTION,  :FULLRESTORE,    :REVIVE,        :PPUP,
     :PPMAX,         :RARECANDY,    :REPEL,          :MAXREPEL,      :ESCAPEROPE,
     :HONEY,         :TINYMUSHROOM, :PEARL,          :NUGGET,        :GREATBALL,

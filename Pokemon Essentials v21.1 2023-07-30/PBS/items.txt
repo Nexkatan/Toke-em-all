@@ -6609,8 +6609,8 @@ Description = I wish I hadn't bought these...
 [SHROOMS]
 Name = Shrooms
 NamePlural = Shrooms
-PortionName = A 3.5s of Shrooms
-PortionNamePlural = 3.5s of Bellsprouts
+PortionName = 3.5s of Shrooms
+PortionNamePlural = 3.5ses of Shrooms
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_POISON_100

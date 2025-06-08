@@ -522,15 +522,18 @@ ShowArea = true
 #-------------------------------
 [100]   # Redfields Lane W
 Name = Redfields Lane
+Outdoor = true
 ShowArea = true
 Bicycle = true
 #-------------------------------
 [128]   # Redfields Lane E
 Name = Redfields Lane
+Outdoor = true
 ShowArea = true
 Bicycle = true
 #-------------------------------
 [129]   # A287
 Name = A287
+Outdoor = true
 ShowArea = true
 Bicycle = true

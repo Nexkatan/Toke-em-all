@@ -2,10 +2,10 @@
 
 Fix the changed map transports: 
 
-Change battle intro hair colour
-
-get rid / make use of rattatta in redfields
-
+Add cool old rod water pokes to crondall
+Change maps to all have time of day - add them all in and set Outdoor = true
+Why can Elle use ? cards?
+kids leaving for prof nudge each other a bit, maybe not a problem
 change battle "Bag" to "No bag"
 
 
@@ -49,16 +49,9 @@ Cedar Phone Number if so
 
 PLAYTHROUGH
 
-kids leaving for prof nudge each other a bit, maybe not a problem
-shop keeper hands over ciggy berries before mart (can't access unless have bag)
-abra man sends tommy back to chantrys if he faints (don't let him pass)
 
-mum doesn't ask for ciggyberrys if you forget what ur doing
+Check:
+>Need to fix upstairs daycare if you don't take barry (don't have barry?)
 Old man Abra tells you to come back and talk to him if you not left village yet
 Following pokes can find items even when u dont have bag
-can also retrieve potion from PC before getting bag
 
-Go to Fletch in chantrys text appears 2x
-Mum tells you about chantrys again even when you have a bag
-shop keeper won't chat to you after you have bag
-M8y on East side will send you back even if you have shrooms (fainted from Fletch)

@@ -124,7 +124,7 @@ Pokemon = SPEAROW, 3
    	AbilityIndex = 0
     	Gender = female
 Pokemon = RATTATA, 5
-	Moves = TACKLE,TAILWHIP, GUST
+	Moves = TACKLE,TAILWHIP
    	AbilityIndex = 0
     	Gender = female
 #-------------------------------

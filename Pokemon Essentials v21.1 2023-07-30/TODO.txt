@@ -4,7 +4,6 @@ Fix the changed map transports:
 
 Add cool old rod water pokes to crondall
 Change maps to all have time of day - add them all in and set Outdoor = true
-Why can Elle use ? cards?
 kids leaving for prof nudge each other a bit, maybe not a problem
 change battle "Bag" to "No bag"
 
@@ -50,8 +49,10 @@ Cedar Phone Number if so
 PLAYTHROUGH
 
 
-Check:
->Need to fix upstairs daycare if you don't take barry (don't have barry?)
-Old man Abra tells you to come back and talk to him if you not left village yet
-Following pokes can find items even when u dont have bag
+Ciggy berry in the bin might have to go or be found later
 
+
+Check:
+Following pokes can find items even when u dont have bag
+>hole disappears after mum goes
+>what if you talk to mum from above? set to through for now

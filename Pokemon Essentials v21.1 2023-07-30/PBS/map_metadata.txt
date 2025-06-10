@@ -107,8 +107,8 @@ MapSize = 1,11
 [022]   # Gostreys
 Name = Gostreys
 Outdoor = true
-Bicycle = true
 ShowArea = true
+Bicycle = true
 #-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
@@ -419,8 +419,8 @@ Flags = DistortionWorld
 #-------------------------------
 [074]   # Route 6 Cycling Road gate
 Name = Route 6
-Bicycle = true
 ShowArea = true
+Bicycle = true
 MapPosition = 0,12,10
 #-------------------------------
 [075]   # Tiall Region
@@ -525,6 +525,9 @@ Name = Redfields Lane
 Outdoor = true
 ShowArea = true
 Bicycle = true
+#-------------------------------
+[112]   # Dora's Green
+Name = Dora's Green
 #-------------------------------
 [128]   # Redfields Lane E
 Name = Redfields Lane

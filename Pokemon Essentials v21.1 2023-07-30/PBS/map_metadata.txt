@@ -520,14 +520,25 @@ Bicycle = true
 Name = No. 17
 ShowArea = true
 #-------------------------------
+[099]   # Upper Hale
+#-------------------------------
 [100]   # Redfields Lane W
 Name = Redfields Lane
 Outdoor = true
 ShowArea = true
 Bicycle = true
 #-------------------------------
+[103]   # Central Farnham S
+Name = Central Farnham S
+#-------------------------------
 [112]   # Dora's Green
 Name = Dora's Green
+#-------------------------------
+[114]   # Central Farnham N
+Name = Central Farnham N
+#-------------------------------
+[124]   # Water Meadows
+Name = Water Meadows
 #-------------------------------
 [128]   # Redfields Lane E
 Name = Redfields Lane

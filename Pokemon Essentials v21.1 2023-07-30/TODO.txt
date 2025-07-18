@@ -15,10 +15,6 @@ Eevee stairs
 
 Who's the ruin maniac	Jamie Prev?
 
-give Tentacruel a red glow
-
-test triple battle & triple triad prizes
-
 map signs in game
 
 Make another dealer who sells brightpowder and 	silverpowder and softsand and metal powder and quick powder
@@ -49,10 +45,4 @@ Cedar Phone Number if so
 PLAYTHROUGH
 
 
-Ciggy berry in the bin might have to go or be found later
-
-
-Check:
-Following pokes can find items even when u dont have bag
->hole disappears after mum goes
->what if you talk to mum from above? set to through for now
+reset spawn point when you get the bicycle 

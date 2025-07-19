@@ -54,54 +54,76 @@
 84,East,0,85,West,0
 # B2066 - Brighton to Hove (85) - Brighton Interchange (88)
 85,North,69,88,South,0
-# Phil's House (101) - Shepherd & Flock (118)
-101,North,0,118,South,23
 # A31 (115) - Phil's House (101)
 115,South,3,101,North,0
 # Guildford (125) - Phil's House (101)
 125,South,0,101,North,47
-# A31 (115) - Shepherd & Flock (118)
-115,West,0,118,East,0
 # Guildford (125) - A31 (115)
 125,West,0,115,East,0
 # Harpley (127) - Carlton Square (131)
 127,South,0,131,North,8
-# Crondall (79) - Central Farnham NW (114)
-79,East,47,114,West,0
-# Upper Hale (99) - Central Farnham NW (114)
-99,South,0,114,North,0
-# Central Farnham SE (103) - Central Farnham NW (114)
-103,West,0,114,East,36
-# Water Meadows (124) - Central Farnham NW (114)
-124,North,52,114,South,0
-# Crondall Lane M (138) - Central Farnham NW (114)
-138,East,7,114,West,0
-# Central Farnham SW (109) - Central Farnham NW (114)
-109,North,0,114,South,0
-# Redfields Lane W (100) - Central Farnham NW (114)
-100,East,66,114,West,0
-# Dora's Green (112) - Central Farnham NW (114)
-112,East,22,114,West,0
-# Crondall Lane S (121) - Central Farnham NW (114)
-121,East,0,114,West,8
-# Upper Hale (99) - Crondall (79)
-99,West,0,79,East,19
-# Central Farnham SW (109) - Crondall (79)
-109,West,0,79,East,87
-# Redfields Lane W (100) - Crondall (79)
-100,South,0,79,North,10
-# A287 (129) - Crondall (79)
-129,West,29,79,East,0
-# Dora's Green (112) - Crondall (79)
-112,North,0,79,South,20
-# Crondall Lane N (113) - Crondall (79)
-113,North,8,79,South,0
-# Central Farnham SE (103) - Upper Hale (99)
-103,West,0,99,East,64
-# Water Meadows (124) - Upper Hale (99)
-124,East,0,99,West,68
-# Crondall Lane M (138) - Upper Hale (99)
-138,East,0,99,West,21
+# Gostreys (22) - Borellis (120)
+22,East,5,120,West,0
+# Upper Hale (99) - Borellis (120)
+99,East,97,120,West,0
+# Central Farnham NW (114) - Borellis (120)
+114,East,69,120,West,0
+# Church Crookham (43) - Borellis (120)
+43,East,165,120,West,0
+# Central Farnham SW (109) - Borellis (120)
+109,East,29,120,West,0
+# Central Farnham SE (103) - Gostreys (22)
+103,West,28,22,East,0
+# Water Meadows (124) - Gostreys (22)
+124,South,64,22,North,0
+# Central Farnham SW (109) - Gostreys (22)
+109,South,12,22,North,0
+# Upper Hale (99) - Central Farnham SE (103)
+99,East,64,103,West,0
+# Central Farnham NW (114) - Central Farnham SE (103)
+114,East,36,103,West,0
+# Church Crookham (43) - Central Farnham SE (103)
+43,East,132,103,West,0
+# Central Farnham SW (109) - Central Farnham SE (103)
+109,East,0,103,West,4
+# Chantrys (90) - Water Meadows (124)
+90,South,2,124,North,0
+# Upper Hale (99) - Water Meadows (124)
+99,West,68,124,East,0
+# Central Farnham NW (114) - Water Meadows (124)
+114,West,40,124,East,0
+# A287 (129) - Water Meadows (124)
+129,West,116,124,East,0
+# Central Farnham SW (109) - Water Meadows (124)
+109,West,0,124,East,0
+# Crondall Lane S (121) - Water Meadows (124)
+121,South,0,124,North,32
+# Crondall Lane M (138) - Chantrys (90)
+138,South,0,90,North,0
+# Dora's Green (112) - Chantrys (90)
+112,West,30,90,East,0
+# Central Farnham SW (109) - Chantrys (90)
+109,North,0,90,South,54
+# Crondall Lane S (121) - Chantrys (90)
+121,West,0,90,East,0
+# Upper Hale (99) - Crondall Lane M (138)
+99,West,21,138,East,0
+# Central Farnham NW (114) - Crondall Lane M (138)
+114,West,0,138,East,7
+# A287 (129) - Crondall Lane M (138)
+129,West,69,138,East,0
+# Dora's Green (112) - Crondall Lane M (138)
+112,South,0,138,North,34
+# Central Farnham SW (109) - Crondall Lane M (138)
+109,West,0,138,East,47
+# Crondall Lane S (121) - Crondall Lane M (138)
+121,North,0,138,South,34
+# Crondall Lane N (113) - Crondall Lane M (138)
+113,South,0,138,North,6
+# Crondall (79) - Upper Hale (99)
+79,East,19,99,West,0
+# Central Farnham NW (114) - Upper Hale (99)
+114,North,0,99,South,0
 # Redfields Lane W (100) - Upper Hale (99)
 100,East,38,99,West,0
 # A287 (129) - Upper Hale (99)
@@ -110,58 +132,32 @@
 112,East,0,99,West,6
 # Crondall Lane S (121) - Upper Hale (99)
 121,East,0,99,West,36
-# Gostreys (22) - Central Farnham SE (103)
-22,North,58,103,South,0
-# Central Farnham SW (109) - Central Farnham SE (103)
-109,East,0,103,West,4
-# Church Crookham (43) - Central Farnham SE (103)
-43,East,132,103,West,0
-# Borellis (120) - Central Farnham SE (103)
-120,North,0,103,South,1
-# Water Meadows (124) - Gostreys (22)
-124,South,64,22,North,0
-# Central Farnham SW (109) - Gostreys (22)
-109,South,12,22,North,0
-# Chantrys (90) - Water Meadows (124)
-90,South,2,124,North,0
-# Central Farnham SW (109) - Water Meadows (124)
-109,West,0,124,East,0
-# A287 (129) - Water Meadows (124)
-129,West,116,124,East,0
-# Borellis (120) - Water Meadows (124)
-120,North,0,124,South,123
-# Crondall Lane S (121) - Water Meadows (124)
-121,South,0,124,North,32
-# Crondall Lane M (138) - Chantrys (90)
-138,South,0,90,North,0
-# Central Farnham SW (109) - Chantrys (90)
-109,North,0,90,South,54
-# Dora's Green (112) - Chantrys (90)
-112,West,30,90,East,0
-# Crondall Lane S (121) - Chantrys (90)
-121,West,0,90,East,0
-# Central Farnham SW (109) - Crondall Lane M (138)
-109,West,0,138,East,47
-# A287 (129) - Crondall Lane M (138)
-129,West,69,138,East,0
-# Dora's Green (112) - Crondall Lane M (138)
-112,South,0,138,North,34
-# Crondall Lane S (121) - Crondall Lane M (138)
-121,North,0,138,South,34
-# Crondall Lane N (113) - Crondall Lane M (138)
-113,South,0,138,North,6
-# Redfields Lane W (100) - Central Farnham SW (109)
-100,East,106,109,West,0
-# Dora's Green (112) - Central Farnham SW (109)
-112,East,62,109,West,0
-# Borellis (120) - Central Farnham SW (109)
-120,North,0,109,South,71
-# Crondall Lane S (121) - Central Farnham SW (109)
-121,East,32,109,West,0
+# Central Farnham NW (114) - Crondall (79)
+114,West,0,79,East,47
+# Redfields Lane W (100) - Crondall (79)
+100,South,0,79,North,10
+# A287 (129) - Crondall (79)
+129,West,29,79,East,0
+# Dora's Green (112) - Crondall (79)
+112,North,0,79,South,20
+# Central Farnham SW (109) - Crondall (79)
+109,West,0,79,East,87
+# Crondall Lane N (113) - Crondall (79)
+113,North,8,79,South,0
+# Redfields Lane W (100) - Central Farnham NW (114)
+100,East,66,114,West,0
+# Dora's Green (112) - Central Farnham NW (114)
+112,East,22,114,West,0
+# Central Farnham SW (109) - Central Farnham NW (114)
+109,North,0,114,South,0
+# Crondall Lane S (121) - Central Farnham NW (114)
+121,East,0,114,West,8
 # Church Crookham (43) - Redfields Lane W (100)
 43,South,0,100,North,50
 # A287 (129) - Redfields Lane W (100)
 129,West,10,100,East,0
+# Central Farnham SW (109) - Redfields Lane W (100)
+109,West,0,100,East,106
 # A287 (129) - Church Crookham (43)
 129,East,0,43,West,20
 # Redfields Lane E (128) - Church Crookham (43)
@@ -172,11 +168,15 @@
 121,East,0,129,West,84
 # Redfields Lane E (128) - A287 (129)
 128,West,0,129,East,10
+# Central Farnham SW (109) - Dora's Green (112)
+109,West,0,112,East,62
 # Crondall Lane N (113) - Dora's Green (112)
 113,East,0,112,West,0
-# Farnham Bypass E (135) - Borellis (120)
-135,North,0,120,South,0
+# Crondall Lane S (121) - Central Farnham SW (109)
+121,East,32,109,West,0
 # Crondall Lane N (113) - Crondall Lane S (121)
 113,East,30,121,West,0
-# Central Farnham NW (114) - Shepherd & Flock (137)
-114,137,62,137,0,0
+# Borellis (120) - Farnham Bypass E (135)
+120,2,44,135,0,0
+# Borellis (120) - Shepherd & Flock (137)
+120,67,0,137,0,7

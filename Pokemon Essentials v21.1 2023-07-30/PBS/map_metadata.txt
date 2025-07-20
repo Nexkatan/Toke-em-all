@@ -531,11 +531,22 @@ Bicycle = true
 [103]   # Central Farnham S
 Name = Central Farnham S
 #-------------------------------
+[109]   # Central Farnham SE
+Name = Central Farnham
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
 [112]   # Dora's Green
 Name = Dora's Green
 #-------------------------------
-[114]   # Central Farnham N
+[114]   # Central Farnham NW
 Name = Central Farnham N
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
 #-------------------------------
 [124]   # Water Meadows
 Name = Water Meadows

@@ -6254,6 +6254,15 @@ FieldUse = Direct
 Flags = KeyItem
 Description = A folding Bicycle that enables much faster movement than the Running Shoes.
 #-------------------------------
+[SKATEBOARD]
+Name = Skateboard
+NamePlural = Skateboards
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = A gnarly Skateboard! Dude!
+#-------------------------------
 [OLDROD]
 Name = Old Rod
 NamePlural = Old Rods

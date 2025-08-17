@@ -521,6 +521,7 @@ Name = No. 17
 ShowArea = true
 #-------------------------------
 [099]   # Upper Hale
+Name = Upper Hale
 #-------------------------------
 [100]   # Redfields Lane W
 Name = Redfields Lane
@@ -528,10 +529,10 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 #-------------------------------
-[103]   # Central Farnham S
+[103]   # Central Farnham SE
 Name = Central Farnham S
 #-------------------------------
-[109]   # Central Farnham SE
+[109]   # Central Farnham SW
 Name = Central Farnham
 Outdoor = true
 ShowArea = true
@@ -547,6 +548,8 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Skateboard = true
+#-------------------------------
+[118]   # Six Bellsprouts
 #-------------------------------
 [124]   # Water Meadows
 Name = Water Meadows

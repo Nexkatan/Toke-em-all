@@ -58,34 +58,14 @@
 125,West,0,115,East,0
 # Harpley (127) - Carlton Square (131)
 127,South,0,131,North,8
-# Borellis (120) - Phil's House (144)
-120,South,114,144,North,0
-# Borelli Woods (122) - Phil's House (144)
-122,South,86,144,North,0
-# Grumpig's Back (143) - Phil's House (144)
-143,South,4,144,North,0
-# Gostreys (22) - Borellis (120)
-22,East,0,120,West,0
-# Farnham Bypass E (135) - Borellis (120)
-135,North,0,120,South,0
-# Central Farnham SW (109) - Borellis (120)
-109,East,24,120,West,0
-# Central Farnham SE (103) - Borellis (120)
-103,South,0,120,North,0
-# Central Farnham NW (114) - Borellis (120)
-114,East,64,120,West,0
-# Water Meadows (124) - Borellis (120)
-124,South,124,120,North,0
-# Farnham Bypass E (135) - Gostreys (22)
-135,West,0,22,East,28
-# Central Farnham SW (109) - Gostreys (22)
-109,South,12,22,North,0
-# Central Farnham NE (142) - Gostreys (22)
-142,West,64,22,East,0
-# Central Farnham SE (103) - Gostreys (22)
-103,West,28,22,East,0
-# Water Meadows (124) - Gostreys (22)
-124,South,64,22,North,0
+# Phil's House (144) - Grumpig's Back (143)
+144,North,0,143,South,4
+# Shepherd & Flock (137) - Grumpig's Back (143)
+137,East,6,143,West,0
+# Gostreys (22) - Farnham Bypass E (135)
+22,East,28,135,West,0
+# Borellis (120) - Farnham Bypass E (135)
+120,South,0,135,North,0
 # Central Farnham SW (109) - Farnham Bypass E (135)
 109,East,52,135,West,0
 # Central Farnham NW (114) - Farnham Bypass E (135)
@@ -95,15 +75,41 @@
 # Six Bellsprouts (118) - Farnham Bypass E (135)
 118,West,87,135,East,0
 # Shepherd & Flock (137) - Farnham Bypass E (135)
-137,West,46,135,East,0
-# Grumpig's Back (143) - Farnham Bypass E (135)
-143,South,0,135,North,110
+137,West,48,135,East,0
+# Borellis (120) - Gostreys (22)
+120,West,0,22,East,0
+# Central Farnham SE (103) - Gostreys (22)
+103,West,28,22,East,0
+# Central Farnham SW (109) - Gostreys (22)
+109,South,12,22,North,0
+# Central Farnham NE (142) - Gostreys (22)
+142,West,64,22,East,0
+# Water Meadows (124) - Gostreys (22)
+124,South,64,22,North,0
+# Central Farnham SE (103) - Borellis (120)
+103,South,0,120,North,0
+# Central Farnham SW (109) - Borellis (120)
+109,East,24,120,West,0
+# Central Farnham NW (114) - Borellis (120)
+114,East,64,120,West,0
+# Water Meadows (124) - Borellis (120)
+124,South,124,120,North,0
+# Central Farnham SW (109) - Central Farnham SE (103)
+109,East,0,103,West,4
+# Central Farnham NE (142) - Central Farnham SE (103)
+142,South,0,103,North,0
+# Central Farnham NW (114) - Central Farnham SE (103)
+114,East,36,103,West,0
+# Borelli Woods (122) - Central Farnham SE (103)
+122,North,0,103,South,28
+# Six Bellsprouts (118) - Central Farnham SE (103)
+118,West,31,103,East,0
+# Shepherd & Flock (137) - Central Farnham SE (103)
+137,West,0,103,East,8
 # Crondall (79) - Central Farnham SW (109)
 79,East,87,109,West,0
 # Central Farnham NE (142) - Central Farnham SW (109)
 142,West,40,109,East,0
-# Central Farnham SE (103) - Central Farnham SW (109)
-103,West,4,109,East,0
 # Central Farnham NW (114) - Central Farnham SW (109)
 114,South,0,109,North,0
 # Redfields Lane W (100) - Central Farnham SW (109)
@@ -148,22 +154,12 @@
 121,East,0,99,West,36
 # Crondall Lane M (138) - Upper Hale (99)
 138,East,0,99,West,21
-# Central Farnham SE (103) - Central Farnham NE (142)
-103,North,0,142,South,0
 # Central Farnham NW (114) - Central Farnham NE (142)
 114,East,0,142,West,0
 # Six Bellsprouts (118) - Central Farnham NE (142)
 118,West,0,142,East,5
 # Shepherd & Flock (137) - Central Farnham NE (142)
-137,West,0,142,East,46
-# Central Farnham NW (114) - Central Farnham SE (103)
-114,East,36,103,West,0
-# Borelli Woods (122) - Central Farnham SE (103)
-122,North,0,103,South,28
-# Six Bellsprouts (118) - Central Farnham SE (103)
-118,West,31,103,East,0
-# Shepherd & Flock (137) - Central Farnham SE (103)
-137,West,0,103,East,10
+137,West,0,142,East,44
 # Redfields Lane W (100) - Central Farnham NW (114)
 100,East,66,114,West,0
 # Dora's Green (112) - Central Farnham NW (114)
@@ -217,6 +213,6 @@
 # Six Bellsprouts (118) - Borelli Woods (122)
 118,West,59,122,East,0
 # Shepherd & Flock (137) - Borelli Woods (122)
-137,West,18,122,East,0
-# Grumpig's Back (143) - Shepherd & Flock (137)
-143,West,0,137,East,6
+137,West,20,122,East,0
+# Shepherd & Flock (137) - Six Bellsprouts (118)
+137,North,0,118,South,0

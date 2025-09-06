@@ -370,3 +370,11 @@ Land,21
     30,POOCHYENA,3,5
     20,SPEAROW,3,5
     10,CUBONE,3,5
+
+#-------------------------------
+[0143] # Grumpigs Back
+Land,21
+    40,RATTATA,3,5
+    30,POOCHYENA,3,5
+    20,SPEAROW,3,5
+    10,CUBONE,3,5

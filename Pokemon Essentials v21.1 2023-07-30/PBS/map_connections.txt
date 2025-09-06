@@ -58,54 +58,62 @@
 125,West,0,115,East,0
 # Harpley (127) - Carlton Square (131)
 127,South,0,131,North,8
-# Phil's House (144) - Grumpig's Back (143)
-144,North,0,143,South,4
 # Shepherd & Flock (137) - Grumpig's Back (143)
 137,East,6,143,West,0
-# Gostreys (22) - Farnham Bypass E (135)
-22,East,28,135,West,0
-# Borellis (120) - Farnham Bypass E (135)
-120,South,0,135,North,0
-# Central Farnham SW (109) - Farnham Bypass E (135)
-109,East,52,135,West,0
-# Central Farnham NW (114) - Farnham Bypass E (135)
-114,East,92,135,West,0
-# Borelli Woods (122) - Farnham Bypass E (135)
-122,South,0,135,North,28
-# Six Bellsprouts (118) - Farnham Bypass E (135)
-118,West,87,135,East,0
-# Shepherd & Flock (137) - Farnham Bypass E (135)
-137,West,48,135,East,0
-# Borellis (120) - Gostreys (22)
-120,West,0,22,East,0
-# Central Farnham SE (103) - Gostreys (22)
-103,West,28,22,East,0
-# Central Farnham SW (109) - Gostreys (22)
-109,South,12,22,North,0
-# Central Farnham NE (142) - Gostreys (22)
-142,West,64,22,East,0
-# Water Meadows (124) - Gostreys (22)
-124,South,64,22,North,0
-# Central Farnham SE (103) - Borellis (120)
-103,South,0,120,North,0
-# Central Farnham SW (109) - Borellis (120)
-109,East,24,120,West,0
-# Central Farnham NW (114) - Borellis (120)
-114,East,64,120,West,0
-# Water Meadows (124) - Borellis (120)
-124,South,124,120,North,0
+# Phil's House (144) - Grumpig's Back (143)
+144,North,0,143,South,4
+# Blackwater Reservoir (151) - Grumpig's Back (143)
+151,South,0,143,North,0
+# Ash Green (152) - Grumpig's Back (143)
+152,South,0,143,North,30
+# Christmas Pie Avenue (153) - Grumpig's Back (143)
+153,South,0,143,North,52
+# Central Farnham SE (103) - Shepherd & Flock (137)
+103,East,8,137,West,0
+# Farnham Bypass E (135) - Shepherd & Flock (137)
+135,North,58,137,South,0
+# Central Farnham NE (142) - Shepherd & Flock (137)
+142,East,44,137,West,0
+# Borelli Woods (122) - Shepherd & Flock (137)
+122,East,0,137,West,20
+# Six Bellsprouts (118) - Shepherd & Flock (137)
+118,South,0,137,North,0
+# Blackwater Reservoir (151) - Shepherd & Flock (137)
+151,West,18,137,East,0
+# Gostreys (22) - Central Farnham SE (103)
+22,North,60,103,South,0
 # Central Farnham SW (109) - Central Farnham SE (103)
 109,East,0,103,West,4
 # Central Farnham NE (142) - Central Farnham SE (103)
 142,South,0,103,North,0
 # Central Farnham NW (114) - Central Farnham SE (103)
 114,East,36,103,West,0
+# Borellis (120) - Central Farnham SE (103)
+120,North,0,103,South,0
 # Borelli Woods (122) - Central Farnham SE (103)
 122,North,0,103,South,28
 # Six Bellsprouts (118) - Central Farnham SE (103)
 118,West,31,103,East,0
-# Shepherd & Flock (137) - Central Farnham SE (103)
-137,West,0,103,East,8
+# Farnham Bypass E (135) - Gostreys (22)
+135,West,0,22,East,28
+# Central Farnham SW (109) - Gostreys (22)
+109,South,12,22,North,0
+# Central Farnham NE (142) - Gostreys (22)
+142,West,64,22,East,0
+# Water Meadows (124) - Gostreys (22)
+124,South,64,22,North,0
+# Borellis (120) - Gostreys (22)
+120,West,0,22,East,0
+# Central Farnham SW (109) - Farnham Bypass E (135)
+109,East,52,135,West,0
+# Central Farnham NW (114) - Farnham Bypass E (135)
+114,East,92,135,West,0
+# Borellis (120) - Farnham Bypass E (135)
+120,South,0,135,North,0
+# Borelli Woods (122) - Farnham Bypass E (135)
+122,South,0,135,North,28
+# Six Bellsprouts (118) - Farnham Bypass E (135)
+118,West,87,135,East,0
 # Crondall (79) - Central Farnham SW (109)
 79,East,87,109,West,0
 # Central Farnham NE (142) - Central Farnham SW (109)
@@ -120,6 +128,8 @@
 90,South,54,109,North,0
 # Water Meadows (124) - Central Farnham SW (109)
 124,East,0,109,West,0
+# Borellis (120) - Central Farnham SW (109)
+120,West,0,109,East,24
 # Crondall Lane S (121) - Central Farnham SW (109)
 121,East,32,109,West,0
 # Crondall Lane M (138) - Central Farnham SW (109)
@@ -158,14 +168,14 @@
 114,East,0,142,West,0
 # Six Bellsprouts (118) - Central Farnham NE (142)
 118,West,0,142,East,5
-# Shepherd & Flock (137) - Central Farnham NE (142)
-137,West,0,142,East,44
 # Redfields Lane W (100) - Central Farnham NW (114)
 100,East,66,114,West,0
 # Dora's Green (112) - Central Farnham NW (114)
 112,East,22,114,West,0
 # Water Meadows (124) - Central Farnham NW (114)
 124,North,52,114,South,0
+# Borellis (120) - Central Farnham NW (114)
+120,West,0,114,East,64
 # Crondall Lane S (121) - Central Farnham NW (114)
 121,East,0,114,West,8
 # Crondall Lane M (138) - Central Farnham NW (114)
@@ -200,6 +210,8 @@
 121,West,0,90,East,0
 # Crondall Lane M (138) - Chantrys (90)
 138,South,0,90,North,0
+# Borellis (120) - Water Meadows (124)
+120,North,0,124,South,124
 # Crondall Lane S (121) - Water Meadows (124)
 121,South,0,124,North,32
 # Borelli Woods (122) - Water Meadows (124)
@@ -212,7 +224,7 @@
 138,North,6,113,South,0
 # Six Bellsprouts (118) - Borelli Woods (122)
 118,West,59,122,East,0
-# Shepherd & Flock (137) - Borelli Woods (122)
-137,West,20,122,East,0
-# Shepherd & Flock (137) - Six Bellsprouts (118)
-137,North,0,118,South,0
+# Ash Green (152) - Blackwater Reservoir (151)
+152,West,0,151,East,0
+# Christmas Pie Avenue (153) - Ash Green (152)
+153,West,0,152,East,0

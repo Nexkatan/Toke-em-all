@@ -58,16 +58,18 @@
 125,West,0,115,East,0
 # Harpley (127) - Carlton Square (131)
 127,South,0,131,North,8
+# Grumpig's Back (143) - Phil's House (144)
+143,South,4,144,North,0
 # Shepherd & Flock (137) - Grumpig's Back (143)
-137,East,6,143,West,0
-# Phil's House (144) - Grumpig's Back (143)
-144,North,0,143,South,4
+137,East,30,143,West,0
 # Blackwater Reservoir (151) - Grumpig's Back (143)
 151,South,0,143,North,0
 # Ash Green (152) - Grumpig's Back (143)
 152,South,0,143,North,30
 # Christmas Pie Avenue (153) - Grumpig's Back (143)
 153,South,0,143,North,52
+# Guildford (77) - Grumpig's Back (143)
+77,West,16,143,East,0
 # Central Farnham SE (103) - Shepherd & Flock (137)
 103,East,8,137,West,0
 # Farnham Bypass E (135) - Shepherd & Flock (137)
@@ -79,7 +81,7 @@
 # Six Bellsprouts (118) - Shepherd & Flock (137)
 118,South,0,137,North,0
 # Blackwater Reservoir (151) - Shepherd & Flock (137)
-151,West,18,137,East,0
+151,West,0,137,East,6
 # Gostreys (22) - Central Farnham SE (103)
 22,North,60,103,South,0
 # Central Farnham SW (109) - Central Farnham SE (103)
@@ -228,3 +230,5 @@
 152,West,0,151,East,0
 # Christmas Pie Avenue (153) - Ash Green (152)
 153,West,0,152,East,0
+# Guildford (77) - Christmas Pie Avenue (153)
+77,West,0,153,East,8

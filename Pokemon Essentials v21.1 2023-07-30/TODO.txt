@@ -2,16 +2,22 @@
 
 Fix the changed map transports: 
 
-Add cool old rod water pokes to crondall
 Change maps to all have time of day - add them all in and set Outdoor = true
 kids leaving for prof nudge each other a bit, maybe not a problem
-change battle "Bag" to "No bag"
 
+Frankie haircut each poke only 1ce a day
 
+Train tickets and railcard "You can't ride the train without a railcard... that would be a bad deal"
 
-Gym 1 Phil?
+Add Gabe to Christmas P
 
-Eevee stairs
+trainers
+
+Ed Badge gym battle
+
+cheeky museum callback at borellis wine bar
+
+Add Laureldene
 
 Who's the ruin maniac	Jamie Prev?
 
@@ -46,4 +52,4 @@ PLAYTHROUGH
 
 
 reset spawn point when you get the bicycle
-pokmon needs accent e in: shepherd n flock inside table, shepherd outside, Pokemon incubator at Professor Cedar's
+pokmon needs accent e in: shepherd n flock inside table, shepherd outside, Pokemon incubator at Professor Cedar's, Frankie in cabin

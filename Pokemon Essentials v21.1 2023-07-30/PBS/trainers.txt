@@ -5,23 +5,13 @@ LoseText = A very good battle, indeed!
 Pokemon = DIGLETT,10
 Pokemon = BONSLY,11
 #-------------------------------
-[LEADER_Brock,Brock]
+[LEADER_Surge,Ed]
 Items = FULLRESTORE,FULLRESTORE
-LoseText = Very good.
-Pokemon = GEODUDE,12
-    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
-    AbilityIndex = 0
-    Gender = male
-    IV = 20,20,20,20,20,20
-Pokemon = ONIX,14
-    Name = Rocky
-    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
-    AbilityIndex = 0
+LoseText = Very good
+Pokemon = SHINX,12
+Pokemon = FLAAFFY,14
     Item = SITRUSBERRY
-    Gender = male
-    IV = 20,20,20,20,20,20
-    Shiny = true
-    Ball = HEAVYBALL
+Pokemon = ELEKID, 15
 #-------------------------------
 [TEAMROCKET_M,Grunt,1]
 LoseText = You're too good for me!

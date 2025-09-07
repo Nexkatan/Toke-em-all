@@ -36,6 +36,8 @@ MapPosition = 0,13,11
 Name = Cedolan City
 Outdoor = true
 ShowArea = true
+Bicycle = true
+Skateboard = true
 MapPosition = 0,13,10
 MapSize = 2,11
 #-------------------------------
@@ -109,6 +111,7 @@ Name = Gostreys
 Outdoor = true
 ShowArea = true
 Bicycle = true
+Skateboard = true
 #-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
@@ -144,6 +147,7 @@ Flags = MossRock,BugContest
 [029]   # Natural Park Entrance
 Name = Natural Park
 Bicycle = true
+Skateboard = true
 MapPosition = 0,16,8
 Flags = BugContestReception
 #-------------------------------
@@ -165,10 +169,12 @@ Name = \PN's Garden
 Outdoor = true
 ShowArea = true
 Bicycle = true
+Skateboard = true
 #-------------------------------
 [034]   # Ice Cave
 Name = Route 3
 Bicycle = true
+Skateboard = true
 MapPosition = 0,15,6
 BattleBack = cave1
 Environment = Cave
@@ -229,6 +235,7 @@ Name = Church Crookham
 Outdoor = true
 ShowArea = true
 Bicycle = true
+Skateboard = true
 #-------------------------------
 [044]   # Route 6
 Name = Route 6
@@ -265,10 +272,12 @@ Name = Redfields Garden Centre
 Outdoor = true
 ShowArea = true
 Bicycle = true
+Skateboard = true
 #-------------------------------
 [049]   # Rock Cave 1F
 Name = Route 7
 Bicycle = true
+Skateboard = true
 MapPosition = 0,16,10
 BattleBack = cave1
 Environment = Cave
@@ -277,6 +286,7 @@ Flags = Magnetic,DistortionWorld
 [050]   # Rock Cave B1F
 Name = Route 7
 Bicycle = true
+Skateboard = true
 MapPosition = 0,16,10
 DarkMap = true
 BattleBack = cave3
@@ -286,6 +296,7 @@ Flags = Magnetic,DistortionWorld
 [051]   # Dungeon
 Name = Route 7
 Bicycle = true
+Skateboard = true
 MapPosition = 0,16,10
 Dungeon = true
 BattleBack = cave2
@@ -434,11 +445,15 @@ Name = Brighton
 Outdoor = true
 ShowArea = true
 Bicycle = true
+Skateboard = true
 MapPosition = 0,14,10
 #-------------------------------
-[077]   # Cedar Studios
-Name = Cedar Studios
+[077]   # Guildford W
+Name = Guildford
 ShowArea = true
+Outdoor = true
+Bicycle = true
+Skateboard = true
 #-------------------------------
 [078]   # Eevee's Lair
 Name = Eevee's Lair
@@ -450,6 +465,7 @@ Name = Crondall
 Outdoor = true
 ShowArea = true
 Bicycle = true
+Skateboard = true
 #-------------------------------
 [080]   # Fleet Gate
 Name = Fleet Gate
@@ -467,29 +483,32 @@ Name = A3
 Outdoor = true
 ShowArea = true
 Bicycle = true
+Skateboard = true
 BicycleAlways = true
 #-------------------------------
 [083]   # Brighton Gate
 Name = Brighton Gate
 ShowArea = true
 Bicycle = true
+Skateboard = true
 #-------------------------------
 [084]   # Hove
 Name = Hove
 Outdoor = true
 ShowArea = true
 Bicycle = true
+Skateboard = true
 #-------------------------------
 [085]   # B2066 - Brighton to Hove
 Name = B2066
 Outdoor = true
 ShowArea = true
 Bicycle = true
+Skateboard = true
 #-------------------------------
 [086]   # Brighton Poké Center
 Name = Brighton Poké Centre
 ShowArea = true
-Bicycle = true
 #-------------------------------
 [087]   # Fleet Interchange Cycling Road
 Name = Fleet Interchange
@@ -508,29 +527,89 @@ Name = A23
 Outdoor = true
 ShowArea = true
 Bicycle = true
-BicycleAlways = true
+Skateboard = true
 #-------------------------------
 [090]   # Chantrys
 Name = Chantrys
 Outdoor = true
 ShowArea = true
 Bicycle = true
+Skateboard = true
 #-------------------------------
 [091]   # No. 17
 Name = No. 17
 ShowArea = true
 #-------------------------------
+[092]   # Brighton Game Corner
+Name = Brighton Pier Game Corner
+ShowArea = true
+#-------------------------------
+[093]   # Hove Cove Research Centre
+Name = Hove Cove Research Centre
+ShowArea = true
+#-------------------------------
+[094]   # Hove Cove Research Centre Back Room
+Name = Hove Cove Research Centre
+ShowArea = true
+#-------------------------------
+[095]   # Brighton Card Club
+Name = Brighton Card Club
+ShowArea = true
+#-------------------------------
+[096]   # Hove Cove Trove Alcove B2F
+Name = Hove Cove Trove Alcove
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[097]   # Hove Cove Trove Alcove B1F
+Name = Hove Cove Trove Alcove
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
 [099]   # Upper Hale
 Name = Upper Hale
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
 #-------------------------------
 [100]   # Redfields Lane W
 Name = Redfields Lane
 Outdoor = true
 ShowArea = true
 Bicycle = true
+Skateboard = true
+#-------------------------------
+[101]   # Sains Petrol Station
+Name = Big Signsbury's Petty Station
+ShowArea = true
 #-------------------------------
 [103]   # Central Farnham SE
-Name = Central Farnham S
+Name = Central Farnham
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[104]   # Two Point Studios
+Name = Two Point Studios
+ShowArea = true
+#-------------------------------
+[107]   # Guildford E
+Name = Guildford
+ShowArea = true
+Outdoor = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[108]   # Farnham Park
+Name = Farnham Park
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
 #-------------------------------
 [109]   # Central Farnham SW
 Name = Central Farnham
@@ -539,29 +618,202 @@ ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
-[112]   # Dora's Green
-Name = Dora's Green
-#-------------------------------
-[114]   # Central Farnham NW
-Name = Central Farnham N
+[111]   # Road to the Place
+Name = Place Road
 Outdoor = true
 ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
+[112]   # Dora's Green
+Name = Dora's Green
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[113]   # Crondall Lane N
+Name = Crondall Lane
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[114]   # Central Farnham NW
+Name = Central Farnham
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[115]   # A31
+Name = A31
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[116]   # Shepherd & Flock Hut
+Name = The Shepherd & Flock
+ShowArea = true
+#-------------------------------
+[177]   # Guildford Station
+Name = Guildford Station
+ShowArea = true
+Outdoor = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
 [118]   # Six Bellsprouts
+Name = Six Bellsprouts Roundabout
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[120]   # Borellis
+Name = Borelli's Walk	
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[122]   # Borelli Woods
+Name = Borelli Woods
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[121]   # Crondall Lane
+Name = Crondall Lane
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
 #-------------------------------
 [124]   # Water Meadows
 Name = Water Meadows
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[125]   # Flexford Cave
+Name = Flexford Cove
+ShowArea = true
+Bicycle = true
+Skateboard = true
 #-------------------------------
 [128]   # Redfields Lane E
 Name = Redfields Lane
 Outdoor = true
 ShowArea = true
 Bicycle = true
+Skateboard = true
 #-------------------------------
 [129]   # A287
 Name = A287
 Outdoor = true
 ShowArea = true
 Bicycle = true
+Skateboard = true
+#-------------------------------
+[135]   # Farnham Bypass E
+Name = Farnham Bypass
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[136]   # Guildford Gym
+Name = Guildford Borough Council Gym
+ShowArea = true
+Outdoor = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[137]   # Shepherd n Flock Roundabout
+Name = Shepherd & Flock Roundabout
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[138]   # Crondall Lane M
+Name = Crondall Lane
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[139]   # Farnham Park Gate S
+Name = Farnham Park South Gate
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[140]   # Farnham Park Gate N
+Name = Farnham Park North Gate
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[141]   # Farnham Park Gate E
+Name = Farnham Park East Gate
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[142]   # Central Farnham NE
+Name = Central Farnham
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[143]   # Grumpig's Back
+Name = Grumpig's Back
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[144]   # Phil's House
+Name = Phil's House
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[145]   # The Cabin
+Name = The Cabin
+ShowArea = true
+#-------------------------------
+[150]   # Cedar Studios
+Name = Cedar Studios
+ShowArea = true
+#-------------------------------
+[151]   # Blackwater Reservoir
+Name = BlackWater Reservoir
+ShowArea = true
+Outdoor = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[152]   # Ash Green
+Name = Ash Green 
+ShowArea = true
+Outdoor = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[153]   # Christmas Pie Avenue
+Name = Christmas Pie Avenue
+ShowArea = true
+Outdoor = true
+Bicycle = true
+Skateboard = true

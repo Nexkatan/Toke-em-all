@@ -56,54 +56,24 @@
 85,North,69,88,South,0
 # Harpley (127) - Carlton Square (131)
 127,South,0,131,North,8
-# Grumpig's Back (143) - Guildford W (77)
-143,East,0,77,West,18
-# Christmas Pie Avenue (153) - Guildford W (77)
-153,East,6,77,West,0
-# Guildford E (107) - Guildford W (77)
-107,West,0,77,East,0
-# Christmas Pie Avenue (153) - Grumpig's Back (143)
-153,South,0,143,North,52
-# Ash Green (152) - Grumpig's Back (143)
-152,South,0,143,North,30
-# Blackwater Reservoir (151) - Grumpig's Back (143)
-151,South,0,143,North,0
-# Shepherd & Flock (137) - Grumpig's Back (143)
-137,East,30,143,West,0
-# Phil's House (144) - Grumpig's Back (143)
-144,North,0,143,South,4
-# Ash Green (152) - Christmas Pie Avenue (153)
-152,East,0,153,West,0
-# Blackwater Reservoir (151) - Ash Green (152)
-151,East,0,152,West,0
-# Shepherd & Flock (137) - Blackwater Reservoir (151)
-137,East,6,151,West,0
-# Central Farnham SE (103) - Shepherd & Flock (137)
-103,East,8,137,West,0
-# Farnham Bypass E (135) - Shepherd & Flock (137)
-135,North,58,137,South,0
-# Central Farnham NE (142) - Shepherd & Flock (137)
-142,East,44,137,West,0
-# Borelli Woods (122) - Shepherd & Flock (137)
-122,East,0,137,West,20
-# Six Bellsprouts (118) - Shepherd & Flock (137)
-118,South,0,137,North,0
-# Gostreys (22) - Central Farnham SE (103)
-22,North,60,103,South,0
-# Central Farnham SW (109) - Central Farnham SE (103)
-109,East,0,103,West,4
-# Central Farnham NE (142) - Central Farnham SE (103)
-142,South,0,103,North,0
-# Central Farnham NW (114) - Central Farnham SE (103)
-114,East,36,103,West,0
-# Borellis (120) - Central Farnham SE (103)
-120,North,0,103,South,0
-# Borelli Woods (122) - Central Farnham SE (103)
-122,North,0,103,South,28
-# Six Bellsprouts (118) - Central Farnham SE (103)
-118,West,31,103,East,0
-# Farnham Bypass E (135) - Gostreys (22)
-135,West,0,22,East,28
+# Gostreys (22) - Farnham Bypass E (135)
+22,East,26,135,West,0
+# Borelli Woods (122) - Farnham Bypass E (135)
+122,South,0,135,North,28
+# Central Farnham SW (109) - Farnham Bypass E (135)
+109,East,50,135,West,0
+# Central Farnham NW (114) - Farnham Bypass E (135)
+114,East,90,135,West,0
+# Borellis (120) - Farnham Bypass E (135)
+120,South,0,135,North,0
+# Six Bellsprouts (118) - Farnham Bypass E (135)
+118,West,87,135,East,0
+# Shepherd & Flock (137) - Farnham Bypass E (135)
+137,West,48,135,East,0
+# Poo Sticks (98) - Farnham Bypass E (135)
+98,West,0,135,East,0
+# Central Farnham SE (103) - Gostreys (22)
+103,West,28,22,East,0
 # Central Farnham SW (109) - Gostreys (22)
 109,South,12,22,North,0
 # Central Farnham NE (142) - Gostreys (22)
@@ -112,16 +82,34 @@
 124,South,64,22,North,0
 # Borellis (120) - Gostreys (22)
 120,West,0,22,East,0
-# Central Farnham SW (109) - Farnham Bypass E (135)
-109,East,52,135,West,0
-# Central Farnham NW (114) - Farnham Bypass E (135)
-114,East,92,135,West,0
-# Borellis (120) - Farnham Bypass E (135)
-120,South,0,135,North,0
-# Borelli Woods (122) - Farnham Bypass E (135)
-122,South,0,135,North,28
-# Six Bellsprouts (118) - Farnham Bypass E (135)
-118,West,87,135,East,0
+# Borelli Woods (122) - Central Farnham SE (103)
+122,North,0,103,South,28
+# Central Farnham SW (109) - Central Farnham SE (103)
+109,East,0,103,West,4
+# Central Farnham NE (142) - Central Farnham SE (103)
+142,South,0,103,North,0
+# Central Farnham NW (114) - Central Farnham SE (103)
+114,East,36,103,West,0
+# Borellis (120) - Central Farnham SE (103)
+120,North,0,103,South,0
+# Six Bellsprouts (118) - Central Farnham SE (103)
+118,West,33,103,East,0
+# Shepherd & Flock (137) - Central Farnham SE (103)
+137,West,0,103,East,6
+# Poo Sticks (98) - Central Farnham SE (103)
+98,West,0,103,East,54
+# Central Farnham SW (109) - Borelli Woods (122)
+109,South,100,122,North,0
+# Water Meadows (124) - Borelli Woods (122)
+124,South,152,122,North,0
+# Borellis (120) - Borelli Woods (122)
+120,East,0,122,West,0
+# Six Bellsprouts (118) - Borelli Woods (122)
+118,West,61,122,East,0
+# Shepherd & Flock (137) - Borelli Woods (122)
+137,West,22,122,East,0
+# Poo Sticks (98) - Borelli Woods (122)
+98,West,0,122,East,26
 # Crondall (79) - Central Farnham SW (109)
 79,East,87,109,West,0
 # Central Farnham NE (142) - Central Farnham SW (109)
@@ -142,8 +130,6 @@
 121,East,32,109,West,0
 # Crondall Lane M (138) - Central Farnham SW (109)
 138,East,47,109,West,0
-# Borelli Woods (122) - Central Farnham SW (109)
-122,North,0,109,South,100
 # Upper Hale (99) - Crondall (79)
 99,West,0,79,East,19
 # Central Farnham NW (114) - Crondall (79)
@@ -175,7 +161,11 @@
 # Central Farnham NW (114) - Central Farnham NE (142)
 114,East,0,142,West,0
 # Six Bellsprouts (118) - Central Farnham NE (142)
-118,West,0,142,East,5
+118,West,0,142,East,3
+# Shepherd & Flock (137) - Central Farnham NE (142)
+137,West,0,142,East,42
+# Poo Sticks (98) - Central Farnham NE (142)
+98,West,0,142,East,90
 # Redfields Lane W (100) - Central Farnham NW (114)
 100,East,66,114,West,0
 # Dora's Green (112) - Central Farnham NW (114)
@@ -222,13 +212,41 @@
 120,North,0,124,South,124
 # Crondall Lane S (121) - Water Meadows (124)
 121,South,0,124,North,32
-# Borelli Woods (122) - Water Meadows (124)
-122,North,0,124,South,152
+# Poo Sticks (98) - Borellis (120)
+98,North,0,120,South,58
 # Crondall Lane N (113) - Crondall Lane S (121)
 113,East,30,121,West,0
 # Crondall Lane M (138) - Crondall Lane S (121)
 138,South,34,121,North,0
 # Crondall Lane M (138) - Crondall Lane N (113)
 138,North,6,113,South,0
-# Six Bellsprouts (118) - Borelli Woods (122)
-118,West,59,122,East,0
+# Shepherd & Flock (137) - Six Bellsprouts (118)
+137,North,0,118,South,0
+# Grumpig's Back (143) - Shepherd & Flock (137)
+143,West,0,137,East,30
+# Blackwater Reservoir (151) - Shepherd & Flock (137)
+151,West,0,137,East,6
+# Poo Sticks (98) - Shepherd & Flock (137)
+98,North,0,137,South,0
+# Guildford W (77) - Grumpig's Back (143)
+77,West,18,143,East,0
+# Christmas Pie Avenue (153) - Grumpig's Back (143)
+153,South,0,143,North,52
+# Ash Green (152) - Grumpig's Back (143)
+152,South,0,143,North,30
+# Blackwater Reservoir (151) - Grumpig's Back (143)
+151,South,0,143,North,0
+# Phil's House (144) - Grumpig's Back (143)
+144,North,0,143,South,4
+# Poo Sticks (98) - Grumpig's Back (143)
+98,East,0,143,West,18
+# Christmas Pie Avenue (153) - Guildford W (77)
+153,East,6,77,West,0
+# Guildford E (107) - Guildford W (77)
+107,West,0,77,East,0
+# Ash Green (152) - Christmas Pie Avenue (153)
+152,East,0,153,West,0
+# Blackwater Reservoir (151) - Ash Green (152)
+151,East,0,152,West,0
+# Poo Sticks (98) - Blackwater Reservoir (151)
+98,East,0,151,West,42

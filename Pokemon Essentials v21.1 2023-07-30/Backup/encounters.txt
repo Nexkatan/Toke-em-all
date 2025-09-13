@@ -1,0 +1,114 @@
+﻿#-------------------------------
+[028] # Natural Park
+Land,21
+    20,CATERPIE,10
+    20,SUNKERN,12
+    20,WEEDLE,10
+    15,PIDGEY,10,14
+    15,PIDGEY,12,14
+    5,KAKUNA,10
+    5,METAPOD,10
+LandNight,21
+    30,HOOTHOOT,10,14
+    30,SPINARAK,10,15
+    20,PINECO,9,13
+    10,DROWZEE,9,15
+    10,NATU,12,14
+LandMorning,21
+    25,CATERPIE,10,12
+    25,WEEDLE,10,12
+    20,PIDGEY,10,14
+    15,KAKUNA,10
+    15,METAPOD,10
+BugContest,21
+    20,CATERPIE,7,18
+    20,WEEDLE,7,18
+    10,KAKUNA,9,18
+    10,METAPOD,9,18
+    10,PARAS,10,17
+    10,VENONAT,10,16
+    5,BEEDRILL,12,15
+    5,BUTTERFREE,12,15
+    5,PINSIR,13,14
+    5,SCYTHER,13,14
+PokeRadar,40
+    50,BEEDRILL,15,18
+    50,BUTTERFREE,15,18
+#-------------------------------
+[033] # Tom's Garden
+Land,21
+    30,CATERPIE,3,5
+    30,LEDYBA,3,5
+    30,SPINARAK,3,5
+    5,ODDISH,3,5
+    5,SEEDOT,3,5
+#-------------------------------
+[043] # Church Crookham
+Land,21
+    40,VENONAT,3,5
+    40,VULPIX,3,5
+    10,NINCADA,3,5
+    5,CLEFFA,3,5
+    5,IGGLYBUFF,3,5
+    5,PICHU,3,5
+#-------------------------------
+[048] # Redfields
+Land,21
+    40,BELLSPROUT,3,5
+    40,SUNKERN,3,5
+    10,MEDITITE,3,5
+    10,NATU,3,5
+    10,WEEDLE,3,5
+#-------------------------------
+[051] # Dungeon
+Cave,5
+    20,CHINGLING,1
+    20,CLEFFA,1
+    20,IGGLYBUFF,1
+    20,PICHU,1
+    10,RIOLU,1
+    10,TYROGUE,1
+#-------------------------------
+[076] # Brighton
+Land,21
+    40,KRABBY,5,7
+    40,WINGULL,5,7
+    20,SQUIRTLE,5
+    10,SEEL,5
+#-------------------------------
+[079] # Crondall
+Land,21
+    40,ODDISH,3,6
+    40,SHINX,3,5
+    20,CHERUBI,3,5
+    10,HOPPIP,3,5
+#-------------------------------
+[081] # Fleet Interchange
+Land,21
+    40,PIDGEY,5,7
+    40,RALTS,5,7
+    10,AZURILL,5,7
+    10,ELEKID,5,7
+    10,MAGBY,5,7
+#-------------------------------
+[082] # A3
+Land,21
+    40,DODUO,5,8
+    40,EKANS,4,7
+    40,PHANPY,5,8
+    10,ONIX,6,8
+#-------------------------------
+[090] # Chantrys
+Land,21
+    40,RATTATA,3,5
+    30,POOCHYENA,3,5
+    20,SPEAROW,3,5
+    10,CUBONE,3,5
+
+#-------------------------------
+[0143] # Grumpigs Back
+Land,21
+    40,RATTATA,3,5
+    30,POOCHYENA,3,5
+    20,SPEAROW,3,5
+    10,CUBONE,3,5

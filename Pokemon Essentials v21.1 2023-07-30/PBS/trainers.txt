@@ -38,7 +38,132 @@ Pokemon = SHIELDON, 15
 [LEADER_Surge,Ed ]
 Items = FULLRESTORE,FULLRESTORE
 LoseText = Very nice
-Pokemon = SHINX, 12
-Pokemon = FLAAFFY, 14
+Pokemon = SHINX, 20
+Pokemon = FLAAFFY, 22
     HeldItem = SITRUSBERRY
-Pokemon = ELEKID, 15
+Pokemon = ELECTABUZZ, 25
+#-------------------------------
+[BEAUTY,Bethan]
+LoseText = Fairy nuff, you won!
+Pokemon = CLEFFA, 11
+Pokemon = TOGEPI, 12
+Pokemon = SNUBBULL, 12
+Pokemon = JIGGLYPUFF, 13
+#-------------------------------
+[BEAUTY,Laura]
+LoseText = I just don't understand... Are you Gabe or something?
+Pokemon = SPEAROW, 30
+Pokemon = DODUO, 30
+Pokemon = MUNCHLAX, 30
+Pokemon = RATICATE, 30
+#-------------------------------
+[BEAUTY,Alice]
+LoseText = 
+Pokemon = TOGETIC, 30
+Pokemon = BEAUTIFLY, 30
+Pokemon = SWABLU, 30
+Pokemon = DRIFLOON, 30
+#-------------------------------
+[BEAUTY,Annya]
+LoseText = 
+Pokemon = BANETTE, 30
+Pokemon = MISDREAVUS, 30
+Pokemon = HAUNTER, 30
+Pokemon = SHEDINJA, 30
+Pokemon = SABLEYE, 30
+#-------------------------------
+[YOUNGSTER,Will Hucker]
+LoseText = Sorry about my brother
+Pokemon = MINUN, 15
+Pokemon = SILCOON, 14
+Pokemon = HITMONLEE, 16
+#-------------------------------
+[YOUNGSTER,Guy Hucker]
+LoseText = Sorry about my brother
+Pokemon = PLUSLE, 15
+Pokemon = CASCOON, 14
+Pokemon = HITMONCHAN, 16
+#-------------------------------
+[BEAUTY,Grace Hucker]
+LoseText = I've got nothing to say to you!
+Pokemon = NIDORINA, 14
+Pokemon = ILLUMISE, 15
+Pokemon = TYROGUE, 14
+Pokemon = HITMONTOP, 16
+#-------------------------------
+[TUBER_F,Jess Wreford]
+LoseText = I'm going to post about this on Instagram
+Pokemon = RATTATA, 14
+Pokemon = CHATOT, 15
+Pokemon = ZUBAT, 14
+Pokemon = VOLBEAT, 14
+#-------------------------------
+[YOUNGCOUPLE,Siena & Dom]
+LoseText = We promise he's not Gabe!
+Pokemon = DUSTOX, 14
+Pokemon = GRANBULL, 15
+Pokemon = HOPPIP, 14
+Pokemon = MRMIME, 15
+Pokemon = PONYTA, 15
+Pokemon = KRICKETUNE, 15
+#-------------------------------
+[CAMPER,Geci]
+LoseText = I'm gonna dj a song about this
+Pokemon = MASQUERAIN, 15
+Pokemon = DUGTRIO, 15
+Pokemon = BUTTERFREE, 15
+#-------------------------------
+[SWIMMER_M,Greg Mungall]
+LoseText = Well at least I have my muscles
+Pokemon = MEDITITE, 14
+Pokemon = BRONZOR, 15
+Pokemon = MAKUHITA, 15
+#-------------------------------
+[ENGINEER,Tom McDevitt]
+LoseText = Length is just a number
+Pokemon = GIRAFARIG, 15
+Pokemon = DRATINI, 14
+Pokemon = FURRET, 15
+#-------------------------------
+[YOUNGSTER,Beno]
+LoseText = I remember when you locked me outside and fed me mayonnaise
+Pokemon = BALTOY, 15
+Pokemon = MAGMAR, 15
+Pokemon = GEODUDE, 14
+Pokemon = OCTILLERY, 15
+#-------------------------------
+[BIKER,Puke Nicholas]
+LoseText = Oiii Naaaah
+Pokemon = BELLSPROUT, 12
+Pokemon = GRIMER, 12
+Pokemon = GULPIN, 13
+#-------------------------------
+[BIKER,Peli]
+LoseText = Oi Nah
+Pokemon = BUDEW, 12
+Pokemon = BONSLY, 12
+Pokemon = MIMEJR, 12
+#-------------------------------
+[BIKER,Millard]
+LoseText = Oiiiii Nah
+Pokemon = ONIX, 13
+Pokemon = RHYHORN, 14
+#-------------------------------
+[BIKER,Jonny Burns]
+LoseText = Ooooiii
+Pokemon = COMBUSKEN, 14
+Pokemon = NUMEL, 14
+#-------------------------------
+[BIKER,Rumpson]
+LoseText = Oi Naaaah
+Pokemon = LAIRON, 14
+Pokemon = HARIYAMA, 14
+#-------------------------------
+[BIKER,Carter]
+LoseText = Nah
+Pokemon = MACHOKE, 14
+Pokemon = NUZLEAF, 14
+#-------------------------------
+[TEAMROCKET_F,Nay]
+LoseText = Cry
+Pokemon = DODUO, 45

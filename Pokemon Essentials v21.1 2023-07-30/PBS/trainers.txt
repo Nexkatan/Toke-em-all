@@ -105,7 +105,6 @@ Pokemon = GRANBULL, 15
 Pokemon = HOPPIP, 14
 Pokemon = MRMIME, 15
 Pokemon = PONYTA, 15
-Pokemon = KRICKETUNE, 15
 #-------------------------------
 [CAMPER,Geci]
 LoseText = I'm gonna dj a song about this
@@ -158,6 +157,11 @@ Pokemon = NUMEL, 14
 LoseText = Oi Naaaah
 Pokemon = LAIRON, 14
 Pokemon = HARIYAMA, 14
+#-------------------------------
+[BIKER,Yannis]
+LoseText = Oii
+Pokemon = SNEASEL, 14
+Pokemon = PHANPY, 14
 #-------------------------------
 [BIKER,Carter]
 LoseText = Nah

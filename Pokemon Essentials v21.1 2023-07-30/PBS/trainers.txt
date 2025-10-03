@@ -43,12 +43,11 @@ Pokemon = FLAAFFY, 22
     HeldItem = SITRUSBERRY
 Pokemon = ELECTABUZZ, 25
 #-------------------------------
-[BEAUTY,Bethan]
+[BEAUTY,Beef ]
 LoseText = Fairy nuff, you won!
-Pokemon = CLEFFA, 11
-Pokemon = TOGEPI, 12
-Pokemon = SNUBBULL, 12
-Pokemon = JIGGLYPUFF, 13
+Pokemon = CLEFFA, 5
+Pokemon = JIGGLYPUFF, 5
+Pokemon = SNUBBULL, 5
 #-------------------------------
 [BEAUTY,Laura]
 LoseText = I just don't understand... Are you Gabe or something?
@@ -108,9 +107,9 @@ Pokemon = PONYTA, 15
 #-------------------------------
 [CAMPER,Geci]
 LoseText = I'm gonna dj a song about this
-Pokemon = MASQUERAIN, 15
-Pokemon = DUGTRIO, 15
-Pokemon = BUTTERFREE, 15
+Pokemon = FARFETCHD, 7
+Pokemon = PICHU, 9
+Pokemon = JIGGLYPUFF, 8
 #-------------------------------
 [SWIMMER_M,Greg Mungall]
 LoseText = Well at least I have my muscles
@@ -171,3 +170,8 @@ Pokemon = NUZLEAF, 14
 [TEAMROCKET_F,Nay]
 LoseText = Cry
 Pokemon = DODUO, 45
+#-------------------------------
+[BEAUTY,McGowan]
+LoseText = Corrr you're good at that!
+Pokemon = VULPIX, 6
+Pokemon = GOLDEEN, 7

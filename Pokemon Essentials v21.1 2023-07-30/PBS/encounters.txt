@@ -1,20 +1,54 @@
 ﻿#-------------------------------
 [033] # Player's Garden
 Land,21
-    30,CATERPIE,3,5
-    30,LEDYBA,3,5
-    30,SPINARAK,3,5
-    5,ODDISH,3,5
-    5,SEEDOT,3,5
+    30,CATERPIE,5,10
+    30,LEDYBA,8,11
+    30,SPINARAK,5,10
+    5,ODDISH,5,10
+    5,SEEDOT,8,11
+Water,2
+    20,SQUIRTLE,25,30
+    5,WARTORTLE,35,40
+    20,POLIWAG,25,30
+    5,POLIWHIRL,35,40
+    40,GOLDEEN,25,30
+    10,SEAKING,35,40
+OldRod
+    50,POLIWAG,5,10
+    50,GOLDEEN,8,11
+GoodRod
+    45,POLIWAG,15,20
+    45,GOLDEEN,16,22
+    10,SEAKING,18,24
+SuperRod
+    40,SEAKING,35,40
+    30,WARTORTLE,35,40
+    30,POLIWHIRL,35,40
 #-------------------------------
 [043] # Church Crookham
 Land,21
     40,VENONAT,3,5
     40,VULPIX,3,5
-    10,NINCADA,3,5
-    5,CLEFFA,3,5
+    10,ZIGZAGOON,3,5
+    5,MEOWTH,3,5
     5,IGGLYBUFF,3,5
     5,PICHU,3,5
+Water,2
+    20,POLIWAG,25,30
+    20,GOLDEEN,25,30
+    40,WOOPER,25,30
+    10,AZURILL,25,30
+OldRod
+    50,POLIWAG,5,10
+    50,GOLDEEN,8,11
+GoodRod
+    45,POLIWAG,15,20
+    45,GOLDEEN,16,22
+    10,SEAKING,18,24
+SuperRod
+    35,SEAKING,35,40
+    30,POLIWHIRL,35,40
+    5,POLITOED,40,45
 #-------------------------------
 [048] # Redfields
 Land,21
@@ -56,13 +90,121 @@ Land,21
 [090] # Chantrys
 Land,21
     40,RATTATA,3,5
-    30,POOCHYENA,3,5
+    30,MEOWTH,3,5
     20,SPEAROW,3,5
     10,CUBONE,3,5
 #-------------------------------
 [0143] # Grumpigs Back
 Land,21
-    40,RATTATA,3,5
-    30,POOCHYENA,3,5
-    20,SPEAROW,3,5
-    10,CUBONE,3,5
+    40,SLOWPOKE,15,16
+    30,SPOINK,13,15
+    20,NATU,14,17
+    10,ABRA,12,15
+#-------------------------------
+[077] # Guildford
+Land,21
+    30,PIKACHU,16,18
+    30,FARFETCHD,16,18
+    30,AIPOM,16,18
+Water,2
+    20,FINNEON,25,30
+    40,TOTODILE,25,30
+    10,GOLDEEN,25,30
+OldRod
+    50,MUDKIP,5,10
+    50,QWILFISH,8,11
+GoodRod
+    45,MUDKIP,15,20
+    45,QWILFISH,16,22
+    10,SEAKING,18,24
+SuperRod
+    35,MARSHTOMP,35,40
+    30,QWILFISH,35,40
+    5,SEAKING,40,45
+#-------------------------------
+[099] # Upper Hale
+Land,21
+    20,PONYTA,14,16
+    20,PHANPY,14,16
+    20,DODUO,14,16
+    20,GLOOM,14,16
+    20,EKANS,14,16
+#-------------------------------
+[100] # Redfields Lane W
+Land,21
+    20,GRIMER,8,10
+    20,KOFFING,8,10
+    20,SUNKERN,8,10
+    20,ODDISH,8,10
+    20,EKANS,8,10
+#-------------------------------
+[118] # Six Bellsprouts
+Land,21
+    30,BELLSPROUT,16,18
+    30,METAPOD,16,18
+    40,NIDORINO,16,18
+    20,ODDISH,16,18
+    20,EKANS,16,18
+#-------------------------------
+[128] # Redfields Lane E
+Land,21
+    20,GRIMER,4,7
+    20,KOFFING,4,7
+    20,SUNKERN,4,7
+    20,ODDISH,4,7
+    20,EKANS,4,7
+#-------------------------------
+[129] # A287
+Land,21
+    5,WEEZING,15,17
+    5,ARBOK,15,17
+    20,GLOOM,14,16
+    20,EKANS,14,16
+    20,KOFFING,14,16
+#-------------------------------
+[137] # Shepherd n Flock Roundabout
+Land,21
+    30,BALTOY,16,18
+    30,PHANPY,16,18
+    30,POLIWHIRL,16,18
+    10,VOLTORB,16,29
+Water,2
+    20,CHINCHOU,25,30
+    40,TOTODILE,25,30
+    10,GOLDEEN,25,30
+OldRod
+    50,CHINCHOU,5,10
+    50,GOLDEEN,8,11
+GoodRod
+    45,CHINCHOU,15,20
+    45,GOLDEEN,16,22
+    10,SEAKING,18,24
+SuperRod
+    35,LANTURN,35,40
+    30,SEAKING,35,40
+    5,SEAKING,40,45
+#-------------------------------
+[144] # Phil's House
+Land,21
+    40,SNEASEL,17,19
+    40,SWINUB,17,19
+    20,GULPIN,17,19
+#-------------------------------
+[151] # Blackwater Reservoir
+Land,21
+    40,PSYDUCK,17,19
+    40,LOTAD,17,19
+    20,PARAS,17,19
+#-------------------------------
+[152] # Ash Green
+Land,21
+    20,CYNDAQUIL,17,19
+    20,VULPIX,17,19
+    30,NUMEL,17,19
+    30,HOUNDOUR,17,19
+#-------------------------------
+[153] # Christmas Pie Avenue
+Land,21
+    40,SNEASEL,17,19
+    40,SWINUB,17,19
+    20,WEEPINBELL,17,19

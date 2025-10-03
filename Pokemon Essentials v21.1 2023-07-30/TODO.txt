@@ -61,6 +61,27 @@ check barry daycare works for mightyena
 
 PLAYTHROUGH
 
+Stairs at fletchs not right 	
+getself event leaving Fletchs
+McGowan start text
+add water pokes for redfields roadS, crondall, chantrys, Upper hale, Shep, Six bells, Blackwater, Guildford, 
+Can't use rod from bottom of players garden pond?
+ciggy berry and bellsprouts berrys plant error
+bike trainers not working properly
+farnham trainers don't ping exclaimation
+encounters for farnham park, Guildford E
+Gford gym exit takes you to flexford?
+Cut doesn't work
+shepherd and flock bard inside S door isn't right
+shepherd counter off	
+central farnham ne needs 2 top tree tiles along bottom right corner
+prof cedar call from inside studio
+phil runs into you
+Lots more item messages
+
+Switches on: Starting over, Defeated Gym 1, Has Eevee, Lost/Won Magnemite, Bush Activated, First Brighton? First Cedar, Cedar Mobile Phone number, Mum Stationary, Battle Phil? A3 Gate? Eira Swimming, Barry Fed, Abra Evolving? Taken Barry first time, Beaten Fletch, Bought Ciggy Berry, Roadworks on, Fham Park Safari Closed, Franks stationary, Farnham Basic Block, Phil Vaping
+
+
 pokmon needs accent e in: shepherd n flock inside table, shepherd outside, Pokemon incubator at Professor Cedar's, Frankie in cabin
 
 Mums punch needs to appear a bit later (atm it's when you first leave the house)	
@@ -70,18 +91,12 @@ Churchy
 Trees at Redfields E
 full stop on Sue
 Ben balls & Paddy before Cucumber house so you have enough triple triads (or maybe just add a couple more trainers like bethan in churchy)
-Water in redfields middle a road whatever can't stop at edge	
 maybe mum moves towards you after beating magnemite?
-maybe no other poochyenas in encounters
 exclamation didn't come on?
 change Jonny Burns to some1 else
-bun off second good luck on your adventure message when get bike	
 most trainers can't get you from more than 1 space
-could bring up the level of garden pokes cause can't access until u have bag
 make doors facing specific to gates - issue example on fham park north
-bit dodge that you can kinda get a little stuck, need some higher level pokes for encounters should help
 six bellsprouts guard doesn't work
-wild pokes need to be about lvl 15 by grumpigs back
 can heal on most sofas tbh:
 Fletch's?
 

@@ -61,22 +61,12 @@ check barry daycare works for mightyena
 
 PLAYTHROUGH
 
-Stairs at fletchs not right 	
-getself event leaving Fletchs
-McGowan start text
 add water pokes for redfields roadS, crondall, chantrys, Upper hale, Shep, Six bells, Blackwater, Guildford, 
-Can't use rod from bottom of players garden pond?
-ciggy berry and bellsprouts berrys plant error
-bike trainers not working properly
-farnham trainers don't ping exclaimation
+six bellsprouts roundabout testing
+sand around water needs to go 1 tile into the water at least
 encounters for farnham park, Guildford E
-Gford gym exit takes you to flexford?
 Cut doesn't work
-shepherd and flock bard inside S door isn't right
-shepherd counter off	
 central farnham ne needs 2 top tree tiles along bottom right corner
-prof cedar call from inside studio
-phil runs into you
 Lots more item messages
 
 Switches on: Starting over, Defeated Gym 1, Has Eevee, Lost/Won Magnemite, Bush Activated, First Brighton? First Cedar, Cedar Mobile Phone number, Mum Stationary, Battle Phil? A3 Gate? Eira Swimming, Barry Fed, Abra Evolving? Taken Barry first time, Beaten Fletch, Bought Ciggy Berry, Roadworks on, Fham Park Safari Closed, Franks stationary, Farnham Basic Block, Phil Vaping

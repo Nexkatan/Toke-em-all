@@ -334,3 +334,13 @@ Yield = 1,5
 HoursPerStage = 24
 DryingPerHour = 7
 Yield = 1,5
+#-------------------------------
+[BELLSPROUTS]
+HoursPerStage = 1
+DryingPerHour = 7
+Yield = 1,5
+#-------------------------------
+[CIGGYBERRY]
+HoursPerStage = 1
+DryingPerHour = 7
+Yield = 1,5

@@ -5,9 +5,9 @@ Fix the changed map transports:
 Change maps to all have time of day - add them all in and set Outdoor = true
 kids leaving for prof nudge each other a bit, maybe not a problem
 
-Frankie haircut each poke only 1ce a day
+Add skateboard, maybe George gives?
 
-Train tickets and railcard "You can't ride the train without a railcard... that would be a bad deal"
+Make pokecentres
 
 Add Gabe to Christmas P
 
@@ -27,7 +27,7 @@ Make another dealer who sells brightpowder and 	silverpowder and softsand and me
 
 Sort Hove cliffs & upper level
 
-new item icons -SKATEBOARD? BOAT? Ciggy Berry, Ruin of Alph puzzles, Shrooms
+new item icons -SKATEBOARD? BOAT? Ciggy Berry, Ruin of Alph puzzles, Shrooms, railcard
 
 
 ==== Filling out: ====
@@ -71,8 +71,6 @@ Lots more item messages
 
 Switches on: Starting over, Defeated Gym 1, Has Eevee, Lost/Won Magnemite, Bush Activated, First Brighton? First Cedar, Cedar Mobile Phone number, Mum Stationary, Battle Phil? A3 Gate? Eira Swimming, Barry Fed, Abra Evolving? Taken Barry first time, Beaten Fletch, Bought Ciggy Berry, Roadworks on, Fham Park Safari Closed, Franks stationary, Farnham Basic Block, Phil Vaping
 
-
-pokmon needs accent e in: shepherd n flock inside table, shepherd outside, Pokemon incubator at Professor Cedar's, Frankie in cabin
 
 Mums punch needs to appear a bit later (atm it's when you first leave the house)	
 can see the border at:

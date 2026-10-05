@@ -6624,3 +6624,13 @@ Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_POISON_100
 Description = SpOoOnY
+#-------------------------------
+[RAILCARD]
+Name = Railcard
+NamePlural = Railcards
+PortionName = Railcard
+PortionNamePlural = Railcards
+Pocket = 8
+Price = 20000
+Flags = Fling_10,NaturalGift_POISON_100
+Description = You can't ride the train without a railcard... that would be a bad deal

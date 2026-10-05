@@ -208,3 +208,10 @@ Land,21
     40,SNEASEL,17,19
     40,SWINUB,17,19
     20,WEEPINBELL,17,19	
+#-------------------------------
+[154] # Guildford Station Platforms
+Land,21
+    40,MAGNEMITE,20,23
+    40,ELECTABUZZ,20,23
+    10,ARON,17,19
+    10,BRONZOR,17,19

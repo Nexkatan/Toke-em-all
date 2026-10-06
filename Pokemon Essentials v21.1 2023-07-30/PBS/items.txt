@@ -6634,3 +6634,13 @@ Pocket = 8
 Price = 20000
 Flags = Fling_10,NaturalGift_POISON_100
 Description = You can't ride the train without a railcard... that would be a bad deal
+#-------------------------------
+[GUILDFORDBRIGHTON]
+Name = Guildford - Brighton Season Ticket
+NamePlural = Guildford - Brighton Season Tickets
+PortionName = Guildford - Brighton Season Ticket
+PortionNamePlural = Guildford - Brighton Season Tickets
+Pocket = 8
+Price = 20000
+Flags = Fling_10,NaturalGift_POISON_100
+Description = This allows free travel between Guildford and Brighton

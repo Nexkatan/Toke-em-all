@@ -3,29 +3,20 @@
 Fix the changed map transports: 
 
 Change maps to all have time of day - add them all in and set Outdoor = true
-kids leaving for prof nudge each other a bit, maybe not a problem
-
-Add skateboard, maybe George gives?
 
 Add Gabe to Christmas P
 
 trainers
 
-Ed Badge gym battle
-
 cheeky museum callback at borellis wine bar
 
 Add Laureldene
-
-Who's the ruin maniac	Jamie Prev?
 
 map signs in game
 
 Make another dealer who sells brightpowder and 	silverpowder and softsand and metal powder and quick powder
 
-Sort Hove cliffs & upper level
-
-new item icons -SKATEBOARD? BOAT? Ciggy Berry, Ruin of Alph puzzles, Shrooms, railcard
+new item icons Ruin of Alph puzzles
 
 
 ==== Filling out: ====

@@ -6111,7 +6111,8 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 FieldUse = Direct
-Description = A Pickaxe used for mining#-------------------------------
+Description = A Pickaxe used for mining
+#-------------------------------
 [BELLSPROUTS]
 Name = Bellsprouts
 NamePlural = Bellsprouts

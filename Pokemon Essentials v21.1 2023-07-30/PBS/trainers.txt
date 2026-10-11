@@ -63,13 +63,13 @@ Pokemon = BEAUTIFLY, 30
 Pokemon = SWABLU, 30
 Pokemon = DRIFLOON, 30
 #-------------------------------
-[BEAUTY,Annya]
-LoseText = 
-Pokemon = BANETTE, 30
-Pokemon = MISDREAVUS, 30
-Pokemon = HAUNTER, 30
-Pokemon = SHEDINJA, 30
-Pokemon = SABLEYE, 30
+[PSYCHIC_F,Annya]
+LoseText = I don't care if we're not together anymore, I'm going to go and cheat on you again!
+Pokemon = BANETTE, 23
+Pokemon = HAUNTER, 24
+Pokemon = SHEDINJA, 25
+Pokemon = SABLEYE, 25
+Pokemon = MISDREAVUS, 26
 #-------------------------------
 [YOUNGSTER,Will Hucker]
 LoseText = Sorry about my brother
@@ -175,3 +175,10 @@ Pokemon = DODUO, 45
 LoseText = Corrr you're good at that!
 Pokemon = VULPIX, 6
 Pokemon = GOLDEEN, 7
+#-------------------------------
+[CUEBALL,Mugshot]
+LoseText = Well... Just don't walk on the flowers again
+Pokemon = MACHOKE, 22
+Pokemon = HITMONCHAN, 24
+Pokemon = MANKEY, 25
+Pokemon = HARIYAMA, 26

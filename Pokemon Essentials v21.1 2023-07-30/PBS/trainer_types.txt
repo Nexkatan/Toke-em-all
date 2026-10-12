@@ -404,3 +404,20 @@ VictoryBGM = Battle victory leader
 Name = Stoner
 Gender = Male
 BaseMoney = 15
+#-------------------------------
+[FOUNDERS1]
+Name = Founders
+Gender = Unknown
+BaseMoney = 92
+SkillLevel = 88
+#-------------------------------
+[FOUNDERS2]
+Name = Founders
+Gender = Unknown
+BaseMoney = 92
+SkillLevel = 88
+#-------------------------------
+[PRODUCER]
+Name = Producer
+Gender = Male
+BaseMoney = 25

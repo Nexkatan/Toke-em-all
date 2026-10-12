@@ -182,3 +182,35 @@ Pokemon = MACHOKE, 22
 Pokemon = HITMONCHAN, 24
 Pokemon = MANKEY, 25
 Pokemon = HARIYAMA, 26
+#-------------------------------
+[BUGCATCHER,71M]
+LoseText = LGTM!
+Pokemon = LEDIAN, 22
+Pokemon = FORRETRESS, 25
+Pokemon = YANMEGA, 25
+Pokemon = SHUCKLE, 28
+#-------------------------------
+[FOUNDERS1,Mark and Jane]
+LoseText = This all sounds a bit shit
+Pokemon = ILLUMISE, 32
+Pokemon = VOLBEAT, 32
+Pokemon = SCYTHER, 31
+Pokemon = PINSIR, 31
+Pokemon = ARMALDO, 33
+Pokemon = HERACROSS, 34
+#-------------------------------
+[FOUNDERS2,Jo and Hymers]
+LoseText = Who can we blame for this?
+Pokemon = BUTTERFREE, 23
+Pokemon = BEEDRILL, 24
+Pokemon = ARIADOS, 23
+Pokemon = PARASECT, 26
+Pokemon = NINJASK, 26
+Pokemon = VENOMOTH, 27
+#-------------------------------
+[PRODUCER,Chizel]
+LoseText = Errrm let me ask somebody
+Pokemon = NINJASK, 25
+Pokemon = SHEDINJA, 25
+Pokemon = MASQUERAIN, 25
+Pokemon = DUSTOX, 28

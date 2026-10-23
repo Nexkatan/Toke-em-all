@@ -12,14 +12,14 @@ ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
-[033]   # Player's Garden
+[033]   # Tom's Garden
 Name = \PN's Garden
 Outdoor = true
 ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
-[042]   # Player's House
+[042]   # Tom's House
 Name = \PN's House
 ShowArea = true
 #-------------------------------
@@ -57,8 +57,8 @@ MapPosition = 0,14,10
 #-------------------------------
 [077]   # Guildford W
 Name = Guildford
-ShowArea = true
 Outdoor = true
+ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
@@ -90,8 +90,8 @@ Name = A3
 Outdoor = true
 ShowArea = true
 Bicycle = true
-Skateboard = true
 BicycleAlways = true
+Skateboard = true
 #-------------------------------
 [083]   # Brighton Gate
 Name = Brighton Gate
@@ -155,7 +155,7 @@ ShowArea = true
 Name = Hove Cove Research Centre
 ShowArea = true
 #-------------------------------
-[094]   # Hove Cove Research Centre Back Room
+[094]   # Hove Cove Research Back Room
 Name = Hove Cove Research Centre
 ShowArea = true
 #-------------------------------
@@ -163,13 +163,13 @@ ShowArea = true
 Name = Brighton Card Club
 ShowArea = true
 #-------------------------------
-[096]   # Hove Cove Trove Alcove B2F
+[096]   # Cave 2F
 Name = Hove Cove Trove Alcove
 ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
-[097]   # Hove Cove Trove Alcove B1F
+[097]   # Cave 1F
 Name = Hove Cove Trove Alcove
 ShowArea = true
 Bicycle = true
@@ -189,7 +189,7 @@ ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
-[101]   # Sains Petrol Station
+[101]   # Sun & Moon
 Name = Big Signsbury's Petty Station
 ShowArea = true
 #-------------------------------
@@ -206,8 +206,8 @@ ShowArea = true
 #-------------------------------
 [107]   # Guildford E
 Name = Guildford
-ShowArea = true
 Outdoor = true
+ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
@@ -225,7 +225,7 @@ ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
-[111]   # Road to the Place
+[111]   # Road to the place
 Name = Place Road
 Outdoor = true
 ShowArea = true
@@ -260,16 +260,9 @@ ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
-[116]   # Shepherd & Flock Hut
+[116]   # Shepherd's Hut
 Name = The Shepherd & Flock
 ShowArea = true
-#-------------------------------
-[177]   # Guildford Station
-Name = Guildford Station
-ShowArea = true
-Outdoor = true
-Bicycle = true
-Skateboard = true
 #-------------------------------
 [118]   # Six Bellsprouts
 Name = Six Bellsprouts Roundabout
@@ -279,7 +272,14 @@ Bicycle = true
 Skateboard = true
 #-------------------------------
 [120]   # Borellis
-Name = Borelli's Walk	
+Name = Borelli's Walk
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[121]   # Crondall Lane S
+Name = Crondall Lane
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -287,13 +287,6 @@ Skateboard = true
 #-------------------------------
 [122]   # Borelli Woods
 Name = Borelli Woods
-Outdoor = true
-ShowArea = true
-Bicycle = true
-Skateboard = true
-#-------------------------------
-[121]   # Crondall Lane
-Name = Crondall Lane
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -335,12 +328,12 @@ Skateboard = true
 #-------------------------------
 [136]   # Guildford Gym
 Name = Guildford Borough Council Gym
-ShowArea = true
 Outdoor = true
+ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
-[137]   # Shepherd n Flock Roundabout
+[137]   # Shepherd & Flock
 Name = Shepherd & Flock Roundabout
 Outdoor = true
 ShowArea = true
@@ -354,21 +347,21 @@ ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
-[139]   # Farnham Park Gate S
+[139]   # Farnham Park Gate South
 Name = Farnham Park South Gate
 Outdoor = true
 ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
-[140]   # Farnham Park Gate N
+[140]   # Farnham Park Gate North
 Name = Farnham Park North Gate
 Outdoor = true
 ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
-[141]   # Farnham Park Gate E
+[141]   # Farnham Park Gate East
 Name = Farnham Park East Gate
 Outdoor = true
 ShowArea = true
@@ -406,21 +399,30 @@ ShowArea = true
 #-------------------------------
 [151]   # Blackwater Reservoir
 Name = BlackWater Reservoir
-ShowArea = true
 Outdoor = true
+ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
 [152]   # Ash Green
-Name = Ash Green 
-ShowArea = true
+Name = Ash Green
 Outdoor = true
+ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
 [153]   # Christmas Pie Avenue
 Name = Christmas Pie Avenue
-ShowArea = true
 Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[176]   # A287 Blockade
+#-------------------------------
+[177]
+Name = Guildford Station
+Outdoor = true
+ShowArea = true
 Bicycle = true
 Skateboard = true

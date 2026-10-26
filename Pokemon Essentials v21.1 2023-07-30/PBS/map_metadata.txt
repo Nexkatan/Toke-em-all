@@ -189,7 +189,7 @@ ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
-[101]   # Sun & Moon
+[101]   # Maltings
 Name = Big Signsbury's Petty Station
 ShowArea = true
 #-------------------------------
@@ -292,7 +292,7 @@ ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
-[124]   # Water Meadows
+[124]   # St Andrew's Church
 Name = Water Meadows
 Outdoor = true
 ShowArea = true
@@ -419,6 +419,7 @@ Bicycle = true
 Skateboard = true
 #-------------------------------
 [176]   # A287 Blockade
+Name = A287 Blockade
 #-------------------------------
 [177]
 Name = Guildford Station

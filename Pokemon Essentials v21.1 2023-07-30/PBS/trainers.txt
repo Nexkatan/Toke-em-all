@@ -144,28 +144,28 @@ Pokemon = MIMEJR, 12
 #-------------------------------
 [BIKER,Millard]
 LoseText = Oiiiii Nah
-Pokemon = ONIX, 13
-Pokemon = RHYHORN, 14
+Pokemon = ONIX, 14
+Pokemon = RHYHORN, 15
 #-------------------------------
 [BIKER,Jonny Burns]
 LoseText = Ooooiii
 Pokemon = COMBUSKEN, 14
-Pokemon = NUMEL, 14
+Pokemon = NUMEL, 15
 #-------------------------------
 [BIKER,Rumpson]
 LoseText = Oi Naaaah
 Pokemon = LAIRON, 14
-Pokemon = HARIYAMA, 14
+Pokemon = HARIYAMA, 15
 #-------------------------------
 [BIKER,Yannis]
 LoseText = Oii
-Pokemon = SNEASEL, 14
-Pokemon = PHANPY, 14
+Pokemon = SNEASEL, 12
+Pokemon = PHANPY, 13
 #-------------------------------
 [BIKER,Carter]
 LoseText = Nah
-Pokemon = MACHOKE, 14
-Pokemon = NUZLEAF, 14
+Pokemon = MACHOKE, 12
+Pokemon = NUZLEAF, 13
 #-------------------------------
 [TEAMROCKET_F,Nay]
 LoseText = Cry

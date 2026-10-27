@@ -6147,7 +6147,8 @@ Flags = Fling_30
 Description = It greatly raises the critical-hit ratio. It wears off if the Pokémon is withdrawn
 #-------------------------------
 [GUARDSPEC]
-Name = Guard SpecNamePlural = Guard SpecsPocket = 7
+Name = Guard Spec.
+NamePlural = Guard SpecsPocket = 7
 Price = 1500
 BattleUse = Direct
 Flags = Fling_30

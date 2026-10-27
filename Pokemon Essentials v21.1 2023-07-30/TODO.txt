@@ -2,21 +2,13 @@
 
 Fix the changed map transports: 
 
-Change maps to all have time of day - add them all in and set Outdoor = true
+Change maps to all have time of day - add them all in and set Outdoor = true, maybe done?
 
 Add Gabe to Christmas P
 
-trainers
+more trainers - gostreys, brighton, gford
 
-cheeky museum callback at borellis wine bar
-
-Add Laureldene
-
-map signs in game
-
-Make another dealer who sells brightpowder and 	silverpowder and softsand and metal powder and quick powder
-
-new item icons Ruin of Alph puzzles
+Make another dealer who sells brightpowder and 	silverpowder and softsand and metal powder and quick powder?
 
 
 ==== Filling out: ====
@@ -24,17 +16,6 @@ new item icons Ruin of Alph puzzles
 Redfields garden centre: 
 shoppers 
 Finalise Mum's ciggy berry item list
-
-
-Trainers to add teams for:
-Huckers double battle
-Grace Hunnings
-
-
-
-Trainers to add characters for:
-Bethan
-
 
 Switches on:
 
@@ -45,33 +26,17 @@ Mum Stationary
 Cedar Phone Number if so
 
 
-check barry daycare works for mightyena
+check barry daycare works for mightyena?
 
 
 PLAYTHROUGH
 
-add water pokes for redfields roadS, crondall, chantrys, Upper hale, Shep, Six bells, Blackwater, Guildford, 
-six bellsprouts roundabout testing
-encounters for farnham park, Guildford E
 lil msg after cedar gives u pokedex
 Tommy caught a pokemon message after getting
 central farnham ne needs 2 top tree tiles along bottom right corner
 Lots more item messages
 
 Switches on: Starting over, Defeated Gym 1, Has Eevee, Lost/Won Magnemite, Bush Activated, First Brighton? First Cedar, Cedar Mobile Phone number, Mum Stationary, Battle Phil? A3 Gate? Eira Swimming, Barry Fed, Abra Evolving? Taken Barry first time, Beaten Fletch, Bought Ciggy Berry, Roadworks on, Fham Park Safari Closed, Franks stationary, Farnham Basic Block, Phil Vaping
-
-
-Mums punch needs to appear a bit later (atm it's when you first leave the house)	
-can see the border at:
-Redfields E
-Churchy
-Trees at Redfields E
-maybe mum moves towards you after beating magnemite?
-exclamation didn't come on?
-change Jonny Burns to some1 else
-most trainers can't get you from more than 1 space
-make doors facing specific to gates - issue example on fham park north
-can heal on most sofas tbh:
 
 badge gym trainers
 Phil writing needs some work

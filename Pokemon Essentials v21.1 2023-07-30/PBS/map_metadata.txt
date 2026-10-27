@@ -64,7 +64,6 @@ Skateboard = true
 #-------------------------------
 [078]   # Eevee's Lair
 Name = Eevee's Lair
-Outdoor = true
 ShowArea = true
 #-------------------------------
 [079]   # Crondall
@@ -113,7 +112,7 @@ ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
-[086]   # Brighton Poké Center
+[086]   # Brighton Poké Centre
 Name = Brighton Poké Centre
 ShowArea = true
 #-------------------------------
@@ -124,10 +123,11 @@ ShowArea = true
 BicycleAlways = true
 #-------------------------------
 [088]   # Brighton Interchange
-Name = Brighton Interchange
+Name = Brighton Station
 Outdoor = true
 ShowArea = true
 Bicycle = true
+Skateboard = true
 #-------------------------------
 [089]   # A283 -  Brighton to Farnham
 Name = A23
@@ -137,7 +137,7 @@ Bicycle = true
 Skateboard = true
 #-------------------------------
 [090]   # Chantrys
-Name = Chantrys
+Name = The Chantrys
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -165,12 +165,20 @@ ShowArea = true
 #-------------------------------
 [096]   # Cave 2F
 Name = Hove Cove Trove Alcove
+Outdoor = true
 ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
 [097]   # Cave 1F
 Name = Hove Cove Trove Alcove
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[098]   # Poosticks
+Name = Poosticks
+Outdoor = true
 ShowArea = true
 Bicycle = true
 Skateboard = true
@@ -190,8 +198,18 @@ Bicycle = true
 Skateboard = true
 #-------------------------------
 [101]   # Maltings
-Name = Big Signsbury's Petty Station
+Name = The Maltings
+Outdoor = true
 ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[102]   # Hickleys Corner
+Name = Hickley's Corner
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
 #-------------------------------
 [103]   # Central Farnham SE
 Name = Central Farnham
@@ -286,14 +304,14 @@ Bicycle = true
 Skateboard = true
 #-------------------------------
 [122]   # Borelli Woods
-Name = Borelli Woods
+Name = Borelli's Woods
 Outdoor = true
 ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
 [124]   # St Andrew's Church
-Name = Water Meadows
+Name = St Andrew's Church
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -418,11 +436,46 @@ ShowArea = true
 Bicycle = true
 Skateboard = true
 #-------------------------------
-[176]   # A287 Blockade
-Name = A287 Blockade
-#-------------------------------
-[177]
+[154]   # Guildford Station Platforms
 Name = Guildford Station
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[159]   # Sheps Pokecentre
+Name = Shepherd & Flock Poké Centre
+ShowArea = true
+#-------------------------------
+[160]   # Bypass Pokecentre
+Name = Bypass Poké Centre
+ShowArea = true
+#-------------------------------
+[162]   # Gford Pokecentre
+Name = Guildford Poké Centre
+ShowArea = true
+#-------------------------------
+[173]   # Sheps Mart
+Name = Shepherd & Flock Poké Mart
+ShowArea = true
+#-------------------------------
+[176]   # A287 Blockade
+Name = A287
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = true
+Skateboard = true
+#-------------------------------
+[177]   # Manor Field
+Name = Manor Field
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Skateboard = true
+#-------------------------------
+[179]   # Bishops Meadow
+Name = Bishops Meadow
 Outdoor = true
 ShowArea = true
 Bicycle = true

@@ -421,3 +421,23 @@ SkillLevel = 88
 Name = Producer
 Gender = Male
 BaseMoney = 25
+#-------------------------------
+[EXGF1]
+Name = Ex Girlfriend
+Gender = Female
+BaseMoney = 25
+#-------------------------------
+[EXGF2]
+Name = Ex Girlfriend
+Gender = Female
+BaseMoney = 25
+#-------------------------------
+[EXGF3]
+Name = Ex Girlfriend
+Gender = Female
+BaseMoney = 25
+#-------------------------------
+[EXGF4]
+Name = Ex Girlfriend
+Gender = Female
+BaseMoney = 25

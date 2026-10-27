@@ -49,27 +49,27 @@ Pokemon = CLEFFA, 5
 Pokemon = JIGGLYPUFF, 5
 Pokemon = SNUBBULL, 5
 #-------------------------------
-[BEAUTY,Laura]
+[EXGF1,Laura]
 LoseText = I just don't understand... Are you Gabe or something?
 Pokemon = SPEAROW, 30
 Pokemon = DODUO, 30
 Pokemon = MUNCHLAX, 30
 Pokemon = RATICATE, 30
 #-------------------------------
-[BEAUTY,Alice]
-LoseText = 
-Pokemon = TOGETIC, 30
-Pokemon = BEAUTIFLY, 30
-Pokemon = SWABLU, 30
-Pokemon = DRIFLOON, 30
-#-------------------------------
-[PSYCHIC_F,Annya]
+[EXGF2,Annya]
 LoseText = I don't care if we're not together anymore, I'm going to go and cheat on you again!
 Pokemon = BANETTE, 23
 Pokemon = HAUNTER, 24
 Pokemon = SHEDINJA, 25
 Pokemon = SABLEYE, 25
 Pokemon = MISDREAVUS, 26
+#-------------------------------
+[EXGF3,Alice]
+LoseText = 
+Pokemon = TOGETIC, 30
+Pokemon = BEAUTIFLY, 30
+Pokemon = SWABLU, 30
+Pokemon = DRIFLOON, 30
 #-------------------------------
 [YOUNGSTER,Will Hucker]
 LoseText = Sorry about my brother

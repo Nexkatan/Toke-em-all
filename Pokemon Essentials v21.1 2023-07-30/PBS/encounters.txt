@@ -46,97 +46,158 @@ GoodRod
     45,GOLDEEN,16,22
     10,SEAKING,18,24
 SuperRod
-    35,SEAKING,35,40
+    55,SEAKING,35,40
     30,POLIWHIRL,35,40
-    5,POLITOED,40,45
+    15,POLITOED,40,45
 #-------------------------------
-[048] # Redfields
+[048] # Redfields Garden Centre
 Land,21
     40,BELLSPROUT,3,5
     40,SUNKERN,3,5
     10,MEDITITE,3,5
     10,NATU,3,5
     10,WEEDLE,3,5
-#-------------------------------
-[076] # Brighton
-Land,21
-    40,KRABBY,5,7
-    40,WINGULL,5,7
-    20,SQUIRTLE,5
-    10,SEEL,5
-#-------------------------------
-[079] # Crondall
-Land,21
+Water,2
+    40,LOTAD,25,30
+    40,LOMBRE,25,30
+    10,FINNEON,35,40
+    50,FINNEON,5,10
+    50,LOTAD,8,11
+GoodRod
+    45,FINNEON,15,20
+    45,LOTAD,16,22
+    10,LOMBRE,18,24
+    55,LOMBRE,35,40
+    30,LUDICOLO,35,40
+    15,LUMINEON,40,45
+    40,KRABBY,30,35
+    40,WINGULL,30,35
+    20,SQUIRTLE,30,35
+    10,SEEL,30,35
+    40,SEEL,30,35
+    30,WINGULL,30,35
+    20,KRABBY,30,35
+    10,KINGLER,30,35
+    50,CARVANHA,18,22
+    50,STARYU,18,22
+GoodRod
+    45,CARVANHA,25,30
+    45,STARYU,25,30
+    10,STARMIE,25,30
+    55,STARMIE,35,40
+    30,KINGLER,35,40
+    15,SHARPEDO,40,45
     40,ODDISH,3,6
     40,SHINX,3,5
     20,CHERUBI,3,5
     10,HOPPIP,3,5
-#-------------------------------
-[081] # Fleet Interchange
-Land,21
-    40,PIDGEY,5,7
-    40,RALTS,5,7
-    10,AZURILL,5,7
-    10,ELEKID,5,7
-    10,MAGBY,5,7
-#-------------------------------
-[082] # A3
-Land,21
-    40,DODUO,5,8
-    40,EKANS,4,7
-    40,PHANPY,5,8
-    10,ONIX,6,8
-#-------------------------------
-[090] # Chantrys
-Land,21
+    40,MUDKIP,30,35
+    40,PSYDUCK,30,35
+    20,SURSKIT,30,35
+    50,MUDKIP,8,13
+    50,SLOWPOKE,8,13
+GoodRod
+    45,MUDKIP,15,20
+    45,SLOWPOKE,16,22
+    10,SLOWBRO,18,24
+    55,MARSHTOMP,35,40
+    30,SLOWBRO,35,40
+    15,SLOWKING,40,45
     40,RATTATA,3,5
     30,MEOWTH,3,5
     20,SPEAROW,3,5
     10,CUBONE,3,5
-#-------------------------------
-[0143] # Grumpigs Back
-Land,21
+    40,BIDOOF,30,35
+    40,GOLDEEN,30,35
+    20,BIBAREL,30,35
+OldRod
+    50,GOLDEEN,8,13
+    50,BIDOOF,8,13
+    45,BIDOOF,15,20
+    45,BIBAREL,16,22
+    10,GOLDEEN,18,24
+SuperRod,21
+    55,GOLDEEN,35,40
+    30,BIBAREL,35,40
+    15,SEAKING,40,45
     40,SLOWPOKE,15,16
     30,SPOINK,13,15
     20,NATU,14,17
     10,ABRA,12,15
-#-------------------------------
-[077] # Guildford
-Land,21
     30,PIKACHU,16,18
     30,FARFETCHD,16,18
     30,AIPOM,16,18
 Water,2
-    20,FINNEON,25,30
-    40,TOTODILE,25,30
-    10,GOLDEEN,25,30
-OldRod
-    50,MUDKIP,5,10
-    50,QWILFISH,8,11
+    45,MARILL,25,30
+    45,GOLDEEN,25,30
+    10,TOTODILE,25,30
+    50,AZURILL,5,10
+    50,GOLDEEN,8,11
 GoodRod
-    45,MUDKIP,15,20
-    45,QWILFISH,16,22
-    10,SEAKING,18,24
-SuperRod
-    35,MARSHTOMP,35,40
-    30,QWILFISH,35,40
-    5,SEAKING,40,45
-#-------------------------------
-[099] # Upper Hale
-Land,21
+    45,AZURILL,15,20
+    45,GOLDEEN,16,22
+    10,MARILL,18,24
+    55,MARILL,35,40
+    30,TOTODILE,35,40
+    15,CROCONAW,40,45
     20,PONYTA,14,16
     20,PHANPY,14,16
     20,DODUO,14,16
     20,GLOOM,14,16
     20,EKANS,14,16
-#-------------------------------
-[100] # Redfields Lane W
-Land,21
+    45,BIDOOF,25,30
+    45,GOLDEEN,25,30
+    10,BIBAREL,25,30
+    50,GOLDEEN,5,10
+    50,BIDOOF,8,11
+    45,BIDOOF,15,20
+    45,BIBAREL,16,22
+    10,GOLDEEN,18,24
+    55,GOLDEEN,35,40
+    30,BIBAREL,35,40
+    15,SEAKING,40,45
     20,GRIMER,8,10
     20,KOFFING,8,10
     20,SUNKERN,8,10
     20,ODDISH,8,10
     20,EKANS,8,10
+    45,POLIWHIRL,25,30
+    45,BIDOOF,25,30
+    10,BIBAREL,25,30
+OldRod
+    50,GRIMER,5,10
+    50,BIDOOF,8,11
+GoodRod
+    45,BIDOOF,15,20
+    45,BIBAREL,16,22
+    10,GRIMER,18,24
+SuperRod
+    55,BIDOOF,35,40
+    30,BIBAREL,35,40
+    15,MUK,40,45
+#-------------------------------
+[100] # Redfields Lane W
+Land,21
+    20,GRIMER,13,15
+    20,KOFFING,13,15
+    20,SUNKERN,13,15
+    20,ODDISH,13,15
+    20,EKANS,13,15
+Water,2
+    45,POLIWHIRL,30,35
+    45,BIDOOF,30,35
+    10,BIBAREL,30,35
+OldRod
+    50,GRIMER,10,15
+    50,BIDOOF,13,16
+GoodRod
+    45,BIDOOF,20,25
+    45,BIBAREL,21,27
+    10,GRIMER,23,29
+SuperRod
+    55,BIDOOF,40,45
+    30,BIBAREL,40,45
+    15,MUK,45,50
 #-------------------------------
 [118] # Six Bellsprouts
 Land,21
@@ -145,14 +206,21 @@ Land,21
     40,NIDORINO,16,18
     20,ODDISH,16,18
     20,EKANS,16,18
-#-------------------------------
-[128] # Redfields Lane E
-Land,21
-    20,GRIMER,4,7
-    20,KOFFING,4,7
-    20,SUNKERN,4,7
-    20,ODDISH,4,7
-    20,EKANS,4,7
+Water,2
+    45,MUDKIP,35,40
+    45,TOTODILE,35,40
+    10,BIBAREL,35,40
+OldRod
+    50,FINNEON,15,20
+    50,BIDOOF,18,21
+GoodRod
+    45,BIDOOF,25,30
+    45,BIBAREL,26,32
+    10,FINNEON,28,34
+SuperRod
+    55,BIDOOF,45,50
+    30,BIBAREL,45,50
+    15,LUMINEON,50,55
 #-------------------------------
 [129] # A287
 Land,21
@@ -161,6 +229,21 @@ Land,21
     20,GLOOM,14,16
     20,EKANS,14,16
     20,KOFFING,14,16
+Water,2
+    45,EKANS,40,45
+    45,BIDOOF,40,45
+    10,BIBAREL,40,45
+OldRod
+    50,GRIMER,20,25
+    50,BIDOOF,23,26
+GoodRod
+    45,BIDOOF,30,35
+    45,BIBAREL,31,37
+    10,GRIMER,33,39
+SuperRod
+    55,BIDOOF,50,55
+    30,BIBAREL,50,55
+    15,MUK,55,60
 #-------------------------------
 [137] # Shepherd n Flock Roundabout
 Land,21
@@ -180,9 +263,9 @@ GoodRod
     45,GOLDEEN,16,22
     10,SEAKING,18,24
 SuperRod
-    35,LANTURN,35,40
+    55,LANTURN,35,40
     30,SEAKING,35,40
-    5,SEAKING,40,45
+    15,SEAKING,40,45
 #-------------------------------
 [144] # Phil's House
 Land,21
@@ -195,6 +278,21 @@ Land,21
     40,PSYDUCK,17,19
     40,LOTAD,17,19
     20,PARAS,17,19
+Water,2
+    20,SWINUB,25,30
+    40,PSYDUCK,25,30
+    10,LOMBRE,25,30
+OldRod
+    50,LOTAD,5,10
+    50,SWINUB,8,11
+GoodRod
+    45,FINNEON,15,20
+    45,LOTAD,16,22
+    10,LOMBRE,18,24
+SuperRod
+    55,LOMBRE,35,40
+    30,LUMINEON,35,40
+    15,FEEBAS,40,45
 #-------------------------------
 [152] # Ash Green
 Land,21
@@ -207,11 +305,330 @@ Land,21
 Land,21
     40,SNEASEL,17,19
     40,SWINUB,17,19
-    20,WEEPINBELL,17,19	
+    20,SNOVER,17,19
 #-------------------------------
-[154] # Guildford Station Platforms
+[022] # Gostreys
 Land,21
-    40,MAGNEMITE,20,23
-    40,ELECTABUZZ,20,23
-    10,ARON,17,19
-    10,BRONZOR,17,19
+    30,PARAS,24,26
+    20,PARASECT,24,26
+    40,VENONAT,24,26
+    5,VENOMOTH,24,26
+    5,PINSIR,24,26
+Water,2
+    20,PSYDUCK,25,30
+    40,BUIZEL,25,30
+    10,FLOATZEL,25,30
+OldRod
+    50,GOLDEEN,5,10
+    50,CORPHISH,8,11
+GoodRod
+    45,GOLDEEN,15,20
+    45,CORPHISH,16,22
+    10,SEAKING,18,24
+SuperRod
+    55,SEAKING,35,40
+    30,CORPHISH,35,40
+    15,CRAWDAUNT,40,45
+#-------------------------------
+[103] # Central Farnham SE
+Land,21
+    30,SENTRET,24,26
+    30,SLAKOTH,24,26
+    40,TEDDIURSA,24,26
+#-------------------------------
+[109] # Central Farnham SW
+Land,21
+    10,BULBASAUR,24,26
+    30,SEEDOT,24,26
+    40,TANGELA,24,26
+    10,WEEPINBELL,24,26
+    10,HOPPIP,24,26
+#-------------------------------
+[114] # Central Farnham NW
+Land,21
+    45,PIDGEY,5,7
+    20,RALTS,5,7
+    10,MAGBY,5,7
+    25,DODUO,5,8
+Water,2
+    20,PSYDUCK,25,30
+    40,BUIZEL,25,30
+    30,POLIWHIRL,25,30
+    10,FLOATZEL,25,30
+OldRod
+    50,GOLDEEN,5,10
+    50,POLIWAG,8,11
+GoodRod
+    45,GOLDEEN,15,20
+    45,POLIWHIRL,16,22
+    10,SEAKING,18,24
+SuperRod
+    55,FLOATZEL,35,40
+    30,SEAKING,35,40
+    15,GOLDUCK,40,45
+#-------------------------------
+[142] # Central Farnham NE
+Land,21
+    40,DIGLETT,24,26
+    40,HIPPOPOTAS,24,26
+    40,SANDSHREW,24,26
+    10,TRAPINCH,24,26
+#-------------------------------
+[107] # Guildford E
+Land,21
+    40,SLUGMA,15,20
+    40,GROWLITHE,16,22
+    40,PONYTA,18,24
+    10,TORCHIC,16,22
+#-------------------------------
+[108] # Farnham Park
+Land,21
+    20,LEDYBA,14,16
+    30,CATERPIE,14,16
+    20,WURMPLE,14,16
+    10,TREECKO,14,16
+    20,TANGELA,14,16
+#-------------------------------
+[120] # Borellis
+Land,21
+    30,ABRA,24,26
+    20,AZURILL,24,26
+    40,EXEGGCUTE,24,26
+    5,KADABRA,24,26
+    5,EXEGGUTOR,24,26
+Water,2
+    20,PSYDUCK,25,30
+    40,BUIZEL,25,30
+    10,FLOATZEL,25,30
+OldRod
+    50,GOLDEEN,5,10
+    50,CORPHISH,8,11
+GoodRod
+    45,GOLDEEN,15,20
+    45,CORPHISH,16,22
+    10,SEAKING,18,24
+SuperRod
+    55,SEAKING,35,40
+    30,CORPHISH,35,40
+    15,CRAWDAUNT,40,45
+#-------------------------------
+[135] # Farnham Bypass E
+Land,21
+    30,DODUO,18,22
+    25,TAUROS,18,22
+    40,PHANPY,18,22
+    5,DONPHAN,18,22
+#-------------------------------
+[143] # Grumpig's Back
+Land,21
+    30,DODUO,13,17
+    25,TAUROS,13,17
+    40,PHANPY,13,17
+    5,DONPHAN,13,17
+#-------------------------------
+[084] # Hove
+Land,21
+    40,KRABBY,30,35
+    40,WINGULL,30,35
+    20,SQUIRTLE,30,35
+    10,SEEL,30,35
+Water,2
+    40,SEEL,30,35
+    30,WINGULL,30,35
+    20,KRABBY,30,35
+    10,KINGLER,30,35
+OldRod
+    50,CARVANHA,18,22
+    50,STARYU,18,22
+GoodRod
+    45,CARVANHA,25,30
+    45,STARYU,25,30
+    10,STARMIE,25,30
+SuperRod
+    55,STARMIE,35,40
+    30,KINGLER,35,40
+    15,SHARPEDO,40,45
+#-------------------------------
+[097]   # Cave 1F
+Cave,5
+    20,ZUBAT,25,30
+    20,GEODUDE,25,30
+    20,DIGLETT,25,30
+    20,CUBONE,25,30
+    20,RHYHORN,25,30
+Water,2
+    40,WOOPER,30,35
+    30,SWINUB,30,35
+    20,BARBOACH,30,35
+    10,QUAGSIRE,30,35
+OldRod
+    50,BARBOACH,18,22
+    50,WOOPER,18,22
+GoodRod
+    45,BARBOACH,25,30
+    45,WOOPER,25,30
+    10,WHISCASH,25,30
+SuperRod
+    55,BARBOACH,35,40
+    30,WHISCASH,35,40
+    15,GIBLE,40,45
+#-------------------------------
+[096]   # Cave 2F
+Cave,5
+    20,ZUBAT,25,30
+    20,GEODUDE,25,30
+    20,DIGLETT,25,30
+    20,CUBONE,25,30
+    20,RHYHORN,25,30
+Water,2
+    40,WOOPER,30,35
+    30,SWINUB,30,35
+    20,BARBOACH,30,35
+    10,QUAGSIRE,30,35
+OldRod
+    50,BARBOACH,18,22
+    50,WOOPER,18,22
+GoodRod
+    45,BARBOACH,25,30
+    45,WOOPER,25,30
+    10,WHISCASH,25,30
+SuperRod
+    55,BARBOACH,35,40
+    30,WHISCASH,35,40
+    15,GIBLE,40,45
+#-------------------------------
+[098]   # Poosticks
+Land,21
+    30,ELEKID,15,20
+    20,MAGBY,16,22
+    40,EXEGGCUTE,15,20
+    5,BELDUM,16,22
+    5,EXEGGUTOR,18,24
+Water,2
+    20,PSYDUCK,25,30
+    40,BUIZEL,25,30
+    10,FLOATZEL,25,30
+OldRod
+    50,GOLDEEN,5,10
+    50,CORPHISH,8,11
+GoodRod
+    45,GOLDEEN,15,20
+    45,CORPHISH,16,22
+    10,SEAKING,18,24
+SuperRod
+    55,SEAKING,35,40
+    30,CORPHISH,35,40
+    15,CRAWDAUNT,40,45
+#-------------------------------
+[101]   # Maltings
+Land,21
+    30,SMEARGLE,24,26
+    20,SKARMORY,24,26
+    40,MAWILE,24,26
+    5,CLEFAIRY,24,26
+    5,ABSOL,24,26
+Water,2
+    20,PSYDUCK,25,30
+    40,BUIZEL,25,30
+    10,FLOATZEL,25,30
+OldRod
+    50,GOLDEEN,5,10
+    50,CORPHISH,8,11
+GoodRod
+    45,GOLDEEN,15,20
+    45,CORPHISH,16,22
+    10,SEAKING,18,24
+SuperRod
+    55,SEAKING,35,40
+    30,CORPHISH,35,40
+    15,CRAWDAUNT,40,45
+#-------------------------------
+[102]   # Hickleys Corner
+Land,21
+    30,DODUO,18,22
+    25,TAUROS,18,22
+    40,PHANPY,18,22
+    5,DONPHAN,18,22
+#-------------------------------
+[122] # Borelli Woods
+Land,21
+    30,NUZLEAF,24,26
+    20,TROPIUS,24,26
+    40,ROSELIA,24,26
+    5,SHIFTRY,24,26
+    5,BRELOOM,24,26
+Water,2
+    20,PSYDUCK,25,30
+    40,BUIZEL,25,30
+    10,FLOATZEL,25,30
+OldRod
+    50,GOLDEEN,5,10
+    50,CORPHISH,8,11
+GoodRod
+    45,GOLDEEN,15,20
+    45,CORPHISH,16,22
+    10,SEAKING,18,24
+SuperRod
+    55,SEAKING,35,40
+    30,CORPHISH,35,40
+    15,CRAWDAUNT,40,45
+#-------------------------------
+[124]   # St Andrew's Church
+Land,21
+    30,MISDREAVUS,18,22
+    25,SHUPPET,18,22
+    40,GASTLY,18,22
+    5,DRIFLOON,18,22
+#-------------------------------
+[125]   # Flexford Cave
+Cave,5
+    20,SMOOCHUM,17,19
+    20,JYNX,17,19
+    30,SNORUNT,17,19
+    30,SNEASEL,17,19
+#-------------------------------
+[177]   # Manor Field
+Land,21
+    30,SKIPLOOM,24,26
+    20,GLOOM,24,26
+    40,MARILL,24,26
+    5,CROCONAW,24,26
+    5,MARSHTOMP,24,26
+Water,2
+    20,PSYDUCK,25,30
+    40,BUIZEL,25,30
+    10,FLOATZEL,25,30
+OldRod
+    50,GOLDEEN,5,10
+    50,CORPHISH,8,11
+GoodRod
+    45,GOLDEEN,15,20
+    45,CORPHISH,16,22
+    10,SEAKING,18,24
+SuperRod
+    55,SEAKING,35,40
+    30,CORPHISH,35,40
+    15,CRAWDAUNT,40,45
+#-------------------------------
+[179]   # Bishops Meadow
+Land,21
+    30,KIRLIA,24,26
+    20,CARNIVINE,24,26
+    40,MARILL,24,26
+    5,CROCONAW,24,26
+    5,MARSHTOMP,24,26
+Water,2
+    20,PSYDUCK,25,30
+    40,BUIZEL,25,30
+    10,FLOATZEL,25,30
+OldRod
+    50,GOLDEEN,5,10
+    50,CORPHISH,8,11
+GoodRod
+    45,GOLDEEN,15,20
+    45,CORPHISH,16,22
+    10,SEAKING,18,24
+SuperRod
+    55,SEAKING,35,40
+    30,CORPHISH,35,40
+    15,CRAWDAUNT,40,45

@@ -50,34 +50,28 @@
 84,North,73,88,South,0
 # Harpley (127) - Carlton Square (131)
 127,South,0,131,North,8
-# Grumpig's Back (143) - Ash Green (152)
-143,North,30,152,South,0
-# Christmas Pie Avenue (153) - Ash Green (152)
-153,West,0,152,East,0
-# Blackwater Reservoir (151) - Ash Green (152)
-151,East,0,152,West,0
-# Guildford W (77) - Grumpig's Back (143)
-77,West,18,143,East,0
-# Christmas Pie Avenue (153) - Grumpig's Back (143)
-153,South,0,143,North,52
-# Blackwater Reservoir (151) - Grumpig's Back (143)
-151,South,0,143,North,0
+# Guildford W (77) - Guildford E (107)
+77,East,0,107,West,0
+# Christmas Pie Avenue (153) - Guildford W (77)
+153,East,6,77,West,0
+# Grumpig's Back (143) - Guildford W (77)
+143,East,0,77,West,18
+# Grumpig's Back (143) - Christmas Pie Avenue (153)
+143,North,52,153,South,0
+# Ash Green (152) - Christmas Pie Avenue (153)
+152,East,0,153,West,0
 # Poo Sticks (98) - Grumpig's Back (143)
 98,East,0,143,West,18
 # Farnham Bypass E (135) - Grumpig's Back (143)
 135,North,110,143,South,0
-# Phil's House (144) - Grumpig's Back (143)
-144,North,0,143,South,4
 # Shepherd & Flock (137) - Grumpig's Back (143)
 137,East,30,143,West,0
-# Christmas Pie Avenue (153) - Guildford W (77)
-153,East,6,77,West,0
-# Guildford E (107) - Guildford W (77)
-107,West,0,77,East,0
-# Poo Sticks (98) - Blackwater Reservoir (151)
-98,East,0,151,West,42
-# Shepherd & Flock (137) - Blackwater Reservoir (151)
-137,East,6,151,West,0
+# Blackwater Reservoir (151) - Grumpig's Back (143)
+151,South,0,143,North,0
+# Ash Green (152) - Grumpig's Back (143)
+152,South,0,143,North,30
+# Phil's House (144) - Grumpig's Back (143)
+144,North,0,143,South,4
 # Central Farnham SE (103) - Poo Sticks (98)
 103,East,56,98,West,0
 # Central Farnham NE (142) - Poo Sticks (98)
@@ -88,10 +82,10 @@
 122,East,28,98,West,0
 # Shepherd & Flock (137) - Poo Sticks (98)
 137,South,0,98,North,0
+# Blackwater Reservoir (151) - Poo Sticks (98)
+151,West,42,98,East,0
 # Gostreys (22) - Central Farnham SE (103)
 22,North,60,103,South,0
-# Central Farnham SW (109) - Central Farnham SE (103)
-109,East,0,103,West,4
 # Maltings (101) - Central Farnham SE (103)
 101,North,82,103,South,0
 # Hickley's Corner (102) - Central Farnham SE (103)
@@ -100,229 +94,269 @@
 142,South,0,103,North,0
 # Central Farnham NW (114) - Central Farnham SE (103)
 114,East,36,103,West,0
+# Central Farnham SW (109) - Central Farnham SE (103)
+109,East,0,103,West,4
 # Six Bellsprouts (118) - Central Farnham SE (103)
 118,West,31,103,East,0
 # Borelli Woods (122) - Central Farnham SE (103)
 122,North,0,103,South,28
-# Borellis (120) - Central Farnham SE (103)
-120,North,0,103,South,0
-# Farnham Station (147) - Central Farnham SE (103)
-147,East,0,103,West,88
-# Manor Field (177) - Central Farnham SE (103)
-177,North,116,103,South,0
-# Bishops Meadow (179) - Central Farnham SE (103)
-179,North,144,103,South,0
 # Shepherd & Flock (137) - Central Farnham SE (103)
 137,West,0,103,East,8
-# Filler (178) - Gostreys (22)
-178,South,72,22,North,0
-# Central Farnham SW (109) - Gostreys (22)
-109,South,0,22,North,2
-# St Andrew's Church (124) - Gostreys (22)
-124,South,32,22,North,0
+# Borellis (120) - Central Farnham SE (103)
+120,North,0,103,South,0
+# Bishops Meadow blockade (148) - Central Farnham SE (103)
+148,North,166,103,South,0
+# Bishops Meadow (179) - Central Farnham SE (103)
+179,North,144,103,South,0
+# Manor Field (177) - Central Farnham SE (103)
+177,North,116,103,South,0
+# Farnham Station (147) - Central Farnham SE (103)
+147,East,0,103,West,88
+# Farnham Bypass W (149) - Gostreys (22)
+149,North,0,22,South,0
 # Maltings (101) - Gostreys (22)
 101,East,0,22,West,0
 # Hickley's Corner (102) - Gostreys (22)
 102,North,0,22,South,40
 # Central Farnham NE (142) - Gostreys (22)
 142,West,64,22,East,0
+# Filler (178) - Gostreys (22)
+178,South,72,22,North,0
+# Central Farnham SW (109) - Gostreys (22)
+109,South,0,22,North,2
 # Farnham Bypass E (135) - Gostreys (22)
 135,West,0,22,East,26
 # Borellis (120) - Gostreys (22)
 120,West,0,22,East,0
-# Chantrys (90) - Filler (178)
-90,South,0,178,North,6
-# St Andrew's Church (124) - Filler (178)
-124,West,0,178,East,0
-# Maltings (101) - Filler (178)
-101,North,0,178,South,50
-# Dora's Green (112) - Filler (178)
-112,West,62,178,East,0
-# Crondall Lane S (121) - Filler (178)
-121,West,32,178,East,0
-# Central Farnham NW (114) - Filler (178)
-114,South,0,178,North,60
-# Borelli Woods (122) - Filler (178)
-122,North,0,178,South,160
-# Borellis (120) - Filler (178)
-120,North,0,178,South,132
-# Manor Field (177) - Filler (178)
-177,North,0,178,South,16
-# Bishops Meadow (179) - Filler (178)
-179,North,12,178,South,0
+# St Andrew's Church (124) - Gostreys (22)
+124,South,32,22,North,0
+# Maltings (101) - Farnham Bypass W (149)
+101,East,38,149,West,0
+# Hickley's Corner (102) - Farnham Bypass W (149)
+102,West,0,149,East,0
+# Farnham Station (147) - Farnham Bypass W (149)
+147,North,0,149,South,22
+# Hickley's Corner (102) - Maltings (101)
+102,North,0,101,South,62
+# Filler (178) - Maltings (101)
+178,South,50,101,North,0
+# Central Farnham SW (109) - Maltings (101)
+109,South,0,101,North,24
+# St Andrew's Church (124) - Maltings (101)
+124,South,10,101,North,0
+# Manor Field (177) - Maltings (101)
+177,East,0,101,West,0
+# Central Farnham NE (142) - Hickley's Corner (102)
+142,West,102,102,East,0
+# Farnham Bypass E (135) - Hickley's Corner (102)
+135,West,12,102,East,0
+# Borellis (120) - Hickley's Corner (102)
+120,West,38,102,East,0
+# Farnham Station (147) - Hickley's Corner (102)
+147,North,18,102,South,0
+# Redfields Lane E (128) - Hickley's Corner (102)
+128,East,168,102,West,0
+# Upper Hale (99) - Central Farnham NE (142)
+99,South,72,142,North,0
+# Central Farnham NW (114) - Central Farnham NE (142)
+114,East,0,142,West,0
+# Central Farnham SW (109) - Central Farnham NE (142)
+109,East,0,142,West,40
+# Six Bellsprouts (118) - Central Farnham NE (142)
+118,West,0,142,East,5
+# Shepherd & Flock (137) - Central Farnham NE (142)
+137,West,0,142,East,44
+# Farnham Station (147) - Central Farnham NE (142)
+147,East,0,142,West,124
+# Crondall (79) - Upper Hale (99)
+79,East,19,99,West,0
+# Dora's Green (112) - Upper Hale (99)
+112,East,0,99,West,6
+# Central Farnham NW (114) - Upper Hale (99)
+114,North,0,99,South,0
+# Redfields Lane W (100) - Upper Hale (99)
+100,East,38,99,West,0
+# Filler (115) - Upper Hale (99)
+115,South,0,99,North,20
+# A287 (129) - Upper Hale (99)
+129,South,0,99,North,0
+# Crondall Lane S (121) - Upper Hale (99)
+121,East,0,99,West,36
+# Crondall Lane M (138) - Upper Hale (99)
+138,East,0,99,West,21
+# Dora's Green (112) - Crondall (79)
+112,North,0,79,South,20
+# Central Farnham NW (114) - Crondall (79)
+114,West,0,79,East,47
+# Redfields Lane W (100) - Crondall (79)
+100,South,0,79,North,0
+# A287 Blockade (176) - Crondall (79)
+176,West,44,79,East,0
+# A287 (129) - Crondall (79)
+129,West,29,79,East,0
+# Crondall Lane N (113) - Crondall (79)
+113,North,14,79,South,0
+# The Place (119) - Crondall (79)
+119,East,6,79,West,0
+# Chantrys (90) - Dora's Green (112)
+90,East,0,112,West,30
+# Filler (178) - Dora's Green (112)
+178,East,0,112,West,62
+# Central Farnham NW (114) - Dora's Green (112)
+114,West,0,112,East,22
+# A287 Blockade (176) - Dora's Green (112)
+176,West,69,112,East,0
+# A287 (129) - Dora's Green (112)
+129,West,54,112,East,0
+# Crondall Lane N (113) - Dora's Green (112)
+113,East,0,112,West,0
+# Crondall Lane M (138) - Dora's Green (112)
+138,North,34,112,South,0
+# The Place (119) - Dora's Green (112)
+119,South,49,112,North,0
+# Filler (178) - Chantrys (90)
+178,North,6,90,South,0
+# Crondall Lane S (121) - Chantrys (90)
+121,West,0,90,East,0
 # Central Farnham SW (109) - Chantrys (90)
 109,North,0,90,South,68
 # St Andrew's Church (124) - Chantrys (90)
 124,West,0,90,East,32
-# Dora's Green (112) - Chantrys (90)
-112,West,30,90,East,0
-# Crondall Lane S (121) - Chantrys (90)
-121,West,0,90,East,0
 # Crondall Lane M (138) - Chantrys (90)
 138,South,0,90,North,0
-# St Andrew's Church (124) - Central Farnham SW (109)
-124,East,0,109,West,0
-# Maltings (101) - Central Farnham SW (109)
-101,North,24,109,South,0
-# Central Farnham NE (142) - Central Farnham SW (109)
-142,West,40,109,East,0
-# Crondall Lane S (121) - Central Farnham SW (109)
-121,South,34,109,North,0
-# Central Farnham NW (114) - Central Farnham SW (109)
-114,South,14,109,North,0
+# Central Farnham NW (114) - Filler (178)
+114,South,0,178,North,60
+# Crondall Lane S (121) - Filler (178)
+121,West,32,178,East,0
+# Borelli Woods (122) - Filler (178)
+122,North,0,178,South,160
+# Borellis (120) - Filler (178)
+120,North,0,178,South,132
+# St Andrew's Church (124) - Filler (178)
+124,West,0,178,East,0
+# Bishops Meadow blockade (148) - Filler (178)
+148,North,34,178,South,0
+# Bishops Meadow (179) - Filler (178)
+179,North,12,178,South,0
+# Manor Field (177) - Filler (178)
+177,North,0,178,South,16
+# Redfields Lane W (100) - Central Farnham NW (114)
+100,East,66,114,West,0
+# Crondall Lane S (121) - Central Farnham NW (114)
+121,East,0,114,West,8
+# Central Farnham SW (109) - Central Farnham NW (114)
+109,North,0,114,South,14
+# Farnham Bypass E (135) - Central Farnham NW (114)
+135,West,0,114,East,90
+# Borellis (120) - Central Farnham NW (114)
+120,West,0,114,East,64
+# St Andrew's Church (124) - Central Farnham NW (114)
+124,North,20,114,South,0
+# Crondall Lane M (138) - Central Farnham NW (114)
+138,East,7,114,West,0
+# Church Crookham (43) - Redfields Lane W (100)
+43,South,0,100,North,60
+# A287 Blockade (176) - Redfields Lane W (100)
+176,West,25,100,East,0
+# A287 (129) - Redfields Lane W (100)
+129,West,10,100,East,0
+# The Place (119) - Redfields Lane W (100)
+119,East,0,100,West,13
+# A287 Blockade (176) - Church Crookham (43)
+176,East,0,43,West,5
+# A287 (129) - Church Crookham (43)
+129,East,0,43,West,20
+# Redfields Lane E (128) - Church Crookham (43)
+128,North,0,43,South,0
+# Filler (115) - A287 Blockade (176)
+115,West,0,176,East,43
+# A287 (129) - A287 Blockade (176)
+129,North,0,176,South,0
+# Crondall Lane S (121) - A287 Blockade (176)
+121,East,0,176,West,99
+# Crondall Lane M (138) - A287 Blockade (176)
+138,East,0,176,West,84
+# Redfields Lane E (128) - A287 Blockade (176)
+128,West,0,176,East,25
+# A287 (129) - Filler (115)
+129,East,28,115,West,0
+# Redfields Lane E (128) - Filler (115)
+128,South,0,115,North,0
+# Crondall Lane S (121) - A287 (129)
+121,East,0,129,West,84
+# Crondall Lane M (138) - A287 (129)
+138,East,0,129,West,69
+# Redfields Lane E (128) - A287 (129)
+128,West,0,129,East,10
+# Central Farnham SW (109) - Crondall Lane S (121)
+109,North,0,121,South,34
+# St Andrew's Church (124) - Crondall Lane S (121)
+124,North,0,121,South,0
+# Crondall Lane N (113) - Crondall Lane S (121)
+113,East,30,121,West,0
+# Crondall Lane M (138) - Crondall Lane S (121)
+138,South,34,121,North,0
 # Farnham Bypass E (135) - Central Farnham SW (109)
 135,West,0,109,East,50
 # Borelli Woods (122) - Central Farnham SW (109)
 122,North,0,109,South,86
 # Borellis (120) - Central Farnham SW (109)
 120,West,0,109,East,24
-# Manor Field (177) - Central Farnham SW (109)
-177,North,58,109,South,0
+# St Andrew's Church (124) - Central Farnham SW (109)
+124,East,0,109,West,0
+# Bishops Meadow blockade (148) - Central Farnham SW (109)
+148,North,108,109,South,0
 # Bishops Meadow (179) - Central Farnham SW (109)
 179,North,86,109,South,0
-# Maltings (101) - St Andrew's Church (124)
-101,North,0,124,South,10
-# Crondall Lane N (113) - St Andrew's Church (124)
-113,East,62,124,West,0
-# Crondall Lane S (121) - St Andrew's Church (124)
-121,South,0,124,North,0
-# Central Farnham NW (114) - St Andrew's Church (124)
-114,South,0,124,North,20
-# Borelli Woods (122) - St Andrew's Church (124)
-122,North,0,124,South,120
-# Borellis (120) - St Andrew's Church (124)
-120,North,0,124,South,92
-# Manor Field (177) - St Andrew's Church (124)
-177,North,24,124,South,0
-# Bishops Meadow (179) - St Andrew's Church (124)
-179,North,52,124,South,0
-# Hickley's Corner (102) - Maltings (101)
-102,North,0,101,South,62
-# Manor Field (177) - Maltings (101)
-177,East,0,101,West,0
-# Central Farnham NE (142) - Hickley's Corner (102)
-142,West,102,102,East,0
-# Redfields Lane E (128) - Hickley's Corner (102)
-128,East,168,102,West,0
-# Farnham Bypass E (135) - Hickley's Corner (102)
-135,West,12,102,East,0
-# Borellis (120) - Hickley's Corner (102)
-120,West,38,102,East,0
-# Farnham Station (147) - Hickley's Corner (102)
-147,North,10,102,South,0
-# Upper Hale (99) - Central Farnham NE (142)
-99,South,72,142,North,0
-# Central Farnham NW (114) - Central Farnham NE (142)
-114,East,0,142,West,0
-# Six Bellsprouts (118) - Central Farnham NE (142)
-118,West,0,142,East,5
-# Farnham Station (147) - Central Farnham NE (142)
-147,East,0,142,West,124
-# Shepherd & Flock (137) - Central Farnham NE (142)
-137,West,0,142,East,44
-# Crondall (79) - Upper Hale (99)
-79,East,19,99,West,0
-# Dora's Green (112) - Upper Hale (99)
-112,East,0,99,West,6
-# Crondall Lane S (121) - Upper Hale (99)
-121,East,0,99,West,36
-# Central Farnham NW (114) - Upper Hale (99)
-114,North,0,99,South,0
-# Redfields Lane W (100) - Upper Hale (99)
-100,East,38,99,West,0
-# A287 (129) - Upper Hale (99)
-129,South,0,99,North,0
-# Crondall Lane M (138) - Upper Hale (99)
-138,East,0,99,West,21
-# Crondall Lane N (113) - Crondall (79)
-113,North,8,79,South,0
-# Dora's Green (112) - Crondall (79)
-112,North,0,79,South,20
-# Central Farnham NW (114) - Crondall (79)
-114,West,0,79,East,47
-# Redfields Lane W (100) - Crondall (79)
-100,South,0,79,North,10
-# A287 (129) - Crondall (79)
-129,West,29,79,East,0
-# A287 Blockade (176) - Crondall (79)
-176,West,44,79,East,0
-# Dora's Green (112) - Crondall Lane N (113)
-112,West,0,113,East,0
-# Crondall Lane S (121) - Crondall Lane N (113)
-121,West,0,113,East,30
-# Crondall Lane M (138) - Crondall Lane N (113)
-138,North,6,113,South,0
-# Central Farnham NW (114) - Dora's Green (112)
-114,West,0,112,East,22
-# A287 (129) - Dora's Green (112)
-129,West,54,112,East,0
-# A287 Blockade (176) - Dora's Green (112)
-176,West,69,112,East,0
-# Crondall Lane M (138) - Dora's Green (112)
-138,North,34,112,South,0
-# Central Farnham NW (114) - Crondall Lane S (121)
-114,West,8,121,East,0
-# A287 (129) - Crondall Lane S (121)
-129,West,84,121,East,0
-# A287 Blockade (176) - Crondall Lane S (121)
-176,West,99,121,East,0
-# Crondall Lane M (138) - Crondall Lane S (121)
-138,South,34,121,North,0
-# Redfields Lane W (100) - Central Farnham NW (114)
-100,East,66,114,West,0
-# Crondall Lane M (138) - Central Farnham NW (114)
-138,East,7,114,West,0
-# Farnham Bypass E (135) - Central Farnham NW (114)
-135,West,0,114,East,90
-# Borellis (120) - Central Farnham NW (114)
-120,West,0,114,East,64
-# Church Crookham (43) - Redfields Lane W (100)
-43,South,0,100,North,50
-# A287 (129) - Redfields Lane W (100)
-129,West,10,100,East,0
-# A287 Blockade (176) - Redfields Lane W (100)
-176,West,25,100,East,0
-# A287 (129) - Church Crookham (43)
-129,East,0,43,West,20
-# Redfields Lane E (128) - Church Crookham (43)
-128,North,0,43,South,0
-# A287 Blockade (176) - Church Crookham (43)
-176,East,0,43,West,5
-# Redfields Lane E (128) - A287 (129)
-128,West,0,129,East,10
-# A287 Blockade (176) - A287 (129)
-176,South,0,129,North,0
-# Crondall Lane M (138) - A287 (129)
-138,East,0,129,West,69
-# A287 Blockade (176) - Redfields Lane E (128)
-176,East,25,128,West,0
-# Crondall Lane M (138) - A287 Blockade (176)
-138,East,0,176,West,84
-# Six Bellsprouts (118) - Farnham Bypass E (135)
-118,West,85,135,East,0
-# Borelli Woods (122) - Farnham Bypass E (135)
-122,South,0,135,North,28
-# Borellis (120) - Farnham Bypass E (135)
-120,South,0,135,North,0
-# Farnham Station (147) - Farnham Bypass E (135)
-147,North,30,135,South,0
-# Shepherd & Flock (137) - Farnham Bypass E (135)
-137,West,46,135,East,0
+# Manor Field (177) - Central Farnham SW (109)
+177,North,58,109,South,0
+# Farnham Bypass E (135) - Six Bellsprouts (118)
+135,East,0,118,West,85
 # Borelli Woods (122) - Six Bellsprouts (118)
 122,East,0,118,West,59
 # Shepherd & Flock (137) - Six Bellsprouts (118)
 137,North,0,118,South,0
-# Borellis (120) - Borelli Woods (122)
-120,East,0,122,West,0
-# Phil's House (144) - Borelli Woods (122)
-144,North,0,122,South,86
+# Borelli Woods (122) - Farnham Bypass E (135)
+122,South,0,135,North,28
+# Shepherd & Flock (137) - Farnham Bypass E (135)
+137,West,46,135,East,0
+# Borellis (120) - Farnham Bypass E (135)
+120,South,0,135,North,0
+# Farnham Station (147) - Farnham Bypass E (135)
+147,North,38,135,South,0
 # Shepherd & Flock (137) - Borelli Woods (122)
 137,West,20,122,East,0
+# Borellis (120) - Borelli Woods (122)
+120,East,0,122,West,0
+# St Andrew's Church (124) - Borelli Woods (122)
+124,South,120,122,North,0
+# Phil's House (144) - Borelli Woods (122)
+144,North,0,122,South,86
+# Blackwater Reservoir (151) - Shepherd & Flock (137)
+151,West,0,137,East,6
+# Ash Green (152) - Blackwater Reservoir (151)
+152,West,0,151,East,0
+# St Andrew's Church (124) - Borellis (120)
+124,South,92,120,North,0
 # Phil's House (144) - Borellis (120)
 144,North,0,120,South,114
 # Farnham Station (147) - Borellis (120)
 147,East,0,120,West,60
+# Crondall Lane N (113) - St Andrew's Church (124)
+113,East,62,124,West,0
+# Bishops Meadow blockade (148) - St Andrew's Church (124)
+148,North,74,124,South,0
+# Bishops Meadow (179) - St Andrew's Church (124)
+179,North,52,124,South,0
+# Manor Field (177) - St Andrew's Church (124)
+177,North,24,124,South,0
+# Crondall Lane M (138) - Crondall Lane N (113)
+138,North,0,113,South,0
+# The Place (119) - Crondall Lane N (113)
+119,South,15,113,North,0
+# Bishops Meadow (179) - Bishops Meadow blockade (148)
+179,West,0,148,East,0
+# Manor Field (177) - Bishops Meadow (179)
+177,West,0,179,East,0
 # Farnham Station (147) - Phil's House (144)
-147,North,144,144,South,0
-# Bishops Meadow (179) - Manor Field (177)
-179,East,0,177,West,0
+147,North,152,144,South,0

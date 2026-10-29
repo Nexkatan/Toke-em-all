@@ -61,69 +61,94 @@ Water,2
     40,LOTAD,25,30
     40,LOMBRE,25,30
     10,FINNEON,35,40
+OldRod
     50,FINNEON,5,10
     50,LOTAD,8,11
 GoodRod
     45,FINNEON,15,20
     45,LOTAD,16,22
     10,LOMBRE,18,24
+SuperRod
     55,LOMBRE,35,40
     30,LUDICOLO,35,40
     15,LUMINEON,40,45
+#-------------------------------
+[076] # Brighton
+Land,21
     40,KRABBY,30,35
     40,WINGULL,30,35
     20,SQUIRTLE,30,35
     10,SEEL,30,35
+Water,2
     40,SEEL,30,35
     30,WINGULL,30,35
     20,KRABBY,30,35
     10,KINGLER,30,35
+OldRod
     50,CARVANHA,18,22
     50,STARYU,18,22
 GoodRod
     45,CARVANHA,25,30
     45,STARYU,25,30
     10,STARMIE,25,30
+SuperRod
     55,STARMIE,35,40
     30,KINGLER,35,40
     15,SHARPEDO,40,45
+#-------------------------------
+[079] # Crondall
+Land,21
     40,ODDISH,3,6
     40,SHINX,3,5
     20,CHERUBI,3,5
     10,HOPPIP,3,5
+Water,2
     40,MUDKIP,30,35
     40,PSYDUCK,30,35
     20,SURSKIT,30,35
+OldRod
     50,MUDKIP,8,13
     50,SLOWPOKE,8,13
 GoodRod
     45,MUDKIP,15,20
     45,SLOWPOKE,16,22
     10,SLOWBRO,18,24
+SuperRod
     55,MARSHTOMP,35,40
     30,SLOWBRO,35,40
     15,SLOWKING,40,45
+#-------------------------------
+[090] # Chantrys
+Land,21
     40,RATTATA,3,5
     30,MEOWTH,3,5
     20,SPEAROW,3,5
     10,CUBONE,3,5
+Water,2
     40,BIDOOF,30,35
     40,GOLDEEN,30,35
     20,BIBAREL,30,35
 OldRod
     50,GOLDEEN,8,13
     50,BIDOOF,8,13
+GoodRod
     45,BIDOOF,15,20
     45,BIBAREL,16,22
     10,GOLDEEN,18,24
-SuperRod,21
+SuperRod
     55,GOLDEEN,35,40
     30,BIBAREL,35,40
     15,SEAKING,40,45
+#-------------------------------
+[0143] # Grumpigs Back
+Land,21
     40,SLOWPOKE,15,16
     30,SPOINK,13,15
     20,NATU,14,17
     10,ABRA,12,15
+#-------------------------------
+[077] # Guildford W
+Land,21
     30,PIKACHU,16,18
     30,FARFETCHD,16,18
     30,AIPOM,16,18
@@ -131,36 +156,49 @@ Water,2
     45,MARILL,25,30
     45,GOLDEEN,25,30
     10,TOTODILE,25,30
+OldRod
     50,AZURILL,5,10
     50,GOLDEEN,8,11
 GoodRod
     45,AZURILL,15,20
     45,GOLDEEN,16,22
     10,MARILL,18,24
+SuperRod
     55,MARILL,35,40
     30,TOTODILE,35,40
     15,CROCONAW,40,45
+#-------------------------------
+[099] # Upper Hale
+Land,21
     20,PONYTA,14,16
     20,PHANPY,14,16
     20,DODUO,14,16
     20,GLOOM,14,16
     20,EKANS,14,16
+Water,2
     45,BIDOOF,25,30
     45,GOLDEEN,25,30
     10,BIBAREL,25,30
+OldRod
     50,GOLDEEN,5,10
     50,BIDOOF,8,11
+GoodRod
     45,BIDOOF,15,20
     45,BIBAREL,16,22
     10,GOLDEEN,18,24
+SuperRod
     55,GOLDEEN,35,40
     30,BIBAREL,35,40
     15,SEAKING,40,45
+#-------------------------------
+[128] # Redfields Lane E
+Land,21
     20,GRIMER,8,10
     20,KOFFING,8,10
     20,SUNKERN,8,10
     20,ODDISH,8,10
     20,EKANS,8,10
+Water,2
     45,POLIWHIRL,25,30
     45,BIDOOF,25,30
     10,BIBAREL,25,30
@@ -419,12 +457,12 @@ Land,21
     40,PHANPY,18,22
     5,DONPHAN,18,22
 #-------------------------------
-[143] # Grumpig's Back
+[149] # Farnham Bypass W
 Land,21
-    30,DODUO,13,17
-    25,TAUROS,13,17
-    40,PHANPY,13,17
-    5,DONPHAN,13,17
+    30,DODUO,18,22
+    25,TAUROS,18,22
+    40,PHANPY,18,22
+    5,DONPHAN,18,22
 #-------------------------------
 [084] # Hove
 Land,21
@@ -632,3 +670,47 @@ SuperRod
     55,SEAKING,35,40
     30,CORPHISH,35,40
     15,CRAWDAUNT,40,45
+#-------------------------------
+[119]   # The Place
+Land,21
+    40,TOGEPI,3,5
+    30,SNUBBULL,3,5
+    20,IGGLYBUFF,3,5
+    10,CLEFFA,3,5
+Water,2
+    40,AZURILL,30,35
+    40,SURSKIT,30,35
+    20,MARILL,30,35
+OldRod
+    50,AZURILL,8,13
+    50,MANTYKE,8,13
+GoodRod
+    45,MARILL,15,20
+    45,MANTYKE,16,22
+SuperRod
+    55,MARILL,35,40
+    30,AZUMARILL,35,40
+    15,MANTINE,40,45
+#-------------------------------
+[121] # Crondall Lane S
+Land,21
+    45,RATICATE,5,7
+    20,LICKITUNG,5,7
+    10,DITTO,5,7
+    25,DUNSPARCE,5,8
+Water,2
+    20,QWILFISH,25,30
+    40,LOTAD,25,30
+    30,BUIZEL,25,30
+    10,FLOATZEL,25,30
+OldRod
+    50,QWILFISH,5,10
+    50,LOTAD,8,11
+GoodRod
+    45,QWILFISH,15,20
+    45,LOTAD,16,22
+    10,LOMBRE,18,24
+SuperRod
+    55,FLOATZEL,35,40
+    30,LOMBRE,35,40
+    15,LUDICOLO,40,45

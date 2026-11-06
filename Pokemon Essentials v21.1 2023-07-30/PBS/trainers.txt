@@ -3,6 +3,7 @@
 LoseText = Cry
 Pokemon = SPEAROW, 3
     Moves = TACKLE,TAILWHIP,GUST
+Pokemon = AIPOM, 4
 Pokemon = RATTATA, 5
     Moves = TACKLE,TAILWHIP
 #-------------------------------
@@ -21,6 +22,7 @@ Pokemon = KRICKETOT, 9
 [STONER,Fletch]
 LoseText = Aw man I need a smoke ball!
 Pokemon = WEEDLE, 6
+Pokemon = BUDEW, 6
 Pokemon = SHROOMISH, 7
 #-------------------------------
 [STONER,Dixon]
@@ -30,10 +32,10 @@ Pokemon = KOFFING, 6
 #-------------------------------
 [RIVAL1,???]
 LoseText = Well I'm keeping your bike
-Pokemon = MAGNEMITE, 15
+Pokemon = MAGNEMITE, 22
     Moves = TACKLE,THUNDERSHOCK,SONICBOOM
-Pokemon = BELDUM, 15
-Pokemon = SHIELDON, 15
+Pokemon = BELDUM, 24
+Pokemon = SHIELDON, 25
 #-------------------------------
 [LEADER_Surge,Ed ]
 Items = FULLRESTORE,FULLRESTORE
@@ -41,15 +43,15 @@ LoseText = Very nice
 Pokemon = SHINX, 20
 Pokemon = FLAAFFY, 22
     HeldItem = SITRUSBERRY
-Pokemon = ELECTABUZZ, 25
+Pokemon = ELECTABUZZ, 24
 #-------------------------------
-[BEAUTY,Beef ]
+[EXGF1,Beef ]
 LoseText = Fairy nuff, you won!
-Pokemon = CLEFFA, 5
-Pokemon = JIGGLYPUFF, 5
-Pokemon = SNUBBULL, 5
+Pokemon = CLEFFA, 2
+Pokemon = JIGGLYPUFF, 3
+Pokemon = SNUBBULL, 3
 #-------------------------------
-[EXGF1,Laura]
+[EXGF4,Laura]
 LoseText = I just don't understand... Are you Gabe or something?
 Pokemon = SPEAROW, 30
 Pokemon = DODUO, 30

@@ -6634,14 +6634,64 @@ Flags = Fling_10,NaturalGift_POISON_100
 Description = You can't ride the train without a railcard... that would be a bad deal
 #-------------------------------
 [GUILDFORDBRIGHTON]
-Name = Guildford - Brighton Season Ticket
-NamePlural = Guildford - Brighton Season Tickets
-PortionName = Guildford - Brighton Season Ticket
-PortionNamePlural = Guildford - Brighton Season Tickets
-Pocket = 8
-Price = 20000
+Name = Guildford - Brighton
+NamePlural = Guildford - Brighton
+PortionName = Guildford - Brighton
+PortionNamePlural = Guildford - Brighton
+Pocket = 1
+Price = 1
 Flags = Fling_10,NaturalGift_POISON_100
-Description = This allows free travel between Guildford and Brighton
+Description = This allows travel between Guildford and Brighton
+#-------------------------------
+[GUILDFORDFARNHAM]
+Name = Guildford - Farnham
+NamePlural = Guildford - Farnham
+PortionName = Guildford - Farnham
+PortionNamePlural = Guildford - Farnham
+Pocket = 1
+Price = 1
+Flags = Fling_10,NaturalGift_POISON_100
+Description = This allows 1 journey between Guildford and Farnham
+#-------------------------------
+[BRIGHTONGUILDFORD]
+Name = Brighton - Guildford
+NamePlural = Brighton - Guildford
+PortionName = Brighton - Guildford
+PortionNamePlural = Brighton - Guildford
+Pocket = 1
+Price = 1
+Flags = Fling_10,NaturalGift_POISON_100
+Description = This allows 1 journey between Brighton and Guildford
+#-------------------------------
+[BRIGHTONFARNHAM]
+Name = Brighton - Farnham Ticket
+NamePlural = Brighton - Farnham Tickets
+PortionName = Brighton - Farnham Ticket
+PortionNamePlural = Brighton - Farnham Tickets
+Pocket = 1
+Price = 1
+Flags = Fling_10,NaturalGift_POISON_100
+Description = This allows 1 journey between Brighton and Farnham
+#-------------------------------
+[FARNHAMGUILDFORD]
+Name = Farnham - Guildford
+NamePlural = Farnham - Guildford
+PortionName = Farnham - Guildford
+PortionNamePlural = Farnham - Guildford
+Pocket = 1
+Price = 1
+Flags = Fling_10,NaturalGift_POISON_100
+Description = This allows 1 journey between Farnham and Guildford
+#-------------------------------
+[FARNHAMBRIGHTON]
+Name = Farnham - Brighton
+NamePlural = Farnham - Brighton
+PortionName = Farnham - Brighton
+PortionNamePlural = Farnham - Brighton
+Pocket = 1
+Price = 1
+Flags = Fling_10,NaturalGift_POISON_100
+Description = This allows 1 journey between Farnham and Brighton
 #-------------------------------
 [CRISPYBEEF]
 Name = Crispy Chilli Beef

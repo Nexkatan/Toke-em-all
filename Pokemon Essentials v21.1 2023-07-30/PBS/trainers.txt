@@ -37,6 +37,13 @@ Pokemon = MAGNEMITE, 22
 Pokemon = BELDUM, 24
 Pokemon = SHIELDON, 25
 #-------------------------------
+[CRUSHGIRL,Sarah]
+LoseText = Guess I couldn't keep up with your moves!
+Pokemon = HITMONTOP, 16
+Pokemon = BELLOSSOM, 18
+Pokemon = CLEFAIRY, 17
+Pokemon = KIRLIA, 20
+#-------------------------------
 [LEADER_Surge,Ed ]
 Items = FULLRESTORE,FULLRESTORE
 LoseText = Very nice

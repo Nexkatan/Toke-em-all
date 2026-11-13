@@ -2,8 +2,6 @@
 
 Fix the changed map transports: 
 
-Change maps to all have time of day - add them all in and set Outdoor = true, maybe done?
-
 Add Gabe to Christmas P
 
 more trainers - gostreys, brighton, gford
@@ -13,18 +11,7 @@ Make another dealer who sells brightpowder and 	silverpowder and softsand and me
 
 ==== Filling out: ====
 
-Redfields garden centre: 
-shoppers 
 Finalise Mum's ciggy berry item list
-
-Switches on:
-
-Has Eevee
-Won/lost Magnemite
-bush activated if so
-Mum Stationary
-Cedar Phone Number if so
-
 
 check barry daycare works for mightyena?
 
@@ -36,15 +23,10 @@ Tommy caught a pokemon message after getting
 central farnham ne needs 2 top tree tiles along bottom right corner
 Lots more item messages
 
-Switches on: Starting over, Defeated Gym 1, Has Eevee, Lost/Won Magnemite, Bush Activated, First Brighton? First Cedar, Cedar Mobile Phone number, Mum Stationary, Battle Phil? A3 Gate? Eira Swimming, Barry Fed, Abra Evolving? Taken Barry first time, Beaten Fletch, Bought Ciggy Berry, Roadworks on, Fham Park Safari Closed, Franks stationary, Farnham Basic Block, Phil Vaping
-
-badge gym trainers
 Phil writing needs some work
-Encounters: Redfields E Tall grass
 
 
 Playthrough
 
 When room is clean, allow playing switch
-make the place?
 more text at phil's, why house doors locked, paedo?

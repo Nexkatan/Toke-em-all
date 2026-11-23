@@ -3,8 +3,8 @@
 LoseText = Cry
 Pokemon = SPEAROW, 3
     Moves = TACKLE,TAILWHIP,GUST
-Pokemon = AIPOM, 4
-Pokemon = RATTATA, 5
+Pokemon = AIPOM, 3
+Pokemon = RATTATA, 4
     Moves = TACKLE,TAILWHIP
 #-------------------------------
 [SAILOR,Paddy]

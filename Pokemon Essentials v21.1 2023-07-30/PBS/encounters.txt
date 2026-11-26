@@ -52,10 +52,10 @@ SuperRod
 #-------------------------------
 [048] # Redfields Garden Centre
 Land,21
-    40,BELLSPROUT,3,5
-    40,SUNKERN,3,5
-    10,MEDITITE,3,5
-    10,NATU,3,5
+    40,BELLSPROUT,4,7
+    40,SUNKERN,4,7
+    10,MEDITITE,4,7
+    10,NATU,4,7
     10,WEEDLE,3,5
 Water,2
     40,LOTAD,25,30
@@ -98,10 +98,10 @@ SuperRod
 #-------------------------------
 [079] # Crondall
 Land,21
-    40,ODDISH,3,6
-    40,SHINX,3,5
-    20,CHERUBI,3,5
-    10,HOPPIP,3,5
+    40,ODDISH,8,12
+    40,SHINX,8,12
+    20,CHERUBI,8,12
+    10,HOPPIP,8,12
 Water,2
     40,MUDKIP,30,35
     40,PSYDUCK,30,35
@@ -120,10 +120,10 @@ SuperRod
 #-------------------------------
 [090] # Chantrys
 Land,21
-    40,RATTATA,3,5
-    30,MEOWTH,3,5
-    20,SPEAROW,3,5
-    10,CUBONE,3,5
+    40,RATTATA,7,11
+    30,MEOWTH,7,11
+    20,SPEAROW,7,11
+    10,CUBONE,7,11
 Water,2
     40,BIDOOF,30,35
     40,GOLDEEN,30,35
@@ -288,7 +288,7 @@ Land,21
     30,BALTOY,16,18
     30,PHANPY,16,18
     30,POLIWHIRL,16,18
-    10,VOLTORB,16,29
+    10,VOLTORB,16,19
 Water,2
     20,CHINCHOU,25,30
     40,TOTODILE,25,30
@@ -384,10 +384,10 @@ Land,21
 #-------------------------------
 [114] # Central Farnham NW
 Land,21
-    45,PIDGEY,5,7
-    20,RALTS,5,7
-    10,MAGBY,5,7
-    25,DODUO,5,8
+    45,PIDGEY,24,26
+    20,RALTS,24,26
+    10,MAGBY,24,26
+    25,DODUO,24,26
 Water,2
     20,PSYDUCK,25,30
     40,BUIZEL,25,30
@@ -613,10 +613,10 @@ SuperRod
 #-------------------------------
 [124]   # St Andrew's Church
 Land,21
-    30,MISDREAVUS,18,22
-    25,SHUPPET,18,22
-    40,GASTLY,18,22
-    5,DRIFLOON,18,22
+    30,MISDREAVUS,24,26
+    25,SHUPPET,24,26
+    40,GASTLY,24,26
+    5,DRIFLOON,24,26
 #-------------------------------
 [125]   # Flexford Cave
 Cave,5
@@ -694,10 +694,10 @@ SuperRod
 #-------------------------------
 [121] # Crondall Lane S
 Land,21
-    45,RATICATE,5,7
-    20,LICKITUNG,5,7
-    10,DITTO,5,7
-    25,DUNSPARCE,5,8
+    45,RATICATE,24,26
+    20,LICKITUNG,24,26
+    10,DITTO,24,26
+    25,DUNSPARCE,24,26
 Water,2
     20,QWILFISH,25,30
     40,LOTAD,25,30

@@ -1609,7 +1609,7 @@ Category = Tadpole
 Pokedex = Its body surface is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.
 Generation = 1
 WildItemUncommon = KINGSROCK
-Evolutions = POLIWRATH,Item,WATERSTONE,POLITOED,TradeItem,KINGSROCK
+Evolutions = POLIWRATH,Item,WATERSTONE,POLITOED,Item,KINGSROCK
 #-------------------------------
 [POLIWRATH]
 Name = Poliwrath
@@ -1690,7 +1690,7 @@ Category = Psi
 Pokedex = It is rumored that a boy with psychic abilities suddenly transformed into Kadabra while he was assisting research into extrasensory powers.
 Generation = 1
 WildItemUncommon = TWISTEDSPOON
-Evolutions = ALAKAZAM,Trade,
+Evolutions = ALAKAZAM,Level,35,ALAKAZAM,Trade
 #-------------------------------
 [ALAKAZAM]
 Name = Alakazam
@@ -1984,7 +1984,7 @@ Category = Rock
 Pokedex = They descend from mountains by tumbling down steep slopes. They are so brutal, they smash aside obstructing trees and huge boulders with thunderous tackles.
 Generation = 1
 WildItemUncommon = EVERSTONE
-Evolutions = GOLEM,Trade,
+Evolutions = GOLEM,Level,35,GOLEM,Trade
 #-------------------------------
 [GOLEM]
 Name = Golem
@@ -2090,7 +2090,7 @@ Category = Dopey
 Pokedex = It catches prey by dipping its tail in water at the side of a river. But it often forgets what it is doing and spends whole days just loafing at the water's edge.
 Generation = 1
 WildItemUncommon = LAGGINGTAIL
-Evolutions = SLOWBRO,Level,37,SLOWKING,TradeItem,KINGSROCK
+Evolutions = SLOWBRO,Level,37,SLOWKING,Item,KINGSROCK
 #-------------------------------
 [SLOWBRO]
 Name = Slowbro
@@ -2465,7 +2465,7 @@ Habitat = Cave
 Category = Gas
 Pokedex = If a Haunter beckons you while it is floating in darkness, don't approach it. This Pokémon will try to lick you with its tongue and steal your life away.
 Generation = 1
-Evolutions = GENGAR,Trade,
+Evolutions = GENGAR,Level,35,GENGAR,Trade
 #-------------------------------
 [GENGAR]
 Name = Gengar

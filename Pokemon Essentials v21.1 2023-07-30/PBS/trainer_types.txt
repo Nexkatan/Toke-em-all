@@ -304,6 +304,16 @@ Name = Team Rocket
 Gender = Female
 BaseMoney = 32
 #-------------------------------
+[TEAMBASIC_M]
+Name = Team Basic
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[TEAMBASIC_F]
+Name = Team Basic
+Gender = Female
+BaseMoney = 32
+#-------------------------------
 [ROCKETBOSS]
 Name = Rocket Boss
 Gender = Male

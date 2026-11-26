@@ -7,28 +7,52 @@ Pokemon = AIPOM, 3
 Pokemon = RATTATA, 4
     Moves = TACKLE,TAILWHIP
 #-------------------------------
+[ROCKER,Phil]
+LoseText = Everybody says I have amazing Ice!
+Pokemon = SMOOCHUM, 16
+Pokemon = DEWGONG, 18
+Pokemon = VAPOREON, 17
+Pokemon = GLACEON, 17
+Pokemon = PILOSWINE, 20
+#-------------------------------
+[CAMPER,Geci]
+LoseText = I'm gonna dj a song about this
+Pokemon = FARFETCHD, 9
+Pokemon = PICHU, 9
+Pokemon = JIGGLYPUFF, 10
+#-------------------------------
+[BEAUTY,McGowan]
+LoseText = Corrr you're good at that!
+Pokemon = VULPIX, 9
+Pokemon = GOLDEEN, 8
+#-------------------------------
+[POKEMONBREEDER,Jess Sutton]
+LoseText = ....
+Pokemon = EKANS, 8
+Pokemon = CHANSEY, 9
+#-------------------------------
 [SAILOR,Paddy]
 LoseText = Good show old chap
-Pokemon = MACHOP, 7
-Pokemon = TENTACOOL, 8
-Pokemon = SPOINK, 9
+Pokemon = MACHOP, 9
+Pokemon = TENTACOOL, 9
+Pokemon = SPOINK, 10
 #-------------------------------
 [SCIENTIST,Ben Bowles]
 LoseText = That's just not cricket!
-Pokemon = POLIWAG, 7
-Pokemon = VOLTORB, 7
-Pokemon = KRICKETOT, 9
+Pokemon = POLIWAG, 9
+Pokemon = VOLTORB, 8
+Pokemon = KRICKETOT, 10
 #-------------------------------
 [STONER,Fletch]
 LoseText = Aw man I need a smoke ball!
-Pokemon = WEEDLE, 6
-Pokemon = BUDEW, 6
-Pokemon = SHROOMISH, 7
+Pokemon = WEEDLE, 10
+Pokemon = BUDEW, 9
+Pokemon = SHROOMISH, 12
 #-------------------------------
 [STONER,Dixon]
 LoseText = Oii Nah
-Pokemon = SLOWPOKE, 5
-Pokemon = KOFFING, 6
+Pokemon = SLOWPOKE, 8
+Pokemon = KOFFING, 10
 #-------------------------------
 [RIVAL1,???]
 LoseText = Well I'm keeping your bike
@@ -39,18 +63,19 @@ Pokemon = SHIELDON, 25
 #-------------------------------
 [CRUSHGIRL,Sarah]
 LoseText = Guess I couldn't keep up with your moves!
-Pokemon = HITMONTOP, 16
-Pokemon = BELLOSSOM, 18
-Pokemon = CLEFAIRY, 17
+Pokemon = HITMONTOP, 19
+Pokemon = BELLOSSOM, 20
+Pokemon = CLEFAIRY, 21
 Pokemon = KIRLIA, 20
 #-------------------------------
 [LEADER_Surge,Ed ]
 Items = FULLRESTORE,FULLRESTORE
 LoseText = Very nice
-Pokemon = SHINX, 20
+Pokemon = LUXIO, 20
 Pokemon = FLAAFFY, 22
     HeldItem = SITRUSBERRY
 Pokemon = ELECTABUZZ, 24
+Pokemon = LINOONE, 25
 #-------------------------------
 [EXGF1,Beef ]
 LoseText = Fairy nuff, you won!
@@ -114,12 +139,6 @@ Pokemon = HOPPIP, 14
 Pokemon = MRMIME, 15
 Pokemon = PONYTA, 15
 #-------------------------------
-[CAMPER,Geci]
-LoseText = I'm gonna dj a song about this
-Pokemon = FARFETCHD, 7
-Pokemon = PICHU, 9
-Pokemon = JIGGLYPUFF, 8
-#-------------------------------
 [SWIMMER_M,Greg Mungall]
 LoseText = Well at least I have my muscles
 Pokemon = MEDITITE, 14
@@ -176,15 +195,6 @@ LoseText = Nah
 Pokemon = MACHOKE, 12
 Pokemon = NUZLEAF, 13
 #-------------------------------
-[TEAMROCKET_F,Nay]
-LoseText = Cry
-Pokemon = DODUO, 45
-#-------------------------------
-[BEAUTY,McGowan]
-LoseText = Corrr you're good at that!
-Pokemon = VULPIX, 6
-Pokemon = GOLDEEN, 7
-#-------------------------------
 [CUEBALL,Mugshot]
 LoseText = Well... Just don't walk on the flowers again
 Pokemon = MACHOKE, 22
@@ -210,9 +220,9 @@ Pokemon = HERACROSS, 34
 #-------------------------------
 [FOUNDERS2,Jo and Hymers]
 LoseText = Who can we blame for this?
-Pokemon = BUTTERFREE, 23
-Pokemon = BEEDRILL, 24
-Pokemon = ARIADOS, 23
+Pokemon = BUTTERFREE, 25
+Pokemon = BEEDRILL, 26
+Pokemon = ARIADOS, 25
 Pokemon = PARASECT, 26
 Pokemon = NINJASK, 26
 Pokemon = VENOMOTH, 27
@@ -223,3 +233,85 @@ Pokemon = NINJASK, 25
 Pokemon = SHEDINJA, 25
 Pokemon = MASQUERAIN, 25
 Pokemon = DUSTOX, 28
+#-------------------------------
+[AROMALADY,Poppy Fryer]
+LoseText = Do you know anybody who would take these nugs?
+Pokemon = FEEBAS, 18
+Pokemon = LOUDRED, 19
+Pokemon = MANKEY, 18
+Pokemon = LICKITUNG, 20
+#-------------------------------
+[TEAMBASIC_F,Catherine Wareham]
+LoseText = *Unintelligible bitching*
+Pokemon = DUNSPARCE, 25
+Pokemon = FURRET, 25
+Pokemon = LOUDRED, 25
+#-------------------------------
+[TEAMBASIC_F,Rhona]
+LoseText = *Unintelligible bitching*
+Pokemon = VIGOROTH, 25
+Pokemon = WIGGLYTUFF, 25
+Pokemon = HOOTHOOT, 25
+#-------------------------------
+[TEAMBASIC_F,Sam Weatherhead]
+LoseText = Did you join the facebook group?
+Pokemon = LICKITUNG, 25
+Pokemon = DITTO, 25
+Pokemon = MILTANK, 25
+#-------------------------------
+[TEAMBASIC_F,Lucy Gill]
+LoseText = *Unintelligible bitching*
+Pokemon = CHANSEY, 25
+Pokemon = PERSIAN, 25
+Pokemon = SMEARGLE, 25
+#-------------------------------
+[TEAMBASIC_F,Jess Hallam]
+LoseText = Geoff took me home after the Mulberry!
+Pokemon = PIDGEOTTO, 25
+Pokemon = TEDDIURSA, 25
+Pokemon = ZANGOOSE, 25
+#-------------------------------
+[TEAMBASIC_F,Nay]
+LoseText = *Unintelligible bitching*
+Pokemon = SKITTY, 25
+Pokemon = SPINDA, 25	
+Pokemon = SENTRET, 25
+#-------------------------------
+[FISHERMAN,Frank]
+LoseText = Wanna check out my nuts?
+Pokemon = WARTORTLE, 25
+Pokemon = KINGLER, 25	
+Pokemon = WAILMER, 25
+#-------------------------------
+[FISHERMAN,Connor Storey]
+LoseText = Wanna check out my nuts?
+Pokemon = SEAKING, 25
+Pokemon = FEEBAS, 25	
+Pokemon = HUNTAIL, 25
+#-------------------------------
+[FISHERMAN,Hallam]
+LoseText = Wanna check out my nuts?
+Pokemon = REMORAID, 25
+Pokemon = POLIWHIRL, 25	
+Pokemon = PSYDUCK, 25
+#-------------------------------
+[PICNICKER,Ella Millais]
+LoseText = I know you were there when Geoff dumped me
+Pokemon = GOLDEEN, 25
+Pokemon = VENONAT, 25
+Pokemon = SABLEYE, 25
+#-------------------------------
+[CHANNELER,Kate Weller]
+LoseText = AAAARRRRHHHH
+Pokemon = DUSKULL, 25
+Pokemon = SHUPPET, 25
+Pokemon = SABLEYE, 25
+#-------------------------------
+[LEADER_Misty,Eira]
+LoseText = You're sooo sexy!
+Pokemon = LUMINEON, 35
+Pokemon = LANTURN, 37
+Pokemon = RELICANTH, 36
+Pokemon = STARMIE, 36
+Pokemon = TENTACRUEL, 37
+Pokemon = MILOTIC, 40

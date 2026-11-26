@@ -104,6 +104,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Skateboard = true
+MapPosition = 0,14,10
 #-------------------------------
 [085]   # B2066 - Brighton to Hove
 Name = B2066
@@ -169,12 +170,14 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Skateboard = true
+DarkMap = true
 #-------------------------------
 [097]   # Cave 1F
 Name = Hove Cove Trove Alcove
 ShowArea = true
 Bicycle = true
 Skateboard = true
+DarkMap = true
 #-------------------------------
 [098]   # Poosticks
 Name = Poosticks
@@ -295,6 +298,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Skateboard = true
+Weather = Fog,100
 #-------------------------------
 [120]   # Borellis
 Name = Borelli's Walk

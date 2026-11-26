@@ -8050,3 +8050,53 @@ Overworld_BattleStarting:486:in `start'
 Interpreter:138:in `eval'
 Interpreter:138:in `execute_script'
 Interpreter_Commands:434:in `command_111'
+
+=================
+
+[2026-11-24 05:48:21 +0000]
+[Pokémon Essentials version 21.1]
+[v21.1 Hotfixes 1.0.9]
+
+Exception: RuntimeError
+Message: Undefined value fog in GameData::Weather
+File PBS/map_metadata.txt, section 119, key Weather
+fog
+
+
+
+Backtrace:
+396:Compiler:454:in `checkEnumField'
+[v21.1 Hotfixes] Compiler bug fixes.rb:53:in `cast_csv_value'
+396:Compiler:724:in `block (2 levels) in get_csv_record'
+396:Compiler:710:in `each'
+396:Compiler:710:in `block in get_csv_record'
+396:Compiler:708:in `loop'
+396:Compiler:708:in `get_csv_record'
+397:Compiler_CompilePBS:49:in `block (4 levels) in compile_PBS_file_generic'
+397:Compiler_CompilePBS:31:in `each_key'
+397:Compiler_CompilePBS:31:in `block (3 levels) in compile_PBS_file_generic'
+
+=================
+
+[2026-11-24 06:03:04 +0000]
+[Pokémon Essentials version 21.1]
+[v21.1 Hotfixes 1.0.9]
+
+Error in Plugin: [SpinTiles]
+Exception: SyntaxError
+Message: [SpinTiles] script.rb:197: syntax error, unexpected `else'
+        else
+        ^~~~
+
+
+Backtrace:
+Section008:635:in `eval'
+Section008:635:in `block (2 levels) in runPlugins'
+Section008:625:in `each'
+Section008:625:in `block in runPlugins'
+Section008:616:in `each'
+Section008:616:in `runPlugins'
+Section402:28:in `mainFunctionDebug'
+Section402:18:in `block in mainFunction'
+Section014:80:in `pbCriticalCode'
+Section402:18:in `mainFunction'

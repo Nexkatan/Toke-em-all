@@ -6634,30 +6634,30 @@ Flags = Fling_10,NaturalGift_POISON_100
 Description = You can't ride the train without a railcard... that would be a bad deal
 #-------------------------------
 [GUILDFORDBRIGHTON]
-Name = Guildford - Brighton
-NamePlural = Guildford - Brighton
-PortionName = Guildford - Brighton
-PortionNamePlural = Guildford - Brighton
+Name = Guildford - Brighton Ticket
+NamePlural = Guildford - Brighton Tickets
+PortionName = Guildford - Brighton Ticket
+PortionNamePlural = Guildford - Brighton Tickets
 Pocket = 1
 Price = 1
 Flags = Fling_10,NaturalGift_POISON_100
 Description = This allows travel between Guildford and Brighton
 #-------------------------------
 [GUILDFORDFARNHAM]
-Name = Guildford - Farnham
-NamePlural = Guildford - Farnham
-PortionName = Guildford - Farnham
-PortionNamePlural = Guildford - Farnham
+Name = Guildford - Farnham Ticket
+NamePlural = Guildford - Farnham Tickets
+PortionName = Guildford - Farnham Ticket
+PortionNamePlural = Guildford - Farnham Tickets
 Pocket = 1
 Price = 1
 Flags = Fling_10,NaturalGift_POISON_100
 Description = This allows 1 journey between Guildford and Farnham
 #-------------------------------
 [BRIGHTONGUILDFORD]
-Name = Brighton - Guildford
-NamePlural = Brighton - Guildford
-PortionName = Brighton - Guildford
-PortionNamePlural = Brighton - Guildford
+Name = Brighton - Guildford Ticket
+NamePlural = Brighton - Guildford Tickets
+PortionName = Brighton - Guildford Ticket
+PortionNamePlural = Brighton - Guildford Tickets
 Pocket = 1
 Price = 1
 Flags = Fling_10,NaturalGift_POISON_100
@@ -6674,20 +6674,20 @@ Flags = Fling_10,NaturalGift_POISON_100
 Description = This allows 1 journey between Brighton and Farnham
 #-------------------------------
 [FARNHAMGUILDFORD]
-Name = Farnham - Guildford
-NamePlural = Farnham - Guildford
-PortionName = Farnham - Guildford
-PortionNamePlural = Farnham - Guildford
+Name = Farnham - Guildford Ticket
+NamePlural = Farnham - Guildford Tickets
+PortionName = Farnham - Guildford Ticket
+PortionNamePlural = Farnham - Guildford Tickets
 Pocket = 1
 Price = 1
 Flags = Fling_10,NaturalGift_POISON_100
 Description = This allows 1 journey between Farnham and Guildford
 #-------------------------------
 [FARNHAMBRIGHTON]
-Name = Farnham - Brighton
-NamePlural = Farnham - Brighton
-PortionName = Farnham - Brighton
-PortionNamePlural = Farnham - Brighton
+Name = Farnham - Brighton Ticket
+NamePlural = Farnham - Brighton Tickets
+PortionName = Farnham - Brighton Ticket
+PortionNamePlural = Farnham - Brighton Tickets
 Pocket = 1
 Price = 1
 Flags = Fling_10,NaturalGift_POISON_100

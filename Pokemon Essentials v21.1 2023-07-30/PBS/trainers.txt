@@ -284,28 +284,28 @@ Pokemon = KINGLER, 25
 Pokemon = WAILMER, 25
 #-------------------------------
 [FISHERMAN,Connor Storey]
-LoseText = Wanna check out my nuts?
-Pokemon = SEAKING, 25
-Pokemon = FEEBAS, 25	
-Pokemon = HUNTAIL, 25
+LoseText = I'm a massive catch
+Pokemon = SEAKING, 24
+Pokemon = FEEBAS, 26	
+Pokemon = HUNTAIL, 23
 #-------------------------------
 [FISHERMAN,Hallam]
-LoseText = Wanna check out my nuts?
-Pokemon = REMORAID, 25
+LoseText = Oiiii nah?
+Pokemon = REMORAID, 23
 Pokemon = POLIWHIRL, 25	
-Pokemon = PSYDUCK, 25
+Pokemon = PSYDUCK, 23
 #-------------------------------
 [PICNICKER,Ella Millais]
 LoseText = I know you were there when Geoff dumped me
-Pokemon = GOLDEEN, 25
-Pokemon = VENONAT, 25
+Pokemon = GOLDEEN, 24
+Pokemon = VENONAT, 23
 Pokemon = SABLEYE, 25
 #-------------------------------
 [CHANNELER,Kate Weller]
 LoseText = AAAARRRRHHHH
-Pokemon = DUSKULL, 25
-Pokemon = SHUPPET, 25
-Pokemon = SABLEYE, 25
+Pokemon = DUSKULL, 22
+Pokemon = SHUPPET, 24
+Pokemon = SABLEYE, 23
 #-------------------------------
 [LEADER_Misty,Eira]
 LoseText = You're sooo sexy!
@@ -315,3 +315,10 @@ Pokemon = RELICANTH, 36
 Pokemon = STARMIE, 36
 Pokemon = TENTACRUEL, 37
 Pokemon = MILOTIC, 40
+#-------------------------------
+[CRUSHGIRL,April]
+LoseText = Barry Bros <3
+Pokemon = GROWLITHE, 23
+Pokemon = WEEZING, 25
+Pokemon = CROAGUNK, 24
+Pokemon = IVYSAUR, 23
